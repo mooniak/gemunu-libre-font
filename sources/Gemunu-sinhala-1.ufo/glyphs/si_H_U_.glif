@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_HU" format="1">
+  <advance width="590"/>
+  <outline>
+    <contour>
+      <point x="562" y="-159" type="line"/>
+      <point x="24" y="-159" type="line"/>
+      <point x="24" y="-53" type="line"/>
+      <point x="439" y="-53" type="line"/>
+      <point x="439" y="25" type="line"/>
+      <point x="511" y="25" type="line" smooth="yes"/>
+      <point x="539.667" y="25"/>
+      <point x="556.667" y="38"/>
+      <point x="562" y="64" type="curve"/>
+    </contour>
+    <component base="si_Ha"/>
+  </outline>
+</glyph>

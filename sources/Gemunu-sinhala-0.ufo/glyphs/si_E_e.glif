@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_Ee" format="1">
+  <advance width="534"/>
+  <unicode hex="0D92"/>
+  <outline>
+    <contour>
+      <point x="444.998" y="708" type="line"/>
+      <point x="482" y="708" type="line"/>
+      <point x="482" y="480" type="line"/>
+      <point x="444.999" y="480" type="line"/>
+    </contour>
+    <component base="si_E"/>
+  </outline>
+</glyph>
