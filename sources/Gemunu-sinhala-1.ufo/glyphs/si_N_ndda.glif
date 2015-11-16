@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_Nndda" format="1">
+  <advance width="700"/>
+  <unicode hex="0DAC"/>
+  <outline>
+    <contour>
+      <point x="158.998" y="384.001" type="line" smooth="yes"/>
+      <point x="146.598" y="384.001"/>
+      <point x="140.001" y="378"/>
+      <point x="140.001" y="360" type="curve" smooth="yes"/>
+      <point x="140.001" y="0" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="22" y="379.001" type="line" smooth="yes"/>
+      <point x="22" y="432.609"/>
+      <point x="56.2471" y="470.001"/>
+      <point x="108.4" y="470.001" type="curve" smooth="yes"/>
+      <point x="255.002" y="470" type="line"/>
+      <point x="214" y="384" type="line"/>
+    </contour>
+    <component base="si_Dda" xOffset="184.8" yOffset="4.47035e-08"/>
+  </outline>
+</glyph>

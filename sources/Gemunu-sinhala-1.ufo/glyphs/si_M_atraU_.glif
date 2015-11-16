@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_MatraU" format="1">
+  <advance width="2"/>
+  <unicode hex="0DD4"/>
+  <outline>
+    <contour>
+      <point x="-41.9121" y="-159" type="line"/>
+      <point x="-551.195" y="-159" type="line"/>
+      <point x="-551.195" y="-53" type="line"/>
+      <point x="-164.912" y="-53" type="line"/>
+      <point x="-164.912" y="25" type="line"/>
+      <point x="-92.9121" y="25" type="line" smooth="yes"/>
+      <point x="-64.2451" y="25"/>
+      <point x="-47.2451" y="38"/>
+      <point x="-41.9121" y="64" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
