@@ -19,8 +19,8 @@ family.set_masters(
         # 'devanagari_matra_i_variants',
     ],
 )
-family.masters[0]._file_name = 'GamunuLibre-Regular.ufo'
-family.masters[1]._file_name = 'GamunuLibre-ExtraBold.ufo'
+family.masters[0]._file_name = 'GemunuLibre-Regular.ufo'
+family.masters[1]._file_name = 'GemunuLibre-ExtraBold.ufo'
 
 family.set_styles([
     ('Regular',     0.0, 400),
