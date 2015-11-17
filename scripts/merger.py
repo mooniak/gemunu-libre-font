@@ -22,23 +22,20 @@ fontList=arguments[2:]
 
 print "Merging fonts..."
 print os.getcwd()
-NewUFO = Font()
-font_source = Font(fontList[0])
-for glyph_name in font_source.keys():
-    glyph = font_source[glyph_name]
-    NewUFO.insertGlyph(glyph)
-    print glyph_name,
-
-NewUFO.info.__dict__=font_source.info.__dict__
+new_ufo = Font()
+new_ufo = Font(fontList[0])
 
 for font in fontList[1:]:
     source= Font(font)
-    for glyph_name in ufoGlyphOrderSetter(NewUFO.keys(), source.keys()):
+    if source.kerning._dataOnDisk is not None:
+        pair_list=source.kerning.keys()
+        for pair in pair_list:
+            new_ufo.kerning[pair]=source.kerning[pair]
+    glyph_name_list=ufoGlyphOrderSetter(new_ufo.keys(), source.keys())
+    for glyph_name in glyph_name_list:
         glyph = source[glyph_name]
         print glyph_name,
-        NewUFO.insertGlyph(glyph)
-    newLib=[i for i in source.lib['public.glyphOrder'] if i not in NewUFO.lib['public.glyphOrder']]+NewUFO.lib['public.glyphOrder']
-    NewUFO.lib['public.glyphOrder']=newLib
+        new_ufo._glyphSet._insertGlyph(glyph)
 
-NewUFO.save(arguments[1])
+new_ufo.save(arguments[1])
 print "\nMerge complete!"
