@@ -2,6 +2,28 @@
 <glyph name="si_KRI" format="1">
   <advance width="592"/>
   <outline>
-    <component base="si_Ka"/>
+    <contour>
+      <point x="31.9902" y="-15.8076" type="line"/>
+      <point x="31.9902" y="-100.61" type="line" smooth="yes"/>
+      <point x="31.9902" y="-130.604"/>
+      <point x="48.9062" y="-144.808"/>
+      <point x="75.9902" y="-144.808" type="curve" smooth="yes"/>
+      <point x="514" y="-144.808" type="line" smooth="yes"/>
+      <point x="539.333" y="-144.808"/>
+      <point x="555" y="-133.373"/>
+      <point x="555" y="-101.808" type="curve" smooth="yes"/>
+      <point x="555" y="-15.8076" type="line"/>
+      <point x="430.995" y="-15.8076" type="line"/>
+      <point x="430.995" y="-32.8076" type="line" smooth="yes"/>
+      <point x="430.995" y="-45.6855"/>
+      <point x="430.279" y="-50.8086"/>
+      <point x="417.399" y="-50.8086" type="curve" smooth="yes"/>
+      <point x="168.99" y="-50.8086" type="line" smooth="yes"/>
+      <point x="157.657" y="-50.8086"/>
+      <point x="155.995" y="-44.8086"/>
+      <point x="155.995" y="-32.8086" type="curve" smooth="yes"/>
+      <point x="155.995" y="-15.8076" type="line"/>
+    </contour>
+    <component base="si_KI"/>
   </outline>
 </glyph>
