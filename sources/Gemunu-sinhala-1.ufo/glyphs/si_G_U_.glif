@@ -2,6 +2,7 @@
 <glyph name="si_GU" format="1">
   <advance width="592"/>
   <outline>
+    <component base="si_MatraU.alt" xOffset="582.6"/>
     <component base="si_Ga"/>
   </outline>
 </glyph>
