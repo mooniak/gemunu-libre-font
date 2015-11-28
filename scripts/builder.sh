@@ -11,11 +11,12 @@
 #!/bin/bash
 
 cd ../sources/sfd
-
+rm -rf ../Gemunu-sinhala-0.ufo ../Gemunu-sinhala-1.ufo
 python ../../scripts/fontconvert Gemunu-sinhala-0.sfd ../../sources --ufo
 python ../../scripts/fontconvert Gemunu-sinhala-1.sfd ../../sources --ufo
 
 cd ../../scripts
+rm -rf ../masters/*.ufo
 python merger.py ../masters/GemunuLibre-Regular.ufo ../sources/Gemunu-sinhala-0.ufo
 python merger.py ../masters/GemunuLibre-ExtraBold.ufo ../sources/Gemunu-sinhala-1.ufo
 
