@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_Ha" format="1">
-  <advance width="590"/>
+  <advance width="592"/>
   <unicode hex="0DC4"/>
   <outline>
     <contour>
@@ -69,8 +69,8 @@
       <point x="22" y="497" type="line"/>
       <point x="125" y="497" type="line" smooth="yes"/>
       <point x="168.332" y="497"/>
-      <point x="196" y="474.113"/>
-      <point x="196" y="431" type="curve" smooth="yes"/>
+      <point x="197.001" y="474.112"/>
+      <point x="197.001" y="431" type="curve" smooth="yes"/>
       <point x="197" y="253" type="line"/>
       <point x="169" y="253" type="line" smooth="yes"/>
       <point x="148.818" y="253"/>

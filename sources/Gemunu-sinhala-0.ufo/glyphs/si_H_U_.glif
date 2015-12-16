@@ -2,6 +2,17 @@
 <glyph name="si_HU" format="1">
   <advance width="590"/>
   <outline>
+    <contour>
+      <point x="537.999" y="-159" type="line"/>
+      <point x="24.7969" y="-159" type="line"/>
+      <point x="24.7969" y="-126.904" type="line"/>
+      <point x="500.911" y="-126.904" type="line"/>
+      <point x="500.911" y="35.8076" type="line"/>
+      <point x="505.911" y="35.8076" type="line" smooth="yes"/>
+      <point x="514.373" y="35.8076"/>
+      <point x="532.666" y="45.8076"/>
+      <point x="537.999" y="71.8076" type="curve"/>
+    </contour>
     <component base="si_Ha"/>
   </outline>
 </glyph>

@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_PhI" format="1">
-  <advance width="0"/>
+  <advance width="517"/>
+  <outline>
+    <contour>
+      <point x="226" y="484.814" type="line"/>
+      <point x="80" y="484.814" type="line" smooth="yes"/>
+      <point x="49" y="484.814"/>
+      <point x="34" y="499.814"/>
+      <point x="34" y="529.814" type="curve" smooth="yes"/>
+      <point x="34" y="684" type="line" smooth="yes"/>
+      <point x="34" y="714.667"/>
+      <point x="52.3387" y="736"/>
+      <point x="90" y="736" type="curve" smooth="yes"/>
+      <point x="459" y="736" type="line"/>
+      <point x="459" y="704.008" type="line"/>
+      <point x="103" y="704.008" type="line" smooth="yes"/>
+      <point x="79.564" y="704.008"/>
+      <point x="71.3994" y="695.461"/>
+      <point x="71.3994" y="676" type="curve" smooth="yes"/>
+      <point x="71.3994" y="538" type="line" smooth="yes"/>
+      <point x="71.3994" y="522.212"/>
+      <point x="77.397" y="516.814"/>
+      <point x="92" y="516.814" type="curve" smooth="yes"/>
+      <point x="226.002" y="516.814" type="line"/>
+    </contour>
+    <component base="si_Pha"/>
+  </outline>
 </glyph>

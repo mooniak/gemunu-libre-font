@@ -2,7 +2,7 @@
 <glyph name="si_TtU" format="1">
   <advance width="515"/>
   <outline>
-    <component base="si_MatraU" xOffset="527"/>
+    <component base="si_MatraU" xOffset="526.8"/>
     <component base="si_Tta"/>
   </outline>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="si_GUu" format="1">
   <advance width="592"/>
   <outline>
-    <component base="si_MatraUu.alt" xOffset="570.6"/>
+    <component base="si_MatraU.alt" xOffset="582.6"/>
     <component base="si_Ga"/>
   </outline>
 </glyph>

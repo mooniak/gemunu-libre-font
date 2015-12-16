@@ -2,7 +2,7 @@
 <glyph name="si_KUu" format="1">
   <advance width="592"/>
   <outline>
-    <component base="si_MatraUu.alt" xOffset="570.6"/>
+    <component base="si_MatraU.alt" xOffset="582.6"/>
     <component base="si_Ka"/>
   </outline>
 </glyph>

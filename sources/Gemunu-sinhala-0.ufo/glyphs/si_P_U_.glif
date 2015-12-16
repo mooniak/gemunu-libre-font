@@ -2,6 +2,7 @@
 <glyph name="si_PU" format="1">
   <advance width="509"/>
   <outline>
+    <component base="si_MatraU" xOffset="515"/>
     <component base="si_Pa"/>
   </outline>
 </glyph>

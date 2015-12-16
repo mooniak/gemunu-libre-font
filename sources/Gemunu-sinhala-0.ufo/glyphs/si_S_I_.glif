@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_SI" format="1">
-  <advance width="576"/>
+  <advance width="565"/>
   <outline>
     <contour>
       <point x="532" y="598.5" type="line" smooth="yes"/>
@@ -28,7 +28,6 @@
       <point x="494.999" y="523.5" type="curve"/>
       <point x="532" y="523.5" type="line"/>
     </contour>
-    <component base="si_Sa"/>
     <component base="si_Sa"/>
   </outline>
 </glyph>

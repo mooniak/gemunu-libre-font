@@ -2,6 +2,17 @@
 <glyph name="si_GhUu" format="1">
   <advance width="564"/>
   <outline>
+    <contour>
+      <point x="533.888" y="-159" type="line"/>
+      <point x="22" y="-159" type="line"/>
+      <point x="22" y="-53" type="line"/>
+      <point x="410.888" y="-53" type="line"/>
+      <point x="410.888" y="25" type="line"/>
+      <point x="482.888" y="25" type="line" smooth="yes"/>
+      <point x="511.555" y="25"/>
+      <point x="528.555" y="38"/>
+      <point x="533.888" y="64" type="curve"/>
+    </contour>
     <component base="si_Gha"/>
   </outline>
 </glyph>

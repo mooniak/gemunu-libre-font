@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_SU" format="1">
-  <advance width="576"/>
+  <advance width="564"/>
   <outline>
     <contour>
       <point x="534" y="-159" type="line"/>

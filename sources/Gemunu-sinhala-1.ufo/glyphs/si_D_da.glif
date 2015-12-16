@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_Dda" format="1">
-  <advance width="564"/>
+  <advance width="515"/>
   <unicode hex="0DA9"/>
   <outline>
     <contour>
@@ -21,13 +21,13 @@
       <point x="61.2197" y="256.309"/>
       <point x="40.8584" y="329.007"/>
       <point x="78" y="329.007" type="curve" smooth="yes"/>
-      <point x="168.05" y="329.007" type="line"/>
-      <point x="168.042" y="329.234"/>
-      <point x="168" y="352.007"/>
-      <point x="168" y="352.007" type="curve" smooth="yes"/>
-      <point x="168" y="362.007"/>
-      <point x="161.333" y="367.007"/>
-      <point x="148" y="367.007" type="curve" smooth="yes"/>
+      <point x="145.592" y="329.007" type="line"/>
+      <point x="145.584" y="329.234"/>
+      <point x="145.542" y="352.007"/>
+      <point x="145.542" y="352.007" type="curve" smooth="yes"/>
+      <point x="145.542" y="362.007"/>
+      <point x="138.875" y="367.007"/>
+      <point x="125.542" y="367.007" type="curve" smooth="yes"/>
       <point x="23" y="367.007" type="line"/>
       <point x="23" y="470.007" type="line"/>
       <point x="192" y="470.007" type="line" smooth="yes"/>

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_SU" format="1">
-  <advance width="576"/>
+  <advance width="565"/>
   <outline>
+    <contour>
+      <point x="510.001" y="-159" type="line"/>
+      <point x="24.7969" y="-159" type="line"/>
+      <point x="24.7969" y="-126.904" type="line"/>
+      <point x="472.913" y="-126.904" type="line"/>
+      <point x="472.913" y="35.8076" type="line"/>
+      <point x="477.913" y="35.8076" type="line" smooth="yes"/>
+      <point x="486.375" y="35.8076"/>
+      <point x="504.668" y="45.8076"/>
+      <point x="510.001" y="71.8076" type="curve"/>
+    </contour>
     <component base="si_Sa"/>
   </outline>
 </glyph>

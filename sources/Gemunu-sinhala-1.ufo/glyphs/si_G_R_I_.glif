@@ -2,7 +2,7 @@
 <glyph name="si_GRI" format="1">
   <advance width="636"/>
   <outline>
-    <component base="si_Rakar" xOffset="622.8"/>
-    <component base="si_GI"/>
+    <component base="si_Rakar" xOffset="623.2"/>
+    <component base="si_G.halant"/>
   </outline>
 </glyph>

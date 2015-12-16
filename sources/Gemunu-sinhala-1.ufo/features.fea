@@ -20,8 +20,8 @@ feature ordn {
 } ordn;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
-@GDEF_Simple = [\si_JnyAe \si_JnyAee \si_NyAe \si_NyAee \zwj \zwnj \si_B.halant 
-	\si_BI \si_BIi \si_BRI \si_BRIi \si_BRa \si_BU \si_BUu \si_Ba.reph \si_Bh.halant 
+@GDEF_Simple = [\si_JnyAe \si_JnyAee \si_NyAe \si_NyAee \zwnj \si_B.halant \si_BI 
+	\si_BIi \si_BRI \si_BRIi \si_BRa \si_BU \si_BUu \si_Ba.reph \si_Bh.halant 
 	\si_BhI \si_BhIi \si_BhRI \si_BhRIi \si_BhRa \si_BhU \si_BhUu \si_Bha.reph 
 	\si_C.halant \si_CI \si_CIi \si_CRI \si_CRIi \si_CRa \si_CU \si_CUu \si_Ca.reph 
 	\si_Ch.halant \si_ChI \si_ChIi \si_ChU \si_ChUu \si_D.halant \si_DAa 
@@ -74,8 +74,8 @@ feature ordn {
 	\si_TthU \si_TthUu \si_V.halant \si_VI \si_VIi \si_VRI \si_VRIi \si_VRa \si_VU 
 	\si_VUu \si_Va.reph \si_Y.halant \si_Y.post.halant \si_YI \si_YIi \si_YU 
 	\si_YU.post \si_YUu \si_YUu.post \si_YUu.post.reph \si_Ya.post 
-	\si_Ya.post.reph \si_Ya.reph \si_Yu.post.reph \uni0020 \anusvara \visarga 
-	\si_A \si_Aa \si_Ae \si_Aae \si_I \si_Ii \si_U \si_Uu \si_vocalicR \si_vocalicRr 
+	\si_Ya.post.reph \si_Ya.reph \si_Yu.post.reph \space \anusvara \visarga \si_A 
+	\si_Aa \si_Ae \si_Aae \si_I \si_Ii \si_U \si_Uu \si_vocalicR \si_vocalicRr 
 	\si_vocalicLL \si_E \si_Ee \si_Ai \si_Os \si_Oo \si_Au \si_Ka \si_Kha \si_Ga 
 	\si_Gha \si_Nga \si_Nnga \si_Ca \si_Cha \si_Ja \si_Jha \si_Nya \si_Jnya \si_Ndja 
 	\si_Tta \si_Ttha \si_Dda \si_Ddha \si_Nna \si_Nndda \si_Ta \si_Tha \si_Da \si_Dha 

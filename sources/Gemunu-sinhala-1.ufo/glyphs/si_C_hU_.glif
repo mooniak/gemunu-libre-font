@@ -2,6 +2,7 @@
 <glyph name="si_ChU" format="1">
   <advance width="513"/>
   <outline>
+    <component base="si_MatraU" xOffset="527"/>
     <component base="si_Cha"/>
   </outline>
 </glyph>
