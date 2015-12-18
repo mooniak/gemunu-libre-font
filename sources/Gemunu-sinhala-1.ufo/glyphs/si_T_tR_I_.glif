@@ -2,6 +2,28 @@
 <glyph name="si_TtRI" format="1">
   <advance width="515"/>
   <outline>
-    <component base="si_Tta"/>
+    <contour>
+      <point x="22.3896" y="-15.8076" type="line"/>
+      <point x="22.3896" y="-114.824" type="line" smooth="yes"/>
+      <point x="22.3896" y="-144.818"/>
+      <point x="39.3057" y="-159.021"/>
+      <point x="66.3896" y="-159.021" type="curve" smooth="yes"/>
+      <point x="442.199" y="-159.021" type="line" smooth="yes"/>
+      <point x="467.532" y="-159.021"/>
+      <point x="483.199" y="-147.587"/>
+      <point x="483.199" y="-116.021" type="curve" smooth="yes"/>
+      <point x="483.199" y="-15.8076" type="line"/>
+      <point x="359.194" y="-15.8076" type="line"/>
+      <point x="359.194" y="-35.0098" type="line" smooth="yes"/>
+      <point x="359.194" y="-47.8877"/>
+      <point x="358.479" y="-53.0107"/>
+      <point x="345.599" y="-53.0107" type="curve" smooth="yes"/>
+      <point x="159.39" y="-53.0107" type="line" smooth="yes"/>
+      <point x="148.057" y="-53.0107"/>
+      <point x="146.395" y="-47.0107"/>
+      <point x="146.395" y="-35.0107" type="curve" smooth="yes"/>
+      <point x="146.395" y="-15.8076" type="line"/>
+    </contour>
+    <component base="si_TtI"/>
   </outline>
 </glyph>

@@ -21,7 +21,7 @@
       <point x="252.587" y="568.667"/>
     </contour>
     <contour>
-      <point x="350.399" y="507" type="line"/>
+      <point x="324" y="507" type="curve" smooth="yes"/>
       <point x="218" y="507" type="line" smooth="yes"/>
       <point x="207" y="507"/>
       <point x="201" y="513"/>
@@ -41,6 +41,9 @@
       <point x="331.432" y="644.792"/>
       <point x="350.113" y="631.85"/>
       <point x="350.188" y="599" type="curve" smooth="yes"/>
+      <point x="350.347" y="530" type="line" smooth="yes"/>
+      <point x="350" y="517"/>
+      <point x="337" y="507"/>
     </contour>
     <component base="si_Cha"/>
   </outline>

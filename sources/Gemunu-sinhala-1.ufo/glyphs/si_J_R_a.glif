@@ -3,26 +3,26 @@
   <advance width="513"/>
   <outline>
     <contour>
-      <point x="40.5" y="-44" type="curve"/>
-      <point x="70" y="-44" type="line"/>
-      <point x="107.476" y="-86.958"/>
-      <point x="170.167" y="-114.25"/>
-      <point x="275.5" y="-114.25" type="curve" smooth="yes"/>
-      <point x="418.5" y="-114.25"/>
-      <point x="518" y="-31.0107"/>
-      <point x="518" y="63.25" type="curve" smooth="yes"/>
-      <point x="518" y="78.2842"/>
-      <point x="516.438" y="90.4463"/>
-      <point x="511" y="102" type="curve"/>
-      <point x="524" y="133" type="line"/>
-      <point x="542" y="106.333"/>
-      <point x="551" y="74.667"/>
-      <point x="551" y="38" type="curve" smooth="yes"/>
-      <point x="551" y="-123.729"/>
-      <point x="432.75" y="-219"/>
-      <point x="288.75" y="-219" type="curve" smooth="yes"/>
-      <point x="155.75" y="-219"/>
-      <point x="77.833" y="-153.333"/>
+      <point x="21.9902" y="-15.8076" type="line"/>
+      <point x="21.9902" y="-114.824" type="line" smooth="yes"/>
+      <point x="21.9902" y="-144.818"/>
+      <point x="38.9062" y="-159.021"/>
+      <point x="65.9902" y="-159.021" type="curve" smooth="yes"/>
+      <point x="443.802" y="-159.021" type="line" smooth="yes"/>
+      <point x="469.135" y="-159.021"/>
+      <point x="484.802" y="-147.587"/>
+      <point x="484.802" y="-116.021" type="curve" smooth="yes"/>
+      <point x="484.802" y="-15.8076" type="line"/>
+      <point x="360.797" y="-15.8076" type="line"/>
+      <point x="360.797" y="-35.0098" type="line" smooth="yes"/>
+      <point x="360.797" y="-47.8877"/>
+      <point x="360.081" y="-53.0107"/>
+      <point x="347.201" y="-53.0107" type="curve" smooth="yes"/>
+      <point x="158.99" y="-53.0107" type="line" smooth="yes"/>
+      <point x="147.657" y="-53.0107"/>
+      <point x="145.995" y="-47.0107"/>
+      <point x="145.995" y="-35.0107" type="curve" smooth="yes"/>
+      <point x="145.995" y="-15.8076" type="line"/>
     </contour>
     <component base="si_Ja"/>
   </outline>
