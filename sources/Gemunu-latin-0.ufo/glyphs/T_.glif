@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="600"/>
+  <advance width="390"/>
   <unicode hex="0054"/>
   <outline>
+    <contour>
+      <point x="218" y="635" type="line"/>
+      <point x="172" y="635" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="5" y="595" type="line"/>
+      <point x="385" y="595" type="line"/>
+      <point x="385" y="635" type="line"/>
+      <point x="5" y="635" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

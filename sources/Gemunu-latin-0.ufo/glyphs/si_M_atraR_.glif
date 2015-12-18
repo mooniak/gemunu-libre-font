@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_MatraR" format="1">
+  <advance width="346"/>
+  <unicode hex="0DD8"/>
+  <note>
+	si_MatraR
+  </note>
+  <outline>
+    <contour>
+      <point x="22" y="497" type="line"/>
+      <point x="22" y="465" type="line"/>
+      <point x="236" y="465" type="line" smooth="yes"/>
+      <point x="256" y="465"/>
+      <point x="261" y="459"/>
+      <point x="261" y="439" type="curve" smooth="yes"/>
+      <point x="261" y="323" type="line"/>
+      <point x="65" y="323" type="line" smooth="yes"/>
+      <point x="42" y="323"/>
+      <point x="22" y="310"/>
+      <point x="22" y="280" type="curve" smooth="yes"/>
+      <point x="22" y="42" type="line" smooth="yes"/>
+      <point x="22" y="14"/>
+      <point x="34" y="0"/>
+      <point x="59" y="0" type="curve" smooth="yes"/>
+      <point x="212" y="0" type="line" smooth="yes"/>
+      <point x="236" y="0"/>
+      <point x="255" y="15"/>
+      <point x="265" y="39" type="curve"/>
+      <point x="274" y="0" type="line"/>
+      <point x="298" y="0" type="line"/>
+      <point x="298" y="450" type="line" smooth="yes"/>
+      <point x="298" y="481"/>
+      <point x="282" y="497"/>
+      <point x="249" y="497" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="261" y="291" type="line"/>
+      <point x="261" y="139" type="line" smooth="yes"/>
+      <point x="261" y="66"/>
+      <point x="240" y="32"/>
+      <point x="188" y="32" type="curve" smooth="yes"/>
+      <point x="77" y="32" type="line" smooth="yes"/>
+      <point x="62" y="32"/>
+      <point x="59" y="36"/>
+      <point x="59" y="51" type="curve" smooth="yes"/>
+      <point x="59" y="269" type="line"/>
+      <point x="59" y="288"/>
+      <point x="64" y="291"/>
+      <point x="77" y="291" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

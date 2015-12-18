@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="224"/>
+  <advance width="252"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="182" y="0" type="line"/>
-      <point x="182" y="675" type="line"/>
-      <point x="42" y="675" type="line"/>
-      <point x="42" y="0" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="197" y="675" type="line"/>
+      <point x="55" y="675" type="line"/>
+      <point x="55" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>
