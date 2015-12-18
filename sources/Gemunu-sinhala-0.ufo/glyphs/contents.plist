@@ -735,6 +735,8 @@
     <key>si_TVU</key>
     <string>si_T_V_U_.glif</string>
     <key>si_TVUu</key>
+    <string>si_T_V_U_u.glif</string>
+    <key>si_TVa</key>
     <string>si_T_V_a.glif</string>
     <key>si_Ta.reph</key>
     <string>si_T_a.reph.glif</string>
@@ -836,7 +838,7 @@
     <string>si_Y_a.reph.glif</string>
     <key>si_Yu.post.reph</key>
     <string>si_Y_u.post.reph.glif</string>
-    <key>space</key>
+    <key>uni0020</key>
     <string>uni0020.glif</string>
     <key>anusvara</key>
     <string>anusvara.glif</string>

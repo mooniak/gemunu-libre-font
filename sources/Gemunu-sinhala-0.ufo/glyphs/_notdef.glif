@@ -2,6 +2,9 @@
 <glyph name=".notdef" format="1">
   <advance width="629"/>
   <lib>
-    <dict/>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
   </lib>
 </glyph>

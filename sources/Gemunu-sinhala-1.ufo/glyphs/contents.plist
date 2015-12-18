@@ -11,6 +11,8 @@
     <key>si_NyAe</key>
     <string>N_ameM_e.564.glif</string>
     <key>si_NyAee</key>
+    <string>N_ameM_e.565.glif</string>
+    <key>zwj</key>
     <string>zwj.glif</string>
     <key>zwnj</key>
     <string>zwnj.glif</string>
@@ -834,7 +836,7 @@
     <string>si_Y_a.reph.glif</string>
     <key>si_Yu.post.reph</key>
     <string>si_Y_u.post.reph.glif</string>
-    <key>space</key>
+    <key>uni0020</key>
     <string>space.glif</string>
     <key>anusvara</key>
     <string>anusvara.glif</string>
