@@ -1,4 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_NyRIi" format="1">
-  <advance width="0"/>
+  <advance width="1018"/>
+  <outline>
+    <contour>
+      <point x="857.62" y="582.198" type="line" smooth="yes"/>
+      <point x="847.62" y="582.198"/>
+      <point x="842.62" y="578.198"/>
+      <point x="842.62" y="570.198" type="curve" smooth="yes"/>
+      <point x="842.62" y="562.011" type="line" smooth="yes"/>
+      <point x="842.62" y="553.344"/>
+      <point x="847.953" y="549.011"/>
+      <point x="858.62" y="549.011" type="curve" smooth="yes"/>
+      <point x="880.401" y="549.011" type="line" smooth="yes"/>
+      <point x="891.068" y="549.011"/>
+      <point x="896.401" y="553.678"/>
+      <point x="896.401" y="563.011" type="curve" smooth="yes"/>
+      <point x="896.401" y="570.198" type="line" smooth="yes"/>
+      <point x="896.401" y="578.198"/>
+      <point x="890.734" y="582.198"/>
+      <point x="879.401" y="582.198" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="725.394" y="553.809" type="line" smooth="yes"/>
+      <point x="714.403" y="553.808"/>
+      <point x="712.398" y="547.809"/>
+      <point x="712.398" y="535.809" type="curve" smooth="yes"/>
+      <point x="712.398" y="511" type="line"/>
+      <point x="588.394" y="511" type="line"/>
+      <point x="588.394" y="595.803" type="line" smooth="yes"/>
+      <point x="588.394" y="625.797"/>
+      <point x="604.613" y="640.011"/>
+      <point x="631.604" y="640.011" type="curve" smooth="yes"/>
+      <point x="946.402" y="640.012" type="line" smooth="yes"/>
+      <point x="973.882" y="640.012"/>
+      <point x="988.401" y="626.66"/>
+      <point x="988.401" y="600" type="curve" smooth="yes"/>
+      <point x="988.401" y="540.996" type="line" smooth="yes"/>
+      <point x="988.401" y="521"/>
+      <point x="978.399" y="510.996"/>
+      <point x="958.401" y="510.996" type="curve" smooth="yes"/>
+      <point x="777.62" y="510.994" type="line" smooth="yes"/>
+      <point x="754.345" y="510.994"/>
+      <point x="749.62" y="520.251"/>
+      <point x="749.62" y="531.996" type="curve" smooth="yes"/>
+      <point x="749.62" y="545.801" type="line" smooth="yes"/>
+      <point x="749.62" y="550.332"/>
+      <point x="750.438" y="552.81"/>
+      <point x="752.02" y="553.801" type="curve"/>
+    </contour>
+    <component base="si_NyRa"/>
+  </outline>
 </glyph>

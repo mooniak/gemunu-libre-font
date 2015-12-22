@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_NnU" format="1">
-  <advance width="0"/>
+  <advance width="845"/>
+  <outline>
+    <contour>
+      <point x="813.889" y="-159" type="line"/>
+      <point x="250" y="-159" type="line"/>
+      <point x="250" y="-53" type="line"/>
+      <point x="690.889" y="-53" type="line"/>
+      <point x="690.889" y="28.6035" type="line"/>
+      <point x="762.889" y="28.6035" type="line" smooth="yes"/>
+      <point x="791.556" y="28.6035"/>
+      <point x="808.556" y="41.6035"/>
+      <point x="813.889" y="67.6035" type="curve"/>
+    </contour>
+    <component base="si_Nna"/>
+  </outline>
 </glyph>

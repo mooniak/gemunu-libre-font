@@ -2,54 +2,7 @@
 <glyph name="si_Gha.reph" format="1">
   <advance width="564"/>
   <outline>
-    <contour>
-      <point x="534.006" y="-158.999" type="line"/>
-      <point x="417.406" y="-158.999" type="line"/>
-      <point x="409.852" y="-151.036"/>
-      <point x="401.939" y="-141.535"/>
-      <point x="394.211" y="-136.201" type="curve" smooth="yes"/>
-      <point x="384.04" y="-129.182"/>
-      <point x="372.52" y="-129.002"/>
-      <point x="362.411" y="-129.002" type="curve"/>
-      <point x="336.405" y="-129.002" type="line"/>
-      <point x="324.43" y="-129.002"/>
-      <point x="312.596" y="-129.478"/>
-      <point x="294" y="-137" type="curve"/>
-      <point x="248" y="-153" type="line"/>
-      <point x="234.936" y="-157.679"/>
-      <point x="217" y="-162.805"/>
-      <point x="189" y="-162.805" type="curve" smooth="yes"/>
-      <point x="70.001" y="-162.805" type="line" smooth="yes"/>
-      <point x="37.5869" y="-162.805"/>
-      <point x="22" y="-150.575"/>
-      <point x="22" y="-122.002" type="curve" smooth="yes"/>
-      <point x="22" y="-29.0029" type="line"/>
-      <point x="139" y="-29.0029" type="line"/>
-      <point x="139" y="-51.002" type="line" smooth="yes"/>
-      <point x="139" y="-62.2861"/>
-      <point x="143.868" y="-69.0029"/>
-      <point x="155.805" y="-69.0029" type="curve" smooth="yes"/>
-      <point x="194.794" y="-69.0029" type="line" smooth="yes"/>
-      <point x="207.794" y="-69.0029"/>
-      <point x="226.387" y="-65.3271"/>
-      <point x="244" y="-59" type="curve"/>
-      <point x="279" y="-47" type="line"/>
-      <point x="298.456" y="-39.2598"/>
-      <point x="318.554" y="-39.002"/>
-      <point x="334.201" y="-39.002" type="curve"/>
-      <point x="364.42" y="-39.002" type="line"/>
-      <point x="374.381" y="-39.002"/>
-      <point x="391.443" y="-39.1924"/>
-      <point x="399.616" y="-45.002" type="curve" smooth="yes"/>
-      <point x="405.423" y="-49.1299"/>
-      <point x="406.257" y="-50.2412"/>
-      <point x="411.004" y="-55.002" type="curve"/>
-      <point x="411.004" y="14" type="line"/>
-      <point x="489.006" y="14" type="line" smooth="yes"/>
-      <point x="515.006" y="14"/>
-      <point x="530.006" y="28"/>
-      <point x="534.006" y="56" type="curve"/>
-    </contour>
+    <component base="si_Reph" xOffset="705.2"/>
     <component base="si_Gha"/>
   </outline>
 </glyph>

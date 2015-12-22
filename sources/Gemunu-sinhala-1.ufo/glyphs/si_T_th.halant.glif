@@ -29,7 +29,7 @@
     <contour>
       <point x="484.981" y="394" type="line"/>
       <point x="361.183" y="394" type="line"/>
-      <point x="361.381" y="439.614" type="line"/>
+      <point x="360.98" y="439.614" type="line"/>
       <point x="157.981" y="439.614" type="line" smooth="yes"/>
       <point x="124.689" y="439.614"/>
       <point x="112.198" y="450.586"/>

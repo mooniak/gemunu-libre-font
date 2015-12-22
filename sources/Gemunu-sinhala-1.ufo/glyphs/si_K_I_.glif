@@ -2,7 +2,7 @@
 <glyph name="si_KI" format="1">
   <advance width="592"/>
   <outline>
-    <component base="si_Halant" xOffset="596.4"/>
+    <component base="si_MatraI" xOffset="621"/>
     <component base="si_Ka"/>
   </outline>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="si_GRa" format="1">
   <advance width="592"/>
   <outline>
-    <component base="si_Reph" xOffset="726.2"/>
+    <component base="si_Rakar" xOffset="623.2"/>
     <component base="si_Ga"/>
   </outline>
 </glyph>

@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_DYu.post" format="1">
-  <advance width="0"/>
+  <advance width="617"/>
+  <outline>
+    <contour>
+      <point x="607.087" y="-261" type="line"/>
+      <point x="239.996" y="-261" type="line"/>
+      <point x="239.996" y="-196" type="line"/>
+      <point x="484.087" y="-196" type="line"/>
+      <point x="484.087" y="-143.396" type="line"/>
+      <point x="556.087" y="-143.396" type="line" smooth="yes"/>
+      <point x="584.754" y="-143.396"/>
+      <point x="601.754" y="-130.396"/>
+      <point x="607.087" y="-104.396" type="curve"/>
+    </contour>
+    <component base="si_DYa.post"/>
+  </outline>
 </glyph>

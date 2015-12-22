@@ -1,4 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_NnIi" format="1">
-  <advance width="0"/>
+  <advance width="845"/>
+  <outline>
+    <contour>
+      <point x="660" y="577.208" type="curve" smooth="yes"/>
+      <point x="660" y="542.208" type="line" smooth="yes"/>
+      <point x="660" y="536.875"/>
+      <point x="662.667" y="534.208"/>
+      <point x="668" y="534.208" type="curve" smooth="yes"/>
+      <point x="701" y="534.208" type="line" smooth="yes"/>
+      <point x="706.333" y="534.208"/>
+      <point x="709" y="536.875"/>
+      <point x="709" y="542.208" type="curve" smooth="yes"/>
+      <point x="709" y="577.208" type="line" smooth="yes"/>
+      <point x="709" y="581.875"/>
+      <point x="706.667" y="584.208"/>
+      <point x="702" y="584.208" type="curve" smooth="yes"/>
+      <point x="668" y="584.208" type="line" smooth="yes"/>
+      <point x="662.667" y="584.208"/>
+      <point x="660" y="581.875"/>
+    </contour>
+    <contour>
+      <point x="808" y="538" type="line" smooth="yes"/>
+      <point x="808" y="512.779"/>
+      <point x="788.515" y="504.208"/>
+      <point x="771" y="504.208" type="curve" smooth="yes"/>
+      <point x="592" y="504.208" type="line" smooth="yes"/>
+      <point x="574" y="504.208"/>
+      <point x="565" y="514.541"/>
+      <point x="565" y="535.208" type="curve" smooth="yes"/>
+      <point x="565" y="563.208" type="line"/>
+      <point x="497" y="563.208" type="line"/>
+      <point x="497" y="640.208" type="line"/>
+      <point x="770" y="640.208" type="line" smooth="yes"/>
+      <point x="797.794" y="640.208"/>
+      <point x="808" y="625.333"/>
+      <point x="808" y="606" type="curve" smooth="yes"/>
+    </contour>
+    <component base="si_Nna"/>
+  </outline>
 </glyph>

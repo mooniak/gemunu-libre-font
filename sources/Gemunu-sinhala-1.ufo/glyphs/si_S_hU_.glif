@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_ShU" format="1">
-  <advance width="0"/>
+  <advance width="592"/>
+  <outline>
+    <contour>
+      <point x="558" y="-53.1924" type="line"/>
+      <point x="558" y="-159.013" type="line"/>
+      <point x="389.795" y="-159.013" type="line" smooth="yes"/>
+      <point x="368.462" y="-159.013"/>
+      <point x="357.795" y="-149.013"/>
+      <point x="357.795" y="-129.013" type="curve" smooth="yes"/>
+      <point x="357.795" y="95.6025" type="line"/>
+      <point x="477.203" y="95.6025" type="line"/>
+      <point x="477.203" y="-34.1924" type="line" smooth="yes"/>
+      <point x="477.203" y="-47.8262"/>
+      <point x="478.752" y="-53.1924"/>
+      <point x="493.203" y="-53.1924" type="curve" smooth="yes"/>
+    </contour>
+    <component base="si_Sha"/>
+  </outline>
 </glyph>

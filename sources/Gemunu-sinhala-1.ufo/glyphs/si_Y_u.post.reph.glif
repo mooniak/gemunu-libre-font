@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_Yu.post.reph" format="1">
-  <advance width="0"/>
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="470" y="-159" type="line"/>
+      <point x="23" y="-159" type="line"/>
+      <point x="23" y="-53" type="line"/>
+      <point x="347" y="-53" type="line"/>
+      <point x="347" y="36.0107" type="line"/>
+      <point x="419" y="36.0107" type="line" smooth="yes"/>
+      <point x="447.667" y="36.0107"/>
+      <point x="464.667" y="49.0107"/>
+      <point x="470" y="75.0107" type="curve"/>
+    </contour>
+    <component base="si_Ya.post.reph"/>
+  </outline>
 </glyph>

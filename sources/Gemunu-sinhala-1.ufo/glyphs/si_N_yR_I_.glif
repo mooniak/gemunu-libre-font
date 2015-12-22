@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_NyRI" format="1">
-  <advance width="0"/>
+  <advance width="1018"/>
+  <outline>
+    <contour>
+      <point x="585.182" y="511" type="line"/>
+      <point x="585.182" y="595.803" type="line" smooth="yes"/>
+      <point x="585.182" y="625.797"/>
+      <point x="602.098" y="640"/>
+      <point x="629.182" y="640" type="curve" smooth="yes"/>
+      <point x="946" y="640" type="line" smooth="yes"/>
+      <point x="971.333" y="640"/>
+      <point x="987" y="628.565"/>
+      <point x="987" y="597" type="curve" smooth="yes"/>
+      <point x="987" y="511" type="line"/>
+      <point x="862.995" y="511" type="line"/>
+      <point x="862.995" y="528" type="line" smooth="yes"/>
+      <point x="862.995" y="540.878"/>
+      <point x="862.279" y="546.001"/>
+      <point x="849.399" y="546.001" type="curve" smooth="yes"/>
+      <point x="722.182" y="546.001" type="line" smooth="yes"/>
+      <point x="710.849" y="546.001"/>
+      <point x="709.187" y="540.001"/>
+      <point x="709.187" y="528.001" type="curve" smooth="yes"/>
+      <point x="709.187" y="511" type="line"/>
+    </contour>
+    <component base="si_NyRa"/>
+  </outline>
 </glyph>
