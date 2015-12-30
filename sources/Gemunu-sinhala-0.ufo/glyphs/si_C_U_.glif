@@ -2,7 +2,17 @@
 <glyph name="si_CU" format="1">
   <advance width="539"/>
   <outline>
-    <component base="si_MatraU" xOffset="559"/>
+    <contour>
+      <point x="496.992" y="-159" type="line"/>
+      <point x="68" y="-159" type="line"/>
+      <point x="68" y="-126.904" type="line"/>
+      <point x="459.904" y="-126.904" type="line"/>
+      <point x="459.904" y="28" type="line"/>
+      <point x="464.904" y="28" type="line" smooth="yes"/>
+      <point x="473.366" y="28"/>
+      <point x="491.659" y="38"/>
+      <point x="496.992" y="64" type="curve"/>
+    </contour>
     <component base="si_Ca"/>
   </outline>
 </glyph>

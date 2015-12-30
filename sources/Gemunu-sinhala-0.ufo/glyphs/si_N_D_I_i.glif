@@ -1,4 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_NDIi" format="1">
-  <advance width="0"/>
+  <advance width="849"/>
+  <outline>
+    <contour>
+      <point x="628.193" y="608" type="line" smooth="yes"/>
+      <point x="618.193" y="608"/>
+      <point x="613.193" y="604"/>
+      <point x="613.193" y="596" type="curve" smooth="yes"/>
+      <point x="613.193" y="556" type="line" smooth="yes"/>
+      <point x="613.193" y="547.333"/>
+      <point x="614.526" y="543"/>
+      <point x="625.193" y="543" type="curve" smooth="yes"/>
+      <point x="739.001" y="543" type="line" smooth="yes"/>
+      <point x="749.668" y="543"/>
+      <point x="751.001" y="547.667"/>
+      <point x="751.001" y="557" type="curve" smooth="yes"/>
+      <point x="751.001" y="592.196" type="line" smooth="yes"/>
+      <point x="751.001" y="602.605"/>
+      <point x="745.334" y="608"/>
+      <point x="734.001" y="608" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="460.794" y="608.008" type="line" smooth="yes"/>
+      <point x="451.193" y="607"/>
+      <point x="442.193" y="602"/>
+      <point x="442.193" y="590" type="curve" smooth="yes"/>
+      <point x="442.193" y="511" type="line"/>
+      <point x="405.388" y="511" type="line"/>
+      <point x="405.388" y="595.803" type="line" smooth="yes"/>
+      <point x="405.388" y="625.797"/>
+      <point x="422.999" y="640.011"/>
+      <point x="450.193" y="640.011" type="curve" smooth="yes"/>
+      <point x="745.801" y="640.012" type="line" smooth="yes"/>
+      <point x="773.601" y="640.012"/>
+      <point x="788" y="626.66"/>
+      <point x="788" y="600" type="curve" smooth="yes"/>
+      <point x="788" y="540.996" type="line" smooth="yes"/>
+      <point x="788" y="521"/>
+      <point x="777.998" y="510.996"/>
+      <point x="758" y="510.996" type="curve" smooth="yes"/>
+      <point x="603.79" y="510.994" type="line" smooth="yes"/>
+      <point x="580.515" y="510.994"/>
+      <point x="575.99" y="521.302"/>
+      <point x="575.99" y="537" type="curve" smooth="yes"/>
+      <point x="575.99" y="600" type="line" smooth="yes"/>
+      <point x="575.99" y="604.531"/>
+      <point x="576.808" y="607.009"/>
+      <point x="578.39" y="608" type="curve"/>
+    </contour>
+    <component base="si_NDa"/>
+  </outline>
 </glyph>

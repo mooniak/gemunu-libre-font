@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_TThI" format="1">
-  <advance width="0"/>
+  <advance width="915"/>
+  <outline>
+    <contour>
+      <point x="632.799" y="484.814" type="line"/>
+      <point x="486.799" y="484.814" type="line" smooth="yes"/>
+      <point x="455.799" y="484.814"/>
+      <point x="440.799" y="499.814"/>
+      <point x="440.799" y="529.814" type="curve" smooth="yes"/>
+      <point x="440.799" y="684" type="line" smooth="yes"/>
+      <point x="440.799" y="714.667"/>
+      <point x="459.138" y="736"/>
+      <point x="496.799" y="736" type="curve" smooth="yes"/>
+      <point x="865.799" y="736" type="line"/>
+      <point x="865.799" y="704.008" type="line"/>
+      <point x="509.799" y="704.008" type="line" smooth="yes"/>
+      <point x="486.363" y="704.008"/>
+      <point x="478.198" y="695.461"/>
+      <point x="478.198" y="676" type="curve" smooth="yes"/>
+      <point x="478.198" y="538" type="line" smooth="yes"/>
+      <point x="478.198" y="522.212"/>
+      <point x="484.196" y="516.814"/>
+      <point x="498.799" y="516.814" type="curve" smooth="yes"/>
+      <point x="632.801" y="516.814" type="line"/>
+    </contour>
+    <component base="si_TtTha"/>
+  </outline>
 </glyph>

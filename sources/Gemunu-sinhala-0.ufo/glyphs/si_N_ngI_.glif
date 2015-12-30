@@ -2,6 +2,7 @@
 <glyph name="si_NngI" format="1">
   <advance width="759"/>
   <outline>
+    <component base="si_MatraI" xOffset="755.2"/>
     <component base="si_Nnga"/>
   </outline>
 </glyph>

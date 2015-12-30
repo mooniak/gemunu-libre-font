@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_MbU" format="1">
-  <advance width="0"/>
+  <advance width="515"/>
+  <outline>
+    <component base="si_MatraU" xOffset="514"/>
+    <component base="si_Mba"/>
+  </outline>
 </glyph>

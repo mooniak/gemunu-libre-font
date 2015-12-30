@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_SsUu" format="1">
-  <advance width="0"/>
+  <advance width="512"/>
+  <outline>
+    <component base="si_MatraUu" xOffset="525"/>
+    <component base="si_Ssa"/>
+  </outline>
 </glyph>

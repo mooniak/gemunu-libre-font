@@ -1,4 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_Ma.reph" format="1">
-  <advance width="0"/>
+  <advance width="517"/>
+  <outline>
+    <contour>
+      <point x="208.997" y="659.598" type="line"/>
+      <point x="247" y="659.598" type="line"/>
+      <point x="247" y="566" type="line" smooth="yes"/>
+      <point x="247" y="538.822"/>
+      <point x="235.509" y="529"/>
+      <point x="216" y="529" type="curve" smooth="yes"/>
+      <point x="116.606" y="529" type="line" smooth="yes"/>
+      <point x="90.1426" y="529"/>
+      <point x="76.6064" y="542.896"/>
+      <point x="76.6064" y="575" type="curve" smooth="yes"/>
+      <point x="76.6064" y="668.207" type="line" smooth="yes"/>
+      <point x="76.6064" y="696.944"/>
+      <point x="93.8555" y="716.207"/>
+      <point x="130.606" y="716.207" type="curve" smooth="yes"/>
+      <point x="322" y="716.207" type="line" smooth="yes"/>
+      <point x="355.445" y="716.207"/>
+      <point x="373" y="699.386"/>
+      <point x="373" y="660.207" type="curve" smooth="yes"/>
+      <point x="373" y="533.603" type="line"/>
+      <point x="336.002" y="533.603" type="line"/>
+      <point x="336.002" y="655.806" type="line" smooth="yes"/>
+      <point x="336.002" y="675.583"/>
+      <point x="329.771" y="684.204"/>
+      <point x="316" y="684.204" type="curve" smooth="yes"/>
+      <point x="135.606" y="684.204" type="line" smooth="yes"/>
+      <point x="123.006" y="684.204"/>
+      <point x="113.614" y="677.9"/>
+      <point x="113.614" y="662.806" type="curve" smooth="yes"/>
+      <point x="113.614" y="580.599" type="line" smooth="yes"/>
+      <point x="113.614" y="567.926"/>
+      <point x="116.859" y="560.391"/>
+      <point x="128.606" y="560.391" type="curve" smooth="yes"/>
+      <point x="196.206" y="560.391" type="line" smooth="yes"/>
+      <point x="207.471" y="560.391"/>
+      <point x="208.997" y="565.724"/>
+      <point x="208.997" y="576.391" type="curve" smooth="yes"/>
+    </contour>
+    <component base="si_Ma"/>
+  </outline>
 </glyph>

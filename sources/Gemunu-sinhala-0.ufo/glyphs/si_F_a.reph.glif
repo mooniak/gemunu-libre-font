@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_Fa.reph" format="1">
-  <advance width="0"/>
+  <advance width="564"/>
+  <outline>
+    <component base="si_Reph" xOffset="710.6"/>
+    <component base="si_Fa"/>
+  </outline>
 </glyph>

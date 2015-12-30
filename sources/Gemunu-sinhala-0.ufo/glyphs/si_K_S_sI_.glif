@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_KSsI" format="1">
-  <advance width="0"/>
+  <advance width="918"/>
+  <outline>
+    <contour>
+      <point x="432.198" y="511" type="line"/>
+      <point x="432.198" y="595.803" type="line" smooth="yes"/>
+      <point x="432.198" y="625.797"/>
+      <point x="449.114" y="640"/>
+      <point x="476.198" y="640" type="curve" smooth="yes"/>
+      <point x="828.603" y="640" type="line" smooth="yes"/>
+      <point x="853.936" y="640"/>
+      <point x="869.603" y="628.565"/>
+      <point x="869.603" y="597" type="curve" smooth="yes"/>
+      <point x="869.603" y="511" type="line"/>
+      <point x="832.602" y="511" type="line"/>
+      <point x="832.602" y="587" type="line" smooth="yes"/>
+      <point x="832.602" y="599.878"/>
+      <point x="827.437" y="608.006"/>
+      <point x="812.603" y="608.006" type="curve" smooth="yes"/>
+      <point x="487.208" y="608.006" type="line" smooth="yes"/>
+      <point x="474.094" y="608.006"/>
+      <point x="469.004" y="600"/>
+      <point x="469.004" y="588" type="curve" smooth="yes"/>
+      <point x="469.004" y="511" type="line"/>
+    </contour>
+    <component base="si_KSsa"/>
+  </outline>
 </glyph>

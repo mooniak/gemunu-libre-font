@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_Ch.halant" format="1">
-  <advance width="0"/>
+  <advance width="513"/>
+  <outline>
+    <contour>
+      <point x="218.809" y="477.786" type="curve"/>
+      <point x="218.809" y="649" type="line"/>
+      <point x="255.599" y="649" type="line"/>
+      <point x="255.599" y="462.798" type="line"/>
+      <point x="249.693" y="468.584"/>
+      <point x="228.988" y="477.786"/>
+    </contour>
+    <component base="si_Cha"/>
+  </outline>
 </glyph>

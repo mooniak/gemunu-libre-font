@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_NDRI" format="1">
-  <advance width="0"/>
+  <advance width="849"/>
+  <outline>
+    <contour>
+      <point x="411.799" y="511" type="line"/>
+      <point x="411.799" y="595.803" type="line" smooth="yes"/>
+      <point x="411.799" y="625.797"/>
+      <point x="428.715" y="640"/>
+      <point x="455.799" y="640" type="curve" smooth="yes"/>
+      <point x="754.604" y="640" type="line" smooth="yes"/>
+      <point x="779.938" y="640"/>
+      <point x="795.604" y="628.565"/>
+      <point x="795.604" y="597" type="curve" smooth="yes"/>
+      <point x="795.604" y="511" type="line"/>
+      <point x="758.604" y="511" type="line"/>
+      <point x="758.604" y="587" type="line" smooth="yes"/>
+      <point x="758.604" y="599.878"/>
+      <point x="753.438" y="608.006"/>
+      <point x="738.604" y="608.006" type="curve" smooth="yes"/>
+      <point x="466.809" y="608.006" type="line" smooth="yes"/>
+      <point x="453.694" y="608.006"/>
+      <point x="448.604" y="600"/>
+      <point x="448.604" y="588" type="curve" smooth="yes"/>
+      <point x="448.604" y="511" type="line"/>
+    </contour>
+    <component base="si_NDRa"/>
+  </outline>
 </glyph>

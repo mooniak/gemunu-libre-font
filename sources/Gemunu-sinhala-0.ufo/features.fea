@@ -67,8 +67,8 @@ feature ordn {
 	\si_Ss.halant \si_SsI \si_SsIi \si_SsRI \si_SsRIi \si_SsRa \si_SsU \si_SsUu 
 	\si_Ssa.reph \si_T.halant \si_TI \si_TIi \si_TRI \si_TRIi \si_TRa \si_TThI 
 	\si_TThIi \si_TThU \si_TThUu \si_TTha \si_TU \si_TUu \si_TV.halant \si_TVI 
-	\si_TVIi \si_TVU \si_TVUu \si_Ta.reph \si_Th.halant \si_ThI \si_ThIi \si_ThU 
-	\si_ThUu \si_Tha.reph \si_Tt.halant \si_TtI \si_TtIi \si_TtRI \si_TtRIi 
+	\si_TVIi \si_TVU \si_TVUu \si_TVa \si_Ta.reph \si_Th.halant \si_ThI \si_ThIi 
+	\si_ThU \si_ThUu \si_Tha.reph \si_Tt.halant \si_TtI \si_TtIi \si_TtRI \si_TtRIi 
 	\si_TtRa \si_TtTh.halant \si_TtThI \si_TtThIi \si_TtThU \si_TtThUu \si_TtTha 
 	\si_TtU \si_TtUu \si_TtVa \si_Tta.reph \si_Tth.halant \si_TthI \si_TthIi 
 	\si_TthU \si_TthUu \si_V.halant \si_VI \si_VIi \si_VRI \si_VRIi \si_VRa \si_VU 

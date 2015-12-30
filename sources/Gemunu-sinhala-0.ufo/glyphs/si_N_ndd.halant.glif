@@ -2,6 +2,20 @@
 <glyph name="si_Nndd.halant" format="1">
   <advance width="697"/>
   <outline>
-    <component base="si_Nndda"/>
+    <contour>
+      <point x="116.602" y="412.6" type="line" smooth="yes"/>
+      <point x="76.8906" y="412.6"/>
+      <point x="59" y="400.34"/>
+      <point x="59" y="359.6" type="curve" smooth="yes"/>
+      <point x="59" y="0" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="22" y="371.6" type="line" smooth="yes"/>
+      <point x="22" y="423.766"/>
+      <point x="58.8516" y="444.6"/>
+      <point x="105.4" y="444.6" type="curve" smooth="yes"/>
+      <point x="281.614" y="444.6" type="line"/>
+      <point x="211.614" y="412.6" type="line"/>
+    </contour>
+    <component base="si_Dd.halant" xOffset="182" yOffset="-7"/>
   </outline>
 </glyph>

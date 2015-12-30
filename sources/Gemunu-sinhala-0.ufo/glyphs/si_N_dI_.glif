@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_NdI" format="1">
-  <advance width="538"/>
+  <advance width="620"/>
   <outline>
     <contour>
-      <point x="119.08" y="518" type="curve" smooth="yes"/>
-      <point x="119.08" y="618.564"/>
-      <point x="210.303" y="671"/>
-      <point x="307" y="671" type="curve" smooth="yes"/>
-      <point x="403.697" y="671"/>
-      <point x="494.92" y="617.064"/>
-      <point x="494.92" y="518" type="curve" smooth="yes"/>
-      <point x="494.92" y="440.818"/>
-      <point x="427.756" y="402.233"/>
-      <point x="372.09" y="401" type="curve"/>
-      <point x="360.09" y="422" type="line"/>
-      <point x="418.057" y="422.005"/>
-      <point x="464.63" y="459.235"/>
-      <point x="464.63" y="509" type="curve" smooth="yes"/>
-      <point x="464.63" y="570.685"/>
-      <point x="379.016" y="598"/>
-      <point x="307" y="598" type="curve" smooth="yes"/>
-      <point x="234.984" y="598"/>
-      <point x="150.12" y="573.424"/>
-      <point x="150.12" y="509" type="curve" smooth="yes"/>
-      <point x="150.12" y="460.729"/>
-      <point x="192.77" y="425"/>
-      <point x="278" y="425" type="curve"/>
-      <point x="234.91" y="405" type="line"/>
-      <point x="168.951" y="414.727"/>
-      <point x="119.08" y="450.955"/>
+      <point x="180.597" y="511" type="line"/>
+      <point x="180.597" y="595.803" type="line" smooth="yes"/>
+      <point x="180.597" y="625.797"/>
+      <point x="197.513" y="640"/>
+      <point x="224.597" y="640" type="curve" smooth="yes"/>
+      <point x="523.402" y="640" type="line" smooth="yes"/>
+      <point x="548.735" y="640"/>
+      <point x="564.402" y="628.565"/>
+      <point x="564.402" y="597" type="curve" smooth="yes"/>
+      <point x="564.402" y="511" type="line"/>
+      <point x="527.401" y="511" type="line"/>
+      <point x="527.401" y="587" type="line" smooth="yes"/>
+      <point x="527.401" y="599.878"/>
+      <point x="522.236" y="608.006"/>
+      <point x="507.402" y="608.006" type="curve" smooth="yes"/>
+      <point x="235.606" y="608.006" type="line" smooth="yes"/>
+      <point x="222.492" y="608.006"/>
+      <point x="217.402" y="600"/>
+      <point x="217.402" y="588" type="curve" smooth="yes"/>
+      <point x="217.402" y="511" type="line"/>
     </contour>
     <component base="si_Nda"/>
   </outline>

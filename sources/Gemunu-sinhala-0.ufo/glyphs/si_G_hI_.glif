@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_GhI" format="1">
-  <advance width="576"/>
+  <advance width="562"/>
   <outline>
     <contour>
-      <point x="102.5" y="517" type="curve" smooth="yes"/>
-      <point x="102.5" y="625.291"/>
-      <point x="215.121" y="670"/>
-      <point x="334.5" y="670" type="curve" smooth="yes"/>
-      <point x="453.879" y="670"/>
-      <point x="566.5" y="625.291"/>
-      <point x="566.5" y="517" type="curve" smooth="yes"/>
-      <point x="566.5" y="442.457"/>
-      <point x="500.357" y="407.074"/>
-      <point x="423.5" y="404" type="curve"/>
-      <point x="452" y="430" type="line"/>
-      <point x="476.387" y="432.386"/>
-      <point x="532.5" y="453"/>
-      <point x="532.5" y="508" type="curve" smooth="yes"/>
-      <point x="532.5" y="579.089"/>
-      <point x="423.408" y="597"/>
-      <point x="334.5" y="597" type="curve" smooth="yes"/>
-      <point x="245.592" y="597"/>
-      <point x="136.5" y="579.089"/>
-      <point x="136.5" y="508" type="curve" smooth="yes"/>
-      <point x="136.5" y="453"/>
-      <point x="190.272" y="433.937"/>
-      <point x="216" y="429" type="curve"/>
-      <point x="245.5" y="404" type="line"/>
-      <point x="168.643" y="407.074"/>
-      <point x="102.5" y="442.457"/>
+      <point x="22.1943" y="511" type="line"/>
+      <point x="22.1943" y="595.803" type="line" smooth="yes"/>
+      <point x="22.1943" y="625.797"/>
+      <point x="39.1104" y="640"/>
+      <point x="66.1943" y="640" type="curve" smooth="yes"/>
+      <point x="466" y="640" type="line" smooth="yes"/>
+      <point x="491.332" y="640"/>
+      <point x="507" y="628.565"/>
+      <point x="507" y="597" type="curve" smooth="yes"/>
+      <point x="507" y="511" type="line"/>
+      <point x="469.999" y="511" type="line"/>
+      <point x="469.999" y="587" type="line" smooth="yes"/>
+      <point x="469.999" y="599.878"/>
+      <point x="464.834" y="608.006"/>
+      <point x="450" y="608.006" type="curve" smooth="yes"/>
+      <point x="77.2041" y="608.006" type="line" smooth="yes"/>
+      <point x="64.0898" y="608.006"/>
+      <point x="59" y="600"/>
+      <point x="59" y="588" type="curve" smooth="yes"/>
+      <point x="59" y="511" type="line"/>
     </contour>
     <component base="si_Gha"/>
   </outline>

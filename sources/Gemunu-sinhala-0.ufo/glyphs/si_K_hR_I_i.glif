@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_KhRIi" format="1">
-  <advance width="517"/>
+  <advance width="518"/>
   <outline>
-    <component base="si_Kha"/>
+    <contour>
+      <point x="22.1943" y="-21" type="line"/>
+      <point x="22.1943" y="-105.803" type="line" smooth="yes"/>
+      <point x="22.1943" y="-135.797"/>
+      <point x="39.1104" y="-150"/>
+      <point x="66.1943" y="-150" type="curve" smooth="yes"/>
+      <point x="418.806" y="-150" type="line" smooth="yes"/>
+      <point x="444.139" y="-150"/>
+      <point x="459.806" y="-138.565"/>
+      <point x="459.806" y="-107" type="curve" smooth="yes"/>
+      <point x="459.806" y="-21" type="line"/>
+      <point x="422.805" y="-21" type="line"/>
+      <point x="422.805" y="-97" type="line" smooth="yes"/>
+      <point x="422.805" y="-109.878"/>
+      <point x="417.64" y="-118.006"/>
+      <point x="402.806" y="-118.006" type="curve" smooth="yes"/>
+      <point x="77.2041" y="-118.006" type="line" smooth="yes"/>
+      <point x="64.0898" y="-118.006"/>
+      <point x="59" y="-110"/>
+      <point x="59" y="-98" type="curve" smooth="yes"/>
+      <point x="59" y="-21" type="line"/>
+    </contour>
+    <component base="si_KhIi"/>
   </outline>
 </glyph>

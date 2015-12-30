@@ -1,4 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_FUu" format="1">
-  <advance width="0"/>
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="511.001" y="-158.999" type="line"/>
+      <point x="480.199" y="-158.999" type="line"/>
+      <point x="474.999" y="-149.728"/>
+      <point x="463.531" y="-138.132"/>
+      <point x="455.803" y="-132.798" type="curve" smooth="yes"/>
+      <point x="445.632" y="-125.778"/>
+      <point x="427.609" y="-119.993"/>
+      <point x="408.799" y="-119.993" type="curve"/>
+      <point x="333.001" y="-119.993" type="line"/>
+      <point x="315.343" y="-119.993"/>
+      <point x="294.841" y="-127.5"/>
+      <point x="282.412" y="-132.599" type="curve"/>
+      <point x="234.804" y="-152.402" type="line"/>
+      <point x="219.132" y="-158.382"/>
+      <point x="190.318" y="-162.805"/>
+      <point x="156.007" y="-162.805" type="curve" smooth="yes"/>
+      <point x="71.2041" y="-162.805" type="line" smooth="yes"/>
+      <point x="38.79" y="-162.805"/>
+      <point x="23.2031" y="-150.575"/>
+      <point x="23.2031" y="-122.002" type="curve" smooth="yes"/>
+      <point x="23.2031" y="-29.0029" type="line"/>
+      <point x="60.001" y="-29.0029" type="line"/>
+      <point x="60.001" y="-112.604" type="line" smooth="yes"/>
+      <point x="60.001" y="-123.889"/>
+      <point x="64.8691" y="-130.605"/>
+      <point x="76.8057" y="-130.605" type="curve" smooth="yes"/>
+      <point x="161.801" y="-130.605" type="line" smooth="yes"/>
+      <point x="182.77" y="-130.605"/>
+      <point x="208.597" y="-127.924"/>
+      <point x="232.001" y="-119.002" type="curve"/>
+      <point x="271.207" y="-103.399" type="line"/>
+      <point x="284.173" y="-98.0723"/>
+      <point x="308.601" y="-91.5957"/>
+      <point x="330.797" y="-91.5957" type="curve"/>
+      <point x="413.01" y="-91.5957" type="line"/>
+      <point x="434.702" y="-91.5957"/>
+      <point x="454.147" y="-97.3721"/>
+      <point x="462.409" y="-102.801" type="curve" smooth="yes"/>
+      <point x="468.363" y="-106.713"/>
+      <point x="469.05" y="-107.64"/>
+      <point x="473.797" y="-112.4" type="curve"/>
+      <point x="473.797" y="35" type="line"/>
+      <point x="486.995" y="35" type="line" smooth="yes"/>
+      <point x="492.563" y="35"/>
+      <point x="507.001" y="49"/>
+      <point x="511.001" y="77" type="curve"/>
+    </contour>
+    <component base="si_Fa"/>
+  </outline>
 </glyph>

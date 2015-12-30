@@ -7,12 +7,12 @@
       <point x="429" y="486" type="curve"/>
       <point x="291.999" y="486.4" type="line"/>
       <point x="301.851" y="493.377"/>
-      <point x="312.739" y="498.216"/>
+      <point x="313" y="498.099"/>
       <point x="331" y="532" type="curve" smooth="yes"/>
-      <point x="391" y="643" type="line"/>
-      <point x="524" y="643" type="line"/>
+      <point x="391" y="643.198" type="line"/>
+      <point x="524" y="643.198" type="line"/>
       <point x="465.996" y="524" type="line" smooth="yes"/>
-      <point x="455.392" y="502.245"/>
+      <point x="455.539" y="502.185"/>
       <point x="437.587" y="489.982"/>
     </contour>
     <contour>

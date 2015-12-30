@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_YI" format="1">
-  <advance width="0"/>
+  <advance width="565"/>
+  <outline>
+    <contour>
+      <point x="22.1943" y="511" type="line"/>
+      <point x="22.1943" y="595.803" type="line" smooth="yes"/>
+      <point x="22.1943" y="625.797"/>
+      <point x="39.1104" y="640"/>
+      <point x="66.1943" y="640" type="curve" smooth="yes"/>
+      <point x="468.997" y="640" type="line" smooth="yes"/>
+      <point x="494.33" y="640"/>
+      <point x="509.997" y="628.565"/>
+      <point x="509.997" y="597" type="curve" smooth="yes"/>
+      <point x="509.997" y="511" type="line"/>
+      <point x="472.996" y="511" type="line"/>
+      <point x="472.996" y="587" type="line" smooth="yes"/>
+      <point x="472.996" y="599.878"/>
+      <point x="467.831" y="608.006"/>
+      <point x="452.997" y="608.006" type="curve" smooth="yes"/>
+      <point x="77.2041" y="608.006" type="line" smooth="yes"/>
+      <point x="64.0898" y="608.006"/>
+      <point x="59" y="600"/>
+      <point x="59" y="588" type="curve" smooth="yes"/>
+      <point x="59" y="511" type="line"/>
+    </contour>
+    <component base="si_Ya"/>
+  </outline>
 </glyph>

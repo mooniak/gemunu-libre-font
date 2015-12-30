@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_R.halant" format="1">
-  <advance width="0"/>
+  <advance width="451"/>
+  <outline>
+    <contour>
+      <point x="21.998" y="423" type="curve"/>
+      <point x="21.998" y="663.606" type="line"/>
+      <point x="58.9883" y="663.606" type="line"/>
+      <point x="58.9883" y="412" type="line"/>
+      <point x="53.7901" y="418.689"/>
+      <point x="42.8262" y="423"/>
+    </contour>
+    <component base="si_Ra"/>
+  </outline>
 </glyph>

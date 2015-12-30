@@ -1,4 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_DU" format="1">
-  <advance width="0"/>
+  <advance width="458"/>
+  <outline>
+    <contour>
+      <point x="408.002" y="-159.001" type="line"/>
+      <point x="22.002" y="-159.001" type="line"/>
+      <point x="22.001" y="-126.811" type="line"/>
+      <point x="371.009" y="-126.811" type="line"/>
+      <point x="371.009" y="10" type="line"/>
+      <point x="408.002" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="408" y="0.000976562" type="line"/>
+      <point x="66.2002" y="0" type="line" smooth="yes"/>
+      <point x="32.2002" y="-0"/>
+      <point x="22" y="17.9258"/>
+      <point x="22" y="49.5996" type="curve" smooth="yes"/>
+      <point x="22" y="295.998" type="line" smooth="yes"/>
+      <point x="22" y="336.654"/>
+      <point x="43.1064" y="352.998"/>
+      <point x="80" y="352.998" type="curve" smooth="yes"/>
+      <point x="366.796" y="352.998" type="line"/>
+      <point x="366.795" y="436" type="line" smooth="yes"/>
+      <point x="366.795" y="457.285"/>
+      <point x="358.271" y="465"/>
+      <point x="340" y="465" type="curve" smooth="yes"/>
+      <point x="22" y="465" type="line"/>
+      <point x="22" y="497.001" type="line"/>
+      <point x="351" y="497" type="line" smooth="yes"/>
+      <point x="384.564" y="497"/>
+      <point x="404" y="480.913"/>
+      <point x="404" y="444" type="curve" smooth="yes"/>
+      <point x="404" y="321.001" type="line"/>
+      <point x="91" y="321" type="line" smooth="yes"/>
+      <point x="66.6045" y="321"/>
+      <point x="59" y="311.276"/>
+      <point x="59" y="290" type="curve" smooth="yes"/>
+      <point x="59" y="58.001" type="line" smooth="yes"/>
+      <point x="59" y="38.1592"/>
+      <point x="67.0479" y="32"/>
+      <point x="82.2002" y="32" type="curve" smooth="yes"/>
+      <point x="408" y="32.001" type="line"/>
+    </contour>
+  </outline>
 </glyph>
