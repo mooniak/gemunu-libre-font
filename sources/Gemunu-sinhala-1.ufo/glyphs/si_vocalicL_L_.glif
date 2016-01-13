@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si_vocalicLL" format="1">
-  <advance width="869"/>
+  <advance width="1231"/>
   <unicode hex="0D90"/>
   <outline>
     <contour>
@@ -111,6 +111,7 @@
       <point x="325" y="578.801"/>
       <point x="325" y="538" type="curve" smooth="yes"/>
     </contour>
+    <component base="si_MatraLl" xOffset="868"/>
     <component base="si_Pa" xOffset="177"/>
   </outline>
 </glyph>
