@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="1">
-  <advance width="600"/>
+  <advance width="528"/>
   <unicode hex="00F7"/>
   <outline>
+    <contour>
+      <point x="483" y="239" type="line"/>
+      <point x="483" y="339" type="line"/>
+      <point x="45" y="339" type="line"/>
+      <point x="45" y="239" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="30" type="line"/>
+      <point x="321" y="159" type="line"/>
+      <point x="207" y="159" type="line"/>
+      <point x="207" y="30" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="419" type="line"/>
+      <point x="321" y="548" type="line"/>
+      <point x="207" y="548" type="line"/>
+      <point x="207" y="419" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>635</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 1997-2015 Pushpananda Ekanayake (http://isiwara.lk), Copyright (c) 2015 mooniak (http://mooniak.com)
+	<string>Copyright (c) 1997-2016 Pushpananda Ekanayake (http://isiwara.lk), Copyright (c) 2016 mooniak (http://mooniak.com), 2016 Sol Matas (sol@sonnenshine.com.ar)
 </string>
 	<key>descender</key>
 	<integer>-190</integer>
@@ -16,7 +16,7 @@
 	<key>license</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/10/01 22:39:15</string>
+	<string>2015/10/01 21:39:15</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Gemunu-Latin</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -63,10 +63,12 @@
 	<integer>-102</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>51</integer>
+	<key>styleMapFamilyName</key>
+	<string>Gemunu-Latin Extra Light</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Extra Light</string>
 	<key>unitsPerEm</key>
 	<integer>1024</integer>
 	<key>vendorID</key>

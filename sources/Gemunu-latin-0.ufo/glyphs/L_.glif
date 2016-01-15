@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="396"/>
+  <advance width="386"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
@@ -11,6 +11,15 @@
       <point x="75" y="635" type="line"/>
       <point x="75" y="0" type="line"/>
       <point x="381" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="615" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="193" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="366" y="615" type="move" name="topright"/>
     </contour>
   </outline>
   <lib>
@@ -114,7 +123,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>396</integer>
+          <integer>386</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

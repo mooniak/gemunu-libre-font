@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threequarters" format="1">
-  <advance width="600"/>
+  <advance width="748"/>
   <unicode hex="00BE"/>
   <outline>
+    <component base="threesuperior"/>
+    <component base="fraction" xOffset="177"/>
+    <component base="foursuperior" xOffset="384" yOffset="-249"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>three.numr</string>
+      <string>three</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>three.numr</string>
+      <string>four</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

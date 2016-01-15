@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="1">
-  <advance width="600"/>
+  <advance width="357"/>
   <unicode hex="0165"/>
   <outline>
+    <component base="t"/>
+    <component base="quoteright" xOffset="214" yOffset="119" xScale="0.9" yScale="0.9"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

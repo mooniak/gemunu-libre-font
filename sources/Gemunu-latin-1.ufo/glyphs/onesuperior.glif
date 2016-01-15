@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="1">
-  <advance width="600"/>
+  <advance width="333"/>
   <unicode hex="00B9"/>
   <outline>
-    <component base="one"/>
+    <contour>
+      <point x="313" y="344" type="line"/>
+      <point x="42" y="344" type="line"/>
+      <point x="42" y="249" type="line"/>
+      <point x="313" y="249" type="line"/>
+    </contour>
+    <contour>
+      <point x="12" y="551" type="line"/>
+      <point x="59" y="467" type="line"/>
+      <point x="154" y="521" type="line"/>
+      <point x="139" y="529" type="line"/>
+      <point x="139" y="249" type="line"/>
+      <point x="255" y="249" type="line"/>
+      <point x="255" y="635" type="line"/>
+      <point x="148" y="635" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>one</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>one</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="1">
-  <advance width="600"/>
+  <advance width="577"/>
   <unicode hex="0058"/>
   <outline>
+    <contour>
+      <point x="320" y="396" type="line" smooth="yes"/>
+      <point x="316" y="386"/>
+      <point x="313" y="383"/>
+      <point x="304" y="383" type="curve" smooth="yes"/>
+      <point x="278" y="383" type="line" smooth="yes"/>
+      <point x="268" y="383"/>
+      <point x="266" y="386"/>
+      <point x="262" y="396" type="curve" smooth="yes"/>
+      <point x="167" y="635" type="line"/>
+      <point x="12" y="635" type="line"/>
+      <point x="103" y="414" type="line" smooth="yes"/>
+      <point x="138" y="328"/>
+      <point x="160" y="304"/>
+      <point x="265" y="304" type="curve" smooth="yes"/>
+      <point x="314" y="304" type="line" smooth="yes"/>
+      <point x="419" y="304"/>
+      <point x="429" y="323"/>
+      <point x="470" y="413" type="curve" smooth="yes"/>
+      <point x="571" y="635" type="line"/>
+      <point x="424" y="635" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="309"/>
+      <point x="414" y="334"/>
+      <point x="309" y="334" type="curve" smooth="yes"/>
+      <point x="261" y="334" type="line" smooth="yes"/>
+      <point x="156" y="334"/>
+      <point x="147" y="313"/>
+      <point x="105" y="224" type="curve" smooth="yes"/>
+      <point x="-2" y="0" type="line"/>
+      <point x="146" y="0" type="line"/>
+      <point x="255" y="241" type="line" smooth="yes"/>
+      <point x="260" y="251"/>
+      <point x="262" y="254"/>
+      <point x="271" y="254" type="curve" smooth="yes"/>
+      <point x="297" y="254" type="line" smooth="yes"/>
+      <point x="306" y="254"/>
+      <point x="308" y="252"/>
+      <point x="313" y="241" type="curve" smooth="yes"/>
+      <point x="423" y="0" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="471" y="223" type="line" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
+      <integer>3</integer>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>258</integer>
+          <key>y</key>
+          <integer>653</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>319</integer>
+          <key>y</key>
+          <integer>653</integer>
+        </dict>
+      </array>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

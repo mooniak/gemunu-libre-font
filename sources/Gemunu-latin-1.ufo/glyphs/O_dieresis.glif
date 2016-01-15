@@ -3,5 +3,15 @@
   <advance width="600"/>
   <unicode hex="00D6"/>
   <outline>
+    <component base="O"/>
+    <component base="dieresis" xOffset="104" yOffset="135"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

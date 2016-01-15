@@ -5,7 +5,14 @@
 	<key>C</key>
 	<dict>
 		<key>A</key>
-		<integer>5</integer>
+		<integer>8</integer>
+	</dict>
+	<key>K</key>
+	<dict>
+		<key>A</key>
+		<integer>-10</integer>
+		<key>O</key>
+		<integer>-20</integer>
 	</dict>
 	<key>L</key>
 	<dict>
@@ -14,15 +21,36 @@
 		<key>T</key>
 		<integer>-60</integer>
 	</dict>
+	<key>O</key>
+	<dict>
+		<key>Y</key>
+		<integer>-20</integer>
+	</dict>
 	<key>T</key>
 	<dict>
 		<key>A</key>
 		<integer>-30</integer>
+		<key>bullet</key>
+		<integer>-40</integer>
 	</dict>
 	<key>V</key>
 	<dict>
 		<key>A</key>
 		<integer>-25</integer>
+	</dict>
+	<key>Y</key>
+	<dict>
+		<key>O</key>
+		<integer>-20</integer>
+		<key>a</key>
+		<integer>-60</integer>
+		<key>o</key>
+		<integer>-50</integer>
+	</dict>
+	<key>colon</key>
+	<dict>
+		<key>slash</key>
+		<integer>-20</integer>
 	</dict>
 	<key>f</key>
 	<dict>
@@ -33,13 +61,32 @@
 	</dict>
 	<key>r</key>
 	<dict>
+		<key>a</key>
+		<integer>-27</integer>
+		<key>f</key>
+		<integer>10</integer>
+		<key>fi</key>
+		<integer>10</integer>
+		<key>fl</key>
+		<integer>10</integer>
 		<key>g</key>
 		<integer>-15</integer>
+		<key>t</key>
+		<integer>5</integer>
+	</dict>
+	<key>slash</key>
+	<dict>
+		<key>slash</key>
+		<integer>-100</integer>
 	</dict>
 	<key>t</key>
 	<dict>
 		<key>f</key>
-		<integer>15</integer>
+		<integer>5</integer>
+		<key>fi</key>
+		<integer>5</integer>
+		<key>fl</key>
+		<integer>5</integer>
 		<key>t</key>
 		<integer>7</integer>
 	</dict>

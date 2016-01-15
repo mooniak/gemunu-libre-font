@@ -9,6 +9,12 @@
       <point x="90" y="635" type="line"/>
       <point x="90" y="0" type="line"/>
     </contour>
+    <contour>
+      <point x="136" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="113" y="615" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

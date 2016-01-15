@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="1">
-  <advance width="600"/>
+  <advance width="180"/>
   <unicode hex="0027"/>
   <outline>
+    <contour>
+      <point x="35" y="441" type="line"/>
+      <point x="35" y="691" type="line"/>
+      <point x="135" y="691" type="line"/>
+      <point x="135" y="584" type="line"/>
+      <point x="97" y="441" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>136</integer>
+          <key>y</key>
+          <integer>441</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,7 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni20BA" format="1">
-  <advance width="600"/>
+  <advance width="501"/>
   <unicode hex="20BA"/>
   <outline>
+    <contour>
+      <point x="356" y="-2" type="line" smooth="yes"/>
+      <point x="426" y="-3"/>
+      <point x="456" y="18"/>
+      <point x="456" y="88" type="curve" smooth="yes"/>
+      <point x="456" y="257" type="line"/>
+      <point x="409" y="257" type="line"/>
+      <point x="409" y="48" type="line" smooth="yes"/>
+      <point x="409" y="43"/>
+      <point x="406" y="41"/>
+      <point x="402" y="41" type="curve" smooth="yes"/>
+      <point x="159" y="41" type="line"/>
+      <point x="172" y="28" type="line"/>
+      <point x="172" y="245" type="line"/>
+      <point x="162" y="235" type="line"/>
+      <point x="332" y="298" type="line"/>
+      <point x="332" y="335" type="line"/>
+      <point x="162" y="272" type="line"/>
+      <point x="172" y="258" type="line"/>
+      <point x="172" y="351" type="line"/>
+      <point x="162" y="341" type="line"/>
+      <point x="332" y="404" type="line"/>
+      <point x="332" y="441" type="line"/>
+      <point x="162" y="378" type="line"/>
+      <point x="172" y="364" type="line"/>
+      <point x="172" y="600" type="line"/>
+      <point x="125" y="600" type="line"/>
+      <point x="125" y="358" type="line"/>
+      <point x="135" y="368" type="line"/>
+      <point x="40" y="334" type="line"/>
+      <point x="40" y="297" type="line"/>
+      <point x="135" y="331" type="line"/>
+      <point x="125" y="341" type="line"/>
+      <point x="125" y="252" type="line"/>
+      <point x="135" y="262" type="line"/>
+      <point x="40" y="228" type="line"/>
+      <point x="40" y="191" type="line"/>
+      <point x="135" y="225" type="line"/>
+      <point x="125" y="235" type="line"/>
+      <point x="125" y="0" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>95</integer>
+          <key>y</key>
+          <integer>600</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>move</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>334</integer>
+                  <key>y</key>
+                  <integer>292</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>38</integer>
+                  <key>y</key>
+                  <integer>184</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>38</integer>
+                  <key>y</key>
+                  <integer>220</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>334</integer>
+                  <key>y</key>
+                  <integer>328</integer>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>move</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>334</integer>
+                  <key>y</key>
+                  <integer>398</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>38</integer>
+                  <key>y</key>
+                  <integer>290</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>38</integer>
+                  <key>y</key>
+                  <integer>326</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>334</integer>
+                  <key>y</key>
+                  <integer>434</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni20BA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>501</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>
