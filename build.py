@@ -6,7 +6,7 @@ kit.confirm_version('0.2.1')
 # - - -
 
 family = kit.Family(
-    trademark = 'Gamunu Libre',
+    trademark = 'Gemunu Libre',
     script = 'Sinhala',
     hide_script_name = True,
 )
