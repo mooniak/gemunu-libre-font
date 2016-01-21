@@ -56,17 +56,5 @@
       <point x="435.001" y="518.001" type="line"/>
       <point x="333.001" y="518.001" type="line"/>
     </contour>
-    <contour>
-      <point x="50.9961" y="640.999" type="line"/>
-      <point x="50.9961" y="589.999" type="line"/>
-      <point x="94.9961" y="589.999" type="line"/>
-      <point x="94.9961" y="640.999" type="line"/>
-    </contour>
-    <contour>
-      <point x="362.001" y="590.001" type="line"/>
-      <point x="362.001" y="539.001" type="line"/>
-      <point x="406.001" y="539.001" type="line"/>
-      <point x="406.001" y="590.001" type="line"/>
-    </contour>
   </outline>
 </glyph>

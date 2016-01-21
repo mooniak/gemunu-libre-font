@@ -64,7 +64,7 @@
 	\si_VUu \si_Va \si_Va.reph \si_Y.halant \si_Y.post.halant \si_YI \si_YIi \si_YU 
 	\si_YU.post \si_YUu \si_YUu.post \si_YUu.post.reph \si_Ya \si_Ya.post 
 	\si_Ya.post.reph \si_Ya.reph \si_Yu.post.reph \si_kundaliya \si_vocalicLL 
-	\si_vocalicR \si_vocalicRr \space \visarga \zwj \zwnj ];
+	\si_vocalicR \si_vocalicRr \space \visarga \zwj \zwnj \si_vocalicL ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

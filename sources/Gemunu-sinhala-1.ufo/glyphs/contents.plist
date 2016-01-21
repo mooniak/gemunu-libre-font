@@ -1004,5 +1004,7 @@
     <string>zwj.glif</string>
     <key>zwnj</key>
     <string>zwnj.glif</string>
+    <key>si_vocalicL</key>
+    <string>si_vocalicL_.glif</string>
   </dict>
 </plist>
