@@ -1,0 +1,6752 @@
+SplineFontDB: 3.0
+FontName: AyannaNarrowTamil-ExtraBold
+FullName: AyannaNarrow
+FamilyName: ayanna-tamil
+OS2FamilyName: "ayanna-tamil tamil"
+OS2StyleName: "regular"
+Weight: Regular
+Copyright: Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
+Version: 2.5
+ItalicAngle: 0
+UnderlinePosition: -122
+UnderlineWidth: 0
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+UFOAscent: 800
+UFODescent: -200
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1452715129
+ModificationTime: 1452716854
+PfmFamily: 16
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 0 6 0 0 0 0 0 0 0
+OS2TypoAscent: 800
+OS2TypoAOffset: 0
+OS2TypoDescent: -200
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 522
+OS2WinAOffset: 0
+OS2WinDescent: 216
+OS2WinDOffset: 0
+HheadAscent: 528
+HheadAOffset: 0
+HheadDescent: -232
+HheadDOffset: 0
+OS2SubXSize: 841
+OS2SubYSize: 780
+OS2SubXOff: 0
+OS2SubYOff: 240
+OS2SupXSize: 841
+OS2SupYSize: 780
+OS2SupXOff: 0
+OS2SupYOff: 601
+OS2StrikeYSize: 60
+OS2StrikeYPos: 300
+OS2CapHeight: 0
+OS2XHeight: 0
+OS2Vendor: 'ACE '
+OS2CodePages: 00000001.00000000
+OS2UnicodeRanges: 80108003.00002042.00000000.00000000
+Lookup: 260 0 0 "'blwm' Below Base Mark in Tamil lookup 1" { "'blwm' Below Base Mark in Tamil lookup 1-1"  } ['blwm' ('DFLT' <'dflt' > 'taml' <'dflt' > ) ]
+Lookup: 260 0 0 "abvmAboveBaseMarkinTamillookup0" { "abvmAboveBaseMarkinTamillookup0 subtable"  } ['abvm' ('taml' <'dflt' > 'DFLT' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "+BY0ADQAA" "" "" "" "" "Version 2.5.0" "" "" "" "" "" "" "" "" "" "" "ayanna-tamil" "regular"
+PickledDataWithLists: "(dp1
+S'public.glyphOrder'
+p2
+(lp3
+S'tml_A'
+p4
+aS'tml_Aa'
+p5
+aS'tml_I'
+p6
+aS'tml_Ii'
+p7
+aS'tml_U'
+p8
+aS'tml_Uu'
+p9
+aS'tml_E'
+p10
+aS'tml_Ee'
+p11
+aS'tml_Ai'
+p12
+aS'tml_O'
+p13
+aS'tml_Oo'
+p14
+aS'tml_Au'
+p15
+aS'tml_Ka'
+p16
+aS'tml_Nga'
+p17
+aS'tml_Ca'
+p18
+aS'tml_Ja'
+p19
+aS'tml_Nya'
+p20
+aS'tml_Tta'
+p21
+aS'tml_Nna'
+p22
+aS'tml_Ta'
+p23
+aS'tml_Na'
+p24
+aS'tml_Nnna'
+p25
+aS'tml_Pa'
+p26
+aS'tml_Ma'
+p27
+aS'tml_Ya'
+p28
+aS'tml_Ra'
+p29
+aS'tml_Rra'
+p30
+aS'tml_La'
+p31
+aS'tml_Lla'
+p32
+aS'tml_Llla'
+p33
+aS'tml_Va'
+p34
+aS'tml_Sha'
+p35
+aS'tml_Ssa'
+p36
+aS'tml_Sa'
+p37
+aS'tml_Ha'
+p38
+aS'tml_Om'
+p39
+aS'tml_Visarga'
+p40
+aS'tml_Ten'
+p41
+aS'tml_Hundred'
+p42
+aS'tml_Thousand'
+p43
+aS'tml_Zero'
+p44
+aS'tml_One'
+p45
+aS'tml_Two'
+p46
+aS'tml_Three'
+p47
+aS'tml_Four'
+p48
+aS'tml_Five'
+p49
+aS'tml_Six'
+p50
+aS'tml_Seven'
+p51
+aS'tml_Eight'
+p52
+aS'tml_Nine'
+p53
+aS'space'
+p54
+aS'tml_Rupee'
+p55
+aS'tml_Day'
+p56
+aS'tml_Month'
+p57
+aS'tml_Year'
+p58
+aS'tml_Debit'
+p59
+aS'tml_Credit'
+p60
+aS'tml_Above'
+p61
+aS'tml_Number'
+p62
+aS'tml_MatraIi'
+p63
+aS'tml_Virama'
+p64
+aS'tml_Anusvara'
+p65
+aS'tml_MatraAa'
+p66
+aS'tml_MatraI'
+p67
+aS'tml_MatraU'
+p68
+aS'tml_MatraUu'
+p69
+aS'tml_MatraE'
+p70
+aS'tml_MatraEe'
+p71
+aS'tml_MatraAi'
+p72
+aS'tml_MatraO'
+p73
+aS'tml_MatraOo'
+p74
+aS'tml_MatraAu'
+p75
+aS'tml_AuLengthmark'
+p76
+aS'tml_CUu'
+p77
+aS'tml_CU'
+p78
+aS'tml_KSsa'
+p79
+aS'tml_KU'
+p80
+aS'tml_KUu'
+p81
+aS'tml_LllU'
+p82
+aS'tml_LllUu'
+p83
+aS'tml_LlUu'
+p84
+aS'tml_LlU'
+p85
+aS'tml_LU'
+p86
+aS'tml_LUu'
+p87
+aS'tml_MatraAi.alt'
+p88
+aS'tml_MatraI.alt1'
+p89
+aS'tml_MatraI.alt2'
+p90
+aS'tml_MatraI.alt3'
+p91
+aS'tml_MatraI.alt4'
+p92
+aS'tml_MatraI.alt5'
+p93
+aS'tml_MatraI.alt6'
+p94
+aS'tml_MatraI.stylalt1'
+p95
+aS'tml_MatraIi.alt1'
+p96
+aS'tml_MatraU.alt1'
+p97
+aS'tml_MatraIi.stylalt1'
+p98
+aS'tml_MU'
+p99
+aS'tml_MUu'
+p100
+aS'tml_NgUu'
+p101
+aS'tml_NnAa.alt'
+p102
+aS'tml_NnnAa.alt'
+p103
+aS'tml_NnnUu'
+p104
+aS'tml_NnnU'
+p105
+aS'tml_NnU'
+p106
+aS'tml_NnUu'
+p107
+aS'tml_NU'
+p108
+aS'tml_NUu'
+p109
+aS'tml_NyUu'
+p110
+aS'tml_NyU'
+p111
+aS'tml_PUu'
+p112
+aS'tml_RrAa.alt'
+p113
+aS'tml_RrUu'
+p114
+aS'tml_RrU'
+p115
+aS'tml_RU'
+p116
+aS'tml_RUu'
+p117
+aS'tml_Shree'
+p118
+aS'tml_TtI'
+p119
+aS'tml_TtU'
+p120
+aS'tml_TtIi'
+p121
+aS'tml_TU'
+p122
+aS'tml_TUu'
+p123
+aS'tml_TtUu'
+p124
+aS'tml_YUu'
+p125
+aS'tml_A.001'
+p126
+aS'tml_MatraIi.alt2'
+p127
+aS'newGlyph.001'
+p128
+aS'tml_KSsU'
+p129
+aS'tml_KSsUu'
+p130
+aS'tml_MatraI.alt7'
+p131
+aS'tml_MatraI.alt8'
+p132
+aS'tml_MatraIi.alt3'
+p133
+aS'tml_Sa.alt'
+p134
+aS'tml_SsU'
+p135
+aS'tml_SsUu'
+p136
+aS'tml_SUu'
+p137
+aS'tml_SU'
+p138
+aS'tml_VUu'
+p139
+aS'tml_RI.alt'
+p140
+aS'tml_RIi.alt'
+p141
+asS'com.typemytype.robofont.guides'
+p142
+(lp143
+(dp144
+S'y'
+I573
+sS'x'
+I279
+sS'angle'
+p145
+I0
+sS'isGlobal'
+p146
+I01
+sa(dp147
+S'y'
+I461
+sS'x'
+I223
+sg145
+I0
+sg146
+I01
+sa(dp148
+S'y'
+I-13
+sS'x'
+I1169
+sg145
+I0
+sg146
+I01
+sa(dp149
+S'y'
+I-267
+sS'x'
+I861
+sg145
+I0
+sg146
+I01
+sa(dp150
+S'y'
+I-350
+sS'x'
+I742
+sg145
+I0
+sg146
+I01
+sa(dp151
+S'y'
+I404
+sS'x'
+I1427
+sg145
+I0
+sg146
+I01
+sa(dp152
+S'y'
+I560
+sS'x'
+I813
+sg145
+I0
+sg146
+I01
+sasS'com.schriftgestaltung.fontMasterID'
+p153
+S'A6FF5082-DE18-4D2D-8E01-54AF1261B41D'
+p154
+sS'GSDimensionPlugin.Dimensions'
+p155
+(dp156
+S'E14DABE6-6E32-45CC-852E-073741854548'
+p157
+(dp158
+sS'A6FF5082-DE18-4D2D-8E01-54AF1261B41D'
+p159
+(dp160
+ssS'com.schriftgestaltung.useNiceNames'
+p161
+I0
+sS'com.schriftgestaltung.glyphOrder'
+p162
+(lp163
+S'tml_A'
+p164
+aS'tml_Aa'
+p165
+aS'tml_I'
+p166
+aS'tml_Ii'
+p167
+aS'tml_U'
+p168
+aS'tml_Uu'
+p169
+aS'tml_E'
+p170
+aS'tml_Ee'
+p171
+aS'tml_Ai'
+p172
+aS'tml_O'
+p173
+aS'tml_Oo'
+p174
+aS'tml_Au'
+p175
+aS'tml_Ka'
+p176
+aS'tml_Nga'
+p177
+aS'tml_Ca'
+p178
+aS'tml_Ja'
+p179
+aS'tml_Nya'
+p180
+aS'tml_Tta'
+p181
+aS'tml_Nna'
+p182
+aS'tml_Ta'
+p183
+aS'tml_Na'
+p184
+aS'tml_Nnna'
+p185
+aS'tml_Pa'
+p186
+aS'tml_Ma'
+p187
+aS'tml_Ya'
+p188
+aS'tml_Ra'
+p189
+aS'tml_Rra'
+p190
+aS'tml_La'
+p191
+aS'tml_Lla'
+p192
+aS'tml_Llla'
+p193
+aS'tml_Va'
+p194
+aS'tml_Sha'
+p195
+aS'tml_Ssa'
+p196
+aS'tml_Sa'
+p197
+aS'tml_Ha'
+p198
+aS'tml_Om'
+p199
+aS'tml_Visarga'
+p200
+aS'tml_Ten'
+p201
+aS'tml_Hundred'
+p202
+aS'tml_Thousand'
+p203
+aS'tml_Zero'
+p204
+aS'tml_One'
+p205
+aS'tml_Two'
+p206
+aS'tml_Three'
+p207
+aS'tml_Four'
+p208
+aS'tml_Five'
+p209
+aS'tml_Six'
+p210
+aS'tml_Seven'
+p211
+aS'tml_Eight'
+p212
+aS'tml_Nine'
+p213
+aS'space'
+p214
+aS'tml_Rupee'
+p215
+aS'tml_Day'
+p216
+aS'tml_Month'
+p217
+aS'tml_Year'
+p218
+aS'tml_Debit'
+p219
+aS'tml_Credit'
+p220
+aS'tml_Above'
+p221
+aS'tml_Number'
+p222
+aS'tml_MatraIi'
+p223
+aS'tml_Virama'
+p224
+aS'tml_Anusvara'
+p225
+aS'tml_MatraAa'
+p226
+aS'tml_MatraI'
+p227
+aS'tml_MatraU'
+p228
+aS'tml_MatraUu'
+p229
+aS'tml_MatraE'
+p230
+aS'tml_MatraEe'
+p231
+aS'tml_MatraAi'
+p232
+aS'tml_MatraO'
+p233
+aS'tml_MatraOo'
+p234
+aS'tml_MatraAu'
+p235
+aS'tml_AuLengthmark'
+p236
+aS'tml_CUu'
+p237
+aS'tml_CU'
+p238
+aS'tml_KSsa'
+p239
+aS'tml_KU'
+p240
+aS'tml_KUu'
+p241
+aS'tml_LllU'
+p242
+aS'tml_LllUu'
+p243
+aS'tml_LlUu'
+p244
+aS'tml_LlU'
+p245
+aS'tml_LU'
+p246
+aS'tml_LUu'
+p247
+aS'tml_MatraAi.alt'
+p248
+aS'tml_MatraI.alt1'
+p249
+aS'tml_MatraI.alt2'
+p250
+aS'tml_MatraI.alt3'
+p251
+aS'tml_MatraI.alt4'
+p252
+aS'tml_MatraI.alt5'
+p253
+aS'tml_MatraI.alt6'
+p254
+aS'tml_MatraI.stylalt1'
+p255
+aS'tml_MatraIi.alt1'
+p256
+aS'tml_MatraU.alt1'
+p257
+aS'tml_MatraIi.stylalt1'
+p258
+aS'tml_MU'
+p259
+aS'tml_MUu'
+p260
+aS'tml_NgUu'
+p261
+aS'tml_NnAa.alt'
+p262
+aS'tml_NnnAa.alt'
+p263
+aS'tml_NnnUu'
+p264
+aS'tml_NnnU'
+p265
+aS'tml_NnU'
+p266
+aS'tml_NnUu'
+p267
+aS'tml_NU'
+p268
+aS'tml_NUu'
+p269
+aS'tml_NyUu'
+p270
+aS'tml_NyU'
+p271
+aS'tml_PUu'
+p272
+aS'tml_RrAa.alt'
+p273
+aS'tml_RrUu'
+p274
+aS'tml_RrU'
+p275
+aS'tml_RU'
+p276
+aS'tml_RUu'
+p277
+aS'tml_Shree'
+p278
+aS'tml_TtI'
+p279
+aS'tml_TtU'
+p280
+aS'tml_TtIi'
+p281
+aS'tml_TU'
+p282
+aS'tml_TUu'
+p283
+aS'tml_TtUu'
+p284
+aS'tml_YUu'
+p285
+aS'tml_A.001'
+p286
+aS'tml_MatraIi.alt2'
+p287
+aS'newGlyph.001'
+p288
+asS'com.schriftgestaltung.weight'
+p289
+S'Bold'
+p290
+s."
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -96
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 50 10 9
+BeginPrivate: 3
+BlueShift 1 0
+StemSnapH 13 [34 35 36 64]
+StemSnapV 21 [8 10 34 35 36 37 64]
+EndPrivate
+AnchorClass2: "MatraUu" "'blwm' Below Base Mark in Tamil lookup 1-1" "MatraU.alt1" "'blwm' Below Base Mark in Tamil lookup 1-1" "MatraU" "'blwm' Below Base Mark in Tamil lookup 1-1" "MatraIi.alt3" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt4" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt3" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt5" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.alt2" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraAi.alt" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt8" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt7" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt6" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.alt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi.stylalt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.alt2" "abvmAboveBaseMarkinTamillookup0 subtable" "virama" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraI.stylalt1" "abvmAboveBaseMarkinTamillookup0 subtable" "MatraIi" "abvmAboveBaseMarkinTamillookup0 subtable" 
+BeginChars: 138 138
+
+StartChar: newGlyph.001
+Encoding: 0 -1 0
+GlifName: newG_lyph.001
+Width: 600
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: space
+Encoding: 1 32 1
+GlifName: space
+Width: 204
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+EndChar
+
+StartChar: tml_A
+Encoding: 2 2949 2
+GlifName: tml_A_
+Width: 905
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+738 -85 m 257
+ 738 559 l 257
+ 845 559 l 257
+ 845 -85 l 257
+ 738 -85 l 257
+332 328 m 256
+ 357 328 375 348 375 376 c 256
+ 375 402 357 420 332 420 c 256
+ 307 420 289 402 288 377 c 257
+ 234 379 l 257
+ 234 444 279 491 342 491 c 256
+ 410 491 459 441 459 373 c 256
+ 459 301 407 249 335 249 c 256
+ 257 249 201 300 201 384 c 256
+ 201 489 287 574 409 573 c 256
+ 592 572 672 420 672 262 c 256
+ 672 29 506 -104 296 -104 c 256
+ 122 -104 30 -28 30 76 c 256
+ 30 166 94 221 213 221 c 258
+ 796 221 l 257
+ 796 123 l 257
+ 220 123 l 258
+ 165 123 138 110 138 78 c 256
+ 138 33 186 0 299 0 c 256
+ 445 0 566 89 566 262 c 256
+ 566 369 521 482 411 482 c 256
+ 348 482 288 438 288 377 c 256
+ 288 349 306 328 332 328 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_A.001
+Encoding: 3 -1 3
+GlifName: tml_A_.001
+Width: 854
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+282 -106 m 256
+ 434 -106 508 7 508 171 c 256
+ 510 207 l 256
+ 510 388 475 524 334 524 c 256
+ 243 524 231 444 231 406 c 256
+ 231 371 245 346 275 346 c 256
+ 308 346 318 381 318 404 c 256
+ 318 436 299 458 275 458 c 256
+ 247 458 232 433 231 405 c 257
+ 177 417 l 257
+ 177 456 216 529 285 529 c 256
+ 331 529 402 501 402 401 c 256
+ 402 323 356 267 278 267 c 256
+ 194 267 144 333 144 422 c 256
+ 144 540 232 622 352 621 c 256
+ 579 619 619 399 619 220 c 256
+ 619 215 617 174 617 161 c 256
+ 615 -73 501 -210 276 -210 c 256
+ 75 -210 -1 -100 -1 12 c 256
+ -1 197 147 229 222 229 c 258
+ 715 229 l 257
+ 715 131 l 257
+ 219 131 l 258
+ 158 131 108 84 107 31 c 256
+ 106 -31 160 -106 282 -106 c 256
+  PathStart: -2
+697 -115 m 257
+ 697 562 l 257
+ 804 562 l 257
+ 804 -115 l 257
+ 697 -115 l 257
+EndSplineSet
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'=tml_Pa'
+p3
+s."
+EndChar
+
+StartChar: tml_Aa
+Encoding: 4 2950 4
+GlifName: tml_A_a
+Width: 1045
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+737 -85 m 257
+ 737 559 l 257
+ 844 559 l 257
+ 844 -85 l 257
+ 737 -85 l 257
+331 328 m 256
+ 356 328 374 348 374 376 c 256
+ 374 402 356 420 331 420 c 256
+ 306 420 288 402 287 377 c 257
+ 233 379 l 257
+ 233 444 278 491 341 491 c 256
+ 409 491 458 441 458 373 c 256
+ 458 301 406 249 334 249 c 256
+ 256 249 200 300 200 384 c 256
+ 200 489 286 574 408 573 c 256
+ 591 572 671 420 671 262 c 256
+ 671 29 505 -104 295 -104 c 256
+ 121 -104 29 -28 29 76 c 256
+ 29 166 93 221 212 221 c 258
+ 795 221 l 257
+ 795 123 l 257
+ 219 123 l 258
+ 164 123 137 110 137 78 c 256
+ 137 33 185 0 298 0 c 256
+ 444 0 565 89 565 262 c 256
+ 565 369 520 482 410 482 c 256
+ 347 482 287 438 287 377 c 256
+ 287 349 305 328 331 328 c 256
+  PathStart: -2
+879 68 m 256
+ 946 68 1015 19 1015 -98 c 256
+ 1015 -237 922 -349 737 -349 c 256
+ 589 -349 491 -276 491 -179 c 256
+ 491 -115 533 -59 602 -59 c 256
+ 678 -59 721 -109 721 -169 c 256
+ 721 -250 671 -279 608 -279 c 256
+ 574 -279 536 -251 530 -208 c 257
+ 569 -188 l 257
+ 572 -203 584 -215 602 -215 c 256
+ 623 -215 637 -200 637 -178 c 256
+ 637 -157 629 -138 602 -138 c 256
+ 579 -138 568 -156 568 -178 c 256
+ 568 -236 659 -264 727 -264 c 256
+ 860 -264 917 -191 917 -95 c 256
+ 917 -26 894 -12 872 -12 c 256
+ 854 -12 844 -25 844 -42 c 257
+ 788 10 l 257
+ 816 48 848 69 879 68 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_Above
+Encoding: 5 3064 5
+GlifName: tml_A_bove
+Width: 1277
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+353 756 m 256
+ 536 756 678 586 678 339 c 256
+ 678 140 624 0 506 0 c 256
+ 425 0 374 49 374 139 c 256
+ 374 289 464 404 606 404 c 256
+ 709 404 820 328 820 190 c 256
+ 820 157 811 125 797 97 c 257
+ 1069 97 l 258
+ 1073 97 1080 100 1080 107 c 256
+ 1080 114 1075 118 1070 121 c 258
+ 902 228 l 258
+ 862 253 838 288 839 335 c 256
+ 840 425 910 461 964 461 c 256
+ 1058 461 1099 376 1081 296 c 258
+ 981 -148 l 257
+ 879 -148 l 257
+ 979 300 l 258
+ 981 309 993 359 962 359 c 256
+ 945 359 938 345 938 337 c 256
+ 938 322 944 317 963 306 c 257
+ 1125 198 l 257
+ 1177 167 1180 131 1180 103 c 256
+ 1180 33 1127 0 1069 0 c 258
+ 674 0 l 257
+ 674 78 l 257
+ 698 108 720 138 720 186 c 256
+ 720 248 679 306 606 306 c 256
+ 501 306 472 212 472 147 c 256
+ 472 124 481 102 505 102 c 256
+ 559 102 571 275 571 337 c 256
+ 571 489 483 648 353 648 c 256
+ 168 648 125 389 143 180 c 256
+ 147 130 160 69 198 69 c 256
+ 240 69 252 125 252 183 c 256
+ 252 251 236 302 200 302 c 256
+ 167 302 143 260 143 181 c 257
+ 74 232 l 257
+ 74 294 110 402 206 402 c 256
+ 301 402 350 305 350 175 c 256
+ 350 50 290 -29 195 -29 c 256
+ 77 -29 29 127 29 297 c 256
+ 29 579 168 756 353 756 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_Ai
+Encoding: 6 2960 6
+GlifName: tml_A_i
+Width: 749
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+33 21 m 256
+ 33 202 233 229 368 240 c 256
+ 485 250 614 277 614 395 c 256
+ 614 445 585 485 545 485 c 256
+ 499 485 446 431 445 299 c 257
+ 344 299 l 257
+ 347 479 420 581 550 581 c 256
+ 658 581 719 509 719 402 c 256
+ 719 182 522 151 369 141 c 256
+ 222 131 146 89 146 27 c 256
+ 146 -18 182 -49 228 -49 c 256
+ 281 -49 337 -18 337 74 c 257
+ 450 74 l 257
+ 450 12 472 -57 541 -54 c 256
+ 586 -52 614 0 594 65 c 257
+ 697 81 l 257
+ 697 95 763 -153 542 -153 c 256
+ 414 -153 398 -57 398 -57 c 256
+ 398 -57 381 -155 224 -155 c 256
+ 133 -155 33 -99 33 21 c 256
+  PathStart: -2
+344 299 m 257
+ 346 374 322 488 225 488 c 256
+ 174 488 117 460 117 371 c 256
+ 117 336 136 317 155 317 c 256
+ 181 317 194 344 194 370 c 256
+ 194 407 174 422 154 422 c 256
+ 136 422 117 406 117 370 c 257
+ 57 412 l 256
+ 57 412 81 494 159 495 c 256
+ 195 495 272 467 272 362 c 256
+ 272 273 214 234 152 234 c 256
+ 71 234 29 294 30 384 c 256
+ 31 513 113 583 228 582 c 256
+ 397 581 443 447 444 299 c 257
+ 344 299 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_Anusvara
+Encoding: 7 2946 7
+GlifName: tml_A_nusvara
+Width: 0
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+-105 702 m 256
+ -105 760 -59 807 0 807 c 256
+ 59 807 106 760 106 702 c 256
+ 106 644 59 596 0 596 c 256
+ -59 596 -105 644 -105 702 c 256
+  PathStart: -2
+30 704 m 256
+ 30 721 16 734 -1 734 c 256
+ -18 734 -31 721 -31 704 c 256
+ -31 687 -18 673 -1 673 c 256
+ 16 673 30 687 30 704 c 256
+  PathStart: -2
+EndSplineSet
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.ColorIndex'
+p2
+I0
+sS'com.typemytype.robofont.guides'
+p3
+(lp4
+(dp5
+S'y'
+I704
+sS'x'
+I17
+sS'angle'
+p6
+I0
+sS'isGlobal'
+p7
+I00
+sasS'public.markColor'
+p8
+S'0.85,0.26,0.06,1'
+p9
+s."
+EndChar
+
+StartChar: tml_Au
+Encoding: 8 2964 8
+GlifName: tml_A_u
+Width: 1570
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+Refer: 89 2962 N 1 0 0 1 0 0 2
+Refer: 37 2995 N 1 0 0 1 662 0 2
+EndChar
+
+StartChar: tml_AuLengthmark
+Encoding: 9 3031 9
+GlifName: tml_A_uL_engthmark
+Width: 908
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+Refer: 37 2995 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_CU
+Encoding: 10 -1 10
+GlifName: tml_C_U_
+Width: 641
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+561 252 m 257
+ 561 0 l 257
+ 465 0 l 257
+ 465 252 l 257
+ 561 252 l 257
+611 341 m 257
+ 611 244 l 257
+ 515 244 l 257
+ 515 341 l 257
+ 611 341 l 257
+EndSplineSet
+Refer: 12 2970 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_CUu
+Encoding: 11 -1 11
+GlifName: tml_C_U_u
+Width: 974
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+518 -274 m 256
+ 233 -273 31 -83 30 228 c 256
+ 29 369 80 478 138 573 c 257
+ 227 528 l 257
+ 171 435 134 351 134 228 c 256
+ 134 -16 290 -171 519 -170 c 256
+ 747 -169 842 -68 842 15 c 256
+ 842 54 824 88 799 88 c 256
+ 763 88 763 49 763 25 c 257
+ 714 56 l 256
+ 714 129 762 179 826 179 c 256
+ 895 179 944 108 944 12 c 256
+ 944 -116 825 -275 518 -274 c 256
+763 252 m 257
+ 763 0 l 257
+ 667 0 l 257
+ 667 252 l 257
+ 763 252 l 257
+813 341 m 257
+ 813 244 l 257
+ 717 244 l 257
+ 717 341 l 257
+ 813 341 l 257
+EndSplineSet
+Refer: 12 2970 N 1 0 0 1 202 0 2
+EndChar
+
+StartChar: tml_Ca
+Encoding: 12 2970 12
+GlifName: tml_C_a
+Width: 558
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi" 473 560 basechar 0
+AnchorPoint: "MatraI.stylalt1" 111 275 basechar 0
+AnchorPoint: "virama" 372 0 basechar 0
+AnchorPoint: "MatraI.alt2" 453 560 basechar 0
+AnchorPoint: "MatraIi.stylalt1" 115 280 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+212 341 m 258
+ 518 341 l 257
+ 518 244 l 257
+ 212 244 l 258
+ 159 244 130 212 130 167 c 256
+ 130 124 166 85 217 85 c 256
+ 282 85 308 140 308 207 c 258
+ 308 289 l 257
+ 318 301 l 257
+ 318 461 l 257
+ 223 461 l 257
+ 223 309 l 257
+ 139 309 l 257
+ 139 560 l 257
+ 518 560 l 257
+ 518 461 l 257
+ 415 461 l 257
+ 415 207 l 258
+ 415 103 375 -13 217 -13 c 256
+ 82 -13 30 75 30 172 c 256
+ 30 271 94 341 212 341 c 258
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_Credit
+Encoding: 13 3063 13
+GlifName: tml_C_redit
+Width: 1152
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+725 -23 m 256
+ 620 -23 569 52 569 156 c 256
+ 569 297 664 404 807 404 c 256
+ 965 404 1030 282 1030 173 c 256
+ 1030 65 980 14 980 14 c 256
+ 901 50 l 256
+ 901 50 940 81 940 161 c 256
+ 940 250 886 321 810 321 c 256
+ 723 321 669 229 669 151 c 256
+ 669 110 690 75 726 75 c 256
+ 752 75 767 103 767 144 c 256
+ 767 192 744 221 688 221 c 258
+ 474 221 l 257
+ 474 319 l 257
+ 660 319 l 257
+ 701 309 l 256
+ 748 309 874 285 874 144 c 256
+ 874 35 817 -23 725 -23 c 256
+900 0 m 257
+ 901 50 l 257
+ 936 92 l 257
+ 1122 92 l 257
+ 1121 0 l 257
+ 900 0 l 257
+EndSplineSet
+Refer: 16 2958 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Day
+Encoding: 14 3059 14
+GlifName: tml_D_ay
+Width: 621
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+192 -24 m 256
+ 87 -24 25 90 25 245 c 256
+ 25 448 118 570 274 570 c 256
+ 411 570 508 452 507 279 c 256
+ 506 162 478 101 459 59 c 257
+ 374 84 l 257
+ 391 123 404 174 404 263 c 256
+ 404 389 352 473 272 473 c 256
+ 173 473 127 376 127 255 c 256
+ 127 158 144 74 192 74 c 256
+ 238 74 247 139 247 178 c 256
+ 247 246 219 281 193 281 c 256
+ 150 281 130 235 133 167 c 257
+ 77 196 l 257
+ 77 269 120 362 204 362 c 256
+ 277 362 343 297 343 174 c 256
+ 343 53 286 -24 192 -24 c 256
+374 84 m 257
+ 474 99 l 257
+ 597 99 l 257
+ 597 1 l 257
+ 375 1 l 257
+ 374 84 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_Debit
+Encoding: 15 3062 15
+GlifName: tml_D_ebit
+Width: 510
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+221 -349 m 256
+ 74 -349 -19 -262 -19 -180 c 256
+ -19 -125 22 -64 120 -64 c 258
+ 569 -62 l 257
+ 569 560 l 257
+ 676 560 l 257
+ 676 -159 l 257
+ 134 -158 l 258
+ 103 -158 88 -165 88 -190 c 256
+ 88 -222 151 -252 221 -252 c 256
+ 313 -252 375 -187 373 4 c 257
+ 480 4 l 257
+ 480 -228 374 -349 221 -349 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 94 2986 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_E
+Encoding: 16 2958 16
+GlifName: tml_E_
+Width: 649
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+197 -24 m 256
+ 92 -24 30 90 30 245 c 256
+ 30 442 121 560 277 560 c 258
+ 624 560 l 257
+ 624 462 l 257
+ 521 461 l 257
+ 521 0 l 257
+ 414 0 l 257
+ 414 461 l 257
+ 271 461 l 258
+ 172 461 132 370 132 255 c 256
+ 132 158 149 74 197 74 c 256
+ 243 74 252 139 252 178 c 256
+ 252 246 224 281 198 281 c 256
+ 155 281 135 235 138 167 c 257
+ 82 196 l 257
+ 82 269 125 362 209 362 c 256
+ 282 362 348 297 348 174 c 256
+ 348 53 291 -24 197 -24 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_Ee
+Encoding: 17 2959 17
+GlifName: tml_E_e
+Width: 645
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+171 -162 m 257
+ 400 52 l 257
+ 507 0 l 257
+ 246 -239 l 257
+ 171 -162 l 257
+EndSplineSet
+Refer: 16 2958 N 1 0 0 1 -14 0 2
+EndChar
+
+StartChar: tml_Eight
+Encoding: 18 3054 18
+GlifName: tml_E_ight
+Width: 905
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+Refer: 2 2949 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Five
+Encoding: 19 3051 19
+GlifName: tml_F_ive
+Width: 1138
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+337 0 m 257
+ 337 560 l 257
+ 806 560 l 257
+ 806 462 l 257
+ 703 462 l 257
+ 703 0 l 257
+ 595 0 l 257
+ 595 462 l 257
+ 444 462 l 257
+ 444 0 l 257
+ 337 0 l 257
+1113 316 m 258
+ 1113 -1 l 257
+ 1001 -1 l 257
+ 1001 281 l 258
+ 1001 557 810 694 577 694 c 256
+ 364 694 159 569 159 244 c 256
+ 159 20 290 -161 529 -160 c 256
+ 737 -159 822 -54 822 134 c 256
+ 822 213 795 267 754 267 c 256
+ 712 267 703 229 703 204 c 257
+ 654 235 l 256
+ 654 308 702 358 766 358 c 256
+ 860 358 924 280 924 131 c 256
+ 924 -117 796 -266 518 -265 c 256
+ 223 -264 40 -47 40 247 c 256
+ 40 568 245 803 571 801 c 256
+ 912 799 1113 601 1113 316 c 258
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_Four
+Encoding: 20 3050 20
+GlifName: tml_F_our
+Width: 697
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+586 341 m 257
+ 586 560 l 257
+ 677 560 l 257
+ 677 243 l 257
+ 459 243 l 257
+ 459 341 l 257
+ 586 341 l 257
+EndSplineSet
+Refer: 12 2970 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Ha
+Encoding: 21 3001 21
+GlifName: tml_H_a
+Width: 1253
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraU" 1014 573 basechar 0
+AnchorPoint: "MatraUu" 1014 573 basechar 0
+AnchorPoint: "MatraIi.alt1" 1106 552 basechar 0
+AnchorPoint: "MatraI.alt6" 1106 553 basechar 0
+AnchorPoint: "virama" 630 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+197 -24 m 256
+ 92 -24 30 90 30 245 c 256
+ 30 448 123 573 279 573 c 256
+ 416 573 514 455 512 280 c 256
+ 511 185 489 101 470 59 c 257
+ 379 84 l 257
+ 396 123 409 174 409 263 c 256
+ 409 389 357 476 277 476 c 256
+ 178 476 132 376 132 255 c 256
+ 132 158 149 74 197 74 c 256
+ 243 74 252 139 252 178 c 256
+ 252 246 224 281 198 281 c 256
+ 155 281 135 235 138 167 c 257
+ 82 196 l 257
+ 82 269 125 362 209 362 c 256
+ 282 362 348 297 348 174 c 256
+ 348 53 291 -24 197 -24 c 256
+  PathStart: -2
+44 -243 m 257
+ 45 -136 87 -61 227 -61 c 258
+ 921 -61 l 258
+ 1040 -61 1115 23 1113 244 c 256
+ 1111 426 1077 476 1014 476 c 256
+ 960 476 941 420 941 390 c 257
+ 870 431 l 257
+ 870 506 932 573 1014 573 c 256
+ 1161 573 1223 461 1223 234 c 256
+ 1223 -8 1154 -164 927 -164 c 258
+ 233 -165 l 258
+ 165 -165 155 -204 154 -243 c 257
+ 44 -243 l 257
+931 416 m 257
+ 835 390 l 257
+ 836 443 809 473 767 473 c 256
+ 737 473 702 460 702 400 c 258
+ 702 80 l 257
+ 597 80 l 257
+ 597 426 l 258
+ 597 524 673 574 763 574 c 256
+ 843 574 928 514 931 416 c 257
+  PathStart: -2
+379 1 m 257
+ 379 84 l 257
+ 484 101 l 257
+ 597 101 l 257
+ 597 219 l 257
+ 702 219 l 257
+ 702 1 l 257
+ 379 1 l 257
+835 1 m 257
+ 835 460 l 257
+ 942 460 l 257
+ 938 -1 l 257
+ 835 1 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_Hundred
+Encoding: 22 3057 22
+GlifName: tml_H_undred
+Width: 768
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+182 578 m 256
+ 287 578 322 493 327 402 c 257
+ 271 383 l 257
+ 271 440 246 478 203 478 c 256
+ 169 478 137 454 137 394 c 258
+ 137 1 l 257
+ 30 1 l 257
+ 30 429 l 258
+ 30 528 94 578 182 578 c 256
+  PathStart: -2
+271 1 m 257
+ 271 414 l 257
+ 311 560 l 257
+ 738 559 l 257
+ 738 460 l 257
+ 638 461 l 257
+ 638 1 l 257
+ 531 1 l 257
+ 531 462 l 257
+ 378 462 l 257
+ 378 1 l 257
+ 271 1 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_I
+Encoding: 23 2951 23
+GlifName: tml_I_
+Width: 1041
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+503 480 m 256
+ 440 480 380 438 380 377 c 256
+ 380 349 398 328 424 328 c 256
+ 449 328 467 348 467 376 c 256
+ 467 402 449 420 424 420 c 256
+ 399 420 381 402 380 377 c 257
+ 326 379 l 257
+ 326 444 371 491 434 491 c 256
+ 502 491 551 441 551 373 c 256
+ 551 301 499 249 427 249 c 256
+ 349 249 293 300 293 384 c 256
+ 293 489 379 573 501 573 c 256
+ 638 573 734 468 734 310 c 256
+ 723 8 431 -210 218 -210 c 256
+ 109 -210 30 -146 30 -57 c 256
+ 30 141 260 216 424 216 c 256
+ 591 216 815 139 815 -60 c 256
+ 815 -147 730 -210 612 -210 c 256
+ 382 -210 103 28 103 357 c 256
+ 103 610 272 754 514 754 c 256
+ 823 754 972 587 971 239 c 258
+ 970 0 l 257
+ 857 0 l 257
+ 857 223 l 258
+ 857 539 731 647 511 647 c 256
+ 343 647 218 545 218 357 c 256
+ 218 91 445 -112 605 -112 c 256
+ 659 -112 698 -79 698 -43 c 256
+ 698 33 581 112 425 112 c 256
+ 261 112 145 41 145 -47 c 256
+ 145 -79 179 -112 227 -112 c 256
+ 383 -112 627 71 628 310 c 256
+ 628 393 581 480 503 480 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_Ii
+Encoding: 24 2952 24
+GlifName: tml_I_i
+Width: 626
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+46 1 m 257
+ 46 560 l 257
+ 616 559 l 257
+ 616 461 l 257
+ 444 461 l 257
+ 444 1 l 257
+ 337 1 l 257
+ 337 462 l 257
+ 153 462 l 257
+ 153 1 l 257
+ 46 1 l 257
+181 255 m 256
+ 181 285 207 314 239 314 c 256
+ 269 314 297 285 297 255 c 256
+ 297 225 269 197 239 197 c 256
+ 207 197 181 225 181 255 c 256
+479 255 m 256
+ 479 285 507 314 537 314 c 256
+ 569 314 595 285 595 255 c 256
+ 595 225 569 197 537 197 c 256
+ 507 197 479 225 479 255 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_Ja
+Encoding: 25 2972 25
+GlifName: tml_J_a
+Width: 757
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "MatraU" 537 581 basechar 0
+AnchorPoint: "MatraUu" 537 581 basechar 0
+AnchorPoint: "MatraIi.alt1" 635 554 basechar 0
+AnchorPoint: "MatraI.alt7" 635 554 basechar 0
+AnchorPoint: "virama" 384 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+219 -155 m 256
+ 115 -155 21 -99 21 24 c 256
+ 21 202 217 236 356 250 c 256
+ 477 262 592 275 592 397 c 256
+ 592 444 575 475 534 475 c 256
+ 487 475 447 435 447 354 c 258
+ 447 299 l 257
+ 342 299 l 257
+ 346 465 399 581 537 581 c 256
+ 637 581 707 520 707 396 c 256
+ 707 179 492 154 344 141 c 256
+ 271 135 141 119 141 30 c 256
+ 141 -18 180 -39 221 -39 c 256
+ 340 -39 381 143 559 143 c 256
+ 650 143 716 78 716 -11 c 256
+ 716 -94 645 -154 554 -154 c 258
+ 464 -154 l 257
+ 465 -48 l 257
+ 551 -48 l 258
+ 579 -48 599 -31 599 -7 c 256
+ 599 16 579 33 552 33 c 256
+ 456 33 410 -155 219 -155 c 256
+139 234 m 256
+ 62 234 18 289 18 384 c 256
+ 19 518 108 584 216 582 c 256
+ 375 579 437 432 439 299 c 257
+ 337 299 l 257
+ 337 344 l 258
+ 337 415 278 488 223 488 c 256
+ 155 488 105 441 105 377 c 256
+ 105 332 124 317 143 317 c 256
+ 169 317 182 344 182 372 c 256
+ 182 406 162 422 143 422 c 256
+ 124 422 105 406 105 370 c 257
+ 45 412 l 256
+ 45 412 73 495 143 495 c 256
+ 184 495 260 467 260 363 c 256
+ 260 273 203 234 139 234 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_KSsU
+Encoding: 26 -1 26
+GlifName: tml_K_S_sU_
+Width: 1838
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+1798 385 m 256
+ 1798 272 1743 211 1651 211 c 256
+ 1552 211 1503 282 1503 373 c 256
+ 1503 472 1562 522 1652 522 c 257
+ 1647 462 l 257
+ 1615 462 1602 419 1602 383 c 256
+ 1602 350 1613 307 1646 307 c 256
+ 1678 307 1688 348 1688 385 c 256
+ 1688 448 1659 462 1645 462 c 258
+ 1457 462 l 257
+ 1457 452 l 257
+ 1350 452 l 257
+ 1350 560 l 257
+ 1607 560 l 258
+ 1688 560 1798 539 1798 385 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 28 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_KSsUu
+Encoding: 27 -1 27
+GlifName: tml_K_S_sU_u
+Width: 2004
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+1635 550 m 257
+ 1682 550 1808 526 1808 385 c 256
+ 1808 276 1751 218 1659 218 c 256
+ 1554 218 1503 293 1503 397 c 256
+ 1503 538 1598 645 1741 645 c 256
+ 1899 645 1964 523 1964 414 c 256
+ 1964 296 1905 196 1905 196 c 257
+ 1823 230 l 257
+ 1823 230 1874 315 1874 402 c 256
+ 1874 491 1820 562 1744 562 c 256
+ 1657 562 1603 470 1603 392 c 256
+ 1603 351 1624 316 1660 316 c 256
+ 1686 316 1701 344 1701 385 c 256
+ 1701 433 1678 462 1622 462 c 258
+ 1457 462 l 257
+ 1457 452 l 257
+ 1350 452 l 257
+ 1350 560 l 257
+ 1594 560 l 257
+ 1635 550 l 257
+EndSplineSet
+Refer: 28 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_KSsa
+Encoding: 28 -1 28
+GlifName: tml_K_S_sa
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi.alt1" 1215 552 basechar 0
+AnchorPoint: "MatraI.alt8" 1254 510 basechar 0
+AnchorPoint: "virama" 766 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+828 0 m 257
+ 828 84 l 257
+ 935 99 l 257
+ 1350 99 l 257
+ 1350 473 l 257
+ 1457 473 l 257
+ 1457 0 l 257
+ 828 0 l 257
+1272 -146 m 257
+ 1165 -146 l 257
+ 1165 428 l 258
+ 1165 450 1159 475 1134 475 c 256
+ 1111 475 1092 452 1092 401 c 256
+ 1092 360 1104 256 1222 256 c 256
+ 1328 256 1349 308 1350 379 c 256
+ 1405 376 l 256
+ 1405 271 1378 155 1218 155 c 256
+ 1100 155 991 240 989 410 c 256
+ 988 514 1055 573 1130 573 c 256
+ 1253 573 1273 483 1272 418 c 258
+ 1272 -146 l 257
+489 191 m 256
+ 489 382 602 475 729 475 c 256
+ 867 475 963 381 963 215 c 256
+ 963 125 925 72 919 59 c 257
+ 828 84 l 257
+ 846 110 864 149 864 215 c 256
+ 864 312 821 378 727 378 c 256
+ 647 378 586 309 586 189 c 256
+ 586 122 605 74 659 74 c 256
+ 702 74 711 120 711 140 c 256
+ 711 208 673 244 587 244 c 258
+ 493 244 l 257
+ 493 341 l 257
+ 598 341 l 258
+ 721 341 807 264 807 151 c 256
+ 807 55 750 -24 656 -24 c 256
+ 551 -24 489 65 489 191 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 12 2970 N 1 0 0 1 10 0 2
+EndChar
+
+StartChar: tml_KU
+Encoding: 29 -1 29
+GlifName: tml_K_U_
+Width: 853
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+447 -274 m 256
+ 199 -274 31 -104 30 121 c 256
+ 29 262 80 372 138 466 c 257
+ 227 421 l 257
+ 170 328 134 244 134 121 c 256
+ 134 -77 292 -177 447 -177 c 256
+ 625 -177 728 -68 728 87 c 256
+ 728 184 679 241 607 242 c 258
+ 411 244 l 258
+ 358 245 329 212 329 167 c 256
+ 329 124 363 89 414 89 c 256
+ 469 89 507 130 507 207 c 258
+ 507 289 l 257
+ 517 301 l 257
+ 517 461 l 257
+ 422 461 l 257
+ 422 309 l 257
+ 338 309 l 257
+ 338 560 l 257
+ 717 560 l 257
+ 717 461 l 257
+ 614 461 l 257
+ 614 207 l 258
+ 614 103 574 -9 416 -9 c 256
+ 281 -9 229 75 229 172 c 256
+ 229 271 291 341 409 341 c 258
+ 610 341 l 258
+ 749 341 823 226 823 87 c 256
+ 823 -116 709 -274 447 -274 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_KUu
+Encoding: 30 -1 30
+GlifName: tml_K_U_u
+Width: 1090
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+479 191 m 256
+ 479 382 592 475 719 475 c 256
+ 857 475 953 381 953 215 c 256
+ 953 125 915 72 909 59 c 257
+ 818 84 l 257
+ 836 110 854 149 854 215 c 256
+ 854 312 811 378 717 378 c 256
+ 637 378 576 309 576 189 c 256
+ 576 122 595 74 649 74 c 256
+ 692 74 701 120 701 140 c 256
+ 701 208 663 244 577 244 c 258
+ 483 244 l 257
+ 483 341 l 257
+ 588 341 l 258
+ 711 341 797 264 797 151 c 256
+ 797 55 740 -24 646 -24 c 256
+ 541 -24 479 65 479 191 c 256
+  PathStart: -2
+818 84 m 257
+ 918 99 l 257
+ 1050 99 l 257
+ 1050 1 l 257
+ 819 1 l 257
+ 818 84 l 257
+EndSplineSet
+Refer: 12 2970 N 1 0 0 1 10 0 2
+EndChar
+
+StartChar: tml_Ka
+Encoding: 31 2965 31
+GlifName: tml_K_a
+Width: 641
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi" 463 560 basechar 0
+AnchorPoint: "MatraI.stylalt1" 120 275 basechar 0
+AnchorPoint: "virama" 368 0 basechar 0
+AnchorPoint: "MatraIi.stylalt1" 124 280 basechar 0
+AnchorPoint: "MatraI.alt1" 438 560 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+210 341 m 258
+ 441 341 l 258
+ 535 341 611 306 611 167 c 256
+ 611 17 528 0 446 0 c 258
+ 425 0 l 257
+ 425 93 l 257
+ 441 93 l 258
+ 485 93 513 123 513 168 c 256
+ 513 225 479 242 438 242 c 258
+ 212 244 l 258
+ 159 244 130 212 130 167 c 256
+ 130 124 164 89 215 89 c 256
+ 270 89 308 130 308 207 c 258
+ 308 289 l 257
+ 318 301 l 257
+ 318 461 l 257
+ 223 461 l 257
+ 223 309 l 257
+ 139 309 l 257
+ 139 560 l 257
+ 518 560 l 257
+ 518 461 l 257
+ 415 461 l 257
+ 415 207 l 258
+ 415 103 375 -9 217 -9 c 256
+ 82 -9 30 75 30 172 c 256
+ 30 271 92 341 210 341 c 258
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_LU
+Encoding: 32 -1 32
+GlifName: tml_L_U_
+Width: 977
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+615 0 m 257
+ 615 -173 546 -349 313 -349 c 256
+ 155 -349 67 -275 67 -193 c 256
+ 67 -124 118 -74 194 -74 c 258
+ 792 -74 l 257
+ 792 573 l 257
+ 899 573 l 257
+ 899 -171 l 257
+ 209 -169 l 258
+ 191 -169 174 -177 174 -199 c 256
+ 174 -215 190 -252 313 -252 c 256
+ 431 -252 511 -190 511 0 c 257
+ 615 0 l 257
+EndSplineSet
+Refer: 34 2994 N 1 0 0 1 7 0 2
+EndChar
+
+StartChar: tml_LUu
+Encoding: 33 -1 33
+GlifName: tml_L_U_u
+Width: 977
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+1204 573 m 257
+ 1204 476 l 257
+ 1104 476 l 257
+ 1104 -13 l 257
+ 997 -13 l 257
+ 997 476 l 257
+ 882 476 l 257
+ 882 573 l 257
+ 1204 573 l 257
+EndSplineSet
+Refer: 32 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_La
+Encoding: 34 2994 34
+GlifName: tml_L_a
+Width: 772
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "virama" 410 0 basechar 0
+AnchorPoint: "MatraAi.alt" 32 244 basechar 0
+AnchorPoint: "MatraIi.alt2" 624 584 basechar 0
+AnchorPoint: "MatraI.alt5" 606 573 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+197 -23 m 256
+ 92 -23 30 90 30 245 c 256
+ 30 448 122 572 280 573 c 256
+ 415 574 501 463 501 332 c 256
+ 501 290 492 229 492 181 c 256
+ 492 121 510 75 558 75 c 256
+ 619 75 626 161 626 256 c 256
+ 626 445 537 530 537 530 c 256
+ 624 584 l 256
+ 679 525 732 401 732 255 c 256
+ 732 151 714 -23 558 -23 c 256
+ 413 -23 391 79 391 190 c 256
+ 391 240 397 293 397 335 c 256
+ 396 425 332 476 280 476 c 256
+ 180 476 131 377 131 256 c 256
+ 131 159 149 75 197 75 c 256
+ 243 75 252 139 252 178 c 256
+ 252 245 223 282 197 282 c 256
+ 158 282 129 228 141 148 c 257
+ 81 197 l 257
+ 81 268 126 362 209 362 c 256
+ 273 362 348 308 348 175 c 256
+ 348 54 292 -23 197 -23 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_LlU
+Encoding: 35 -1 35
+GlifName: tml_L_lU_
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+628 -271 m 256
+ 328 -271 20 -147 20 242 c 256
+ 20 388 68 510 116 572 c 257
+ 205 527 l 257
+ 196 514 124 417 124 252 c 256
+ 124 -64 379 -168 624 -168 c 256
+ 847 -168 1083 -84 1083 137 c 256
+ 1083 208 1059 267 1012 267 c 256
+ 976 267 964 231 964 204 c 257
+ 915 235 l 257
+ 915 308 961 358 1031 358 c 256
+ 1121 358 1185 274 1185 138 c 256
+ 1185 -147 965 -271 628 -271 c 256
+EndSplineSet
+Refer: 37 2995 N 1 0 0 1 189 0 2
+EndChar
+
+StartChar: tml_LlUu
+Encoding: 36 -1 36
+GlifName: tml_L_lU_u
+Width: 1360
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+757 -168 m 256
+ 995 -167 1230 -84 1230 134 c 256
+ 1230 213 1203 267 1162 267 c 256
+ 1120 267 1111 229 1111 204 c 257
+ 1062 235 l 256
+ 1062 308 1110 358 1174 358 c 256
+ 1268 358 1332 280 1332 131 c 256
+ 1332 -147 1064 -270 756 -275 c 256
+ 417 -281 38 -120 38 238 c 256
+ 38 381 72 572 227 572 c 256
+ 318 572 355 491 355 427 c 256
+ 355 361 316 286 233 286 c 256
+ 154 286 123 353 123 407 c 256
+ 123 460 154 500 199 510 c 257
+ 218 486 l 257
+ 197 481 184 459 184 425 c 256
+ 184 389 199 365 228 365 c 256
+ 255 365 271 389 271 424 c 256
+ 271 459 258 487 229 487 c 257
+ 167 490 138 348 138 253 c 256
+ 138 -48 466 -169 757 -168 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 37 2995 N 1 0 0 1 327 0 2
+EndChar
+
+StartChar: tml_Lla
+Encoding: 37 2995 37
+GlifName: tml_L_la
+Width: 908
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi" 823 560 basechar 0
+AnchorPoint: "MatraAi.alt" 30 244 basechar 0
+AnchorPoint: "virama" 476 0 basechar 0
+AnchorPoint: "MatraI.alt2" 803 560 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+197 -24 m 256
+ 92 -24 30 90 30 245 c 256
+ 30 450 119 573 269 573 c 256
+ 399 573 490 436 490 235 c 256
+ 409 257 l 256
+ 409 388 354 476 269 476 c 256
+ 176 476 132 378 132 255 c 256
+ 132 158 149 74 197 74 c 256
+ 243 74 252 139 252 178 c 256
+ 252 246 224 281 198 281 c 256
+ 155 281 135 235 138 167 c 257
+ 79 196 l 257
+ 79 259 122 362 207 362 c 256
+ 282 362 350 297 350 174 c 256
+ 350 53 293 -24 197 -24 c 256
+409 1 m 257
+ 409 462 l 257
+ 424 466 l 257
+ 424 560 l 257
+ 878 560 l 257
+ 878 462 l 257
+ 775 462 l 257
+ 775 1 l 257
+ 668 1 l 257
+ 668 462 l 257
+ 517 462 l 257
+ 517 1 l 257
+ 409 1 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_LllU
+Encoding: 38 -1 38
+GlifName: tml_L_llU_
+Width: 920
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+718 -173 m 256
+ 718 -108 661 -112 645 -160 c 257
+ 537 -160 l 257
+ 538 32 l 257
+ 646 33 l 257
+ 646 -61 l 257
+ 676 -32 821 -28 821 -173 c 256
+ 821 -271 714 -386 503 -386 c 256
+ 188 -385 30 -124 30 167 c 256
+ 30 348 81 476 138 572 c 257
+ 227 527 l 257
+ 189 454 134 350 134 167 c 256
+ 134 -27 215 -279 504 -278 c 256
+ 644 -278 718 -233 718 -173 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 43 2990 N 1 0 0 1 253 0 2
+PickledDataWithLists: "(dp1
+S'com.typemytype.robofont.guides'
+p2
+(lp3
+(dp4
+S'y'
+I-275
+sS'x'
+I1395
+sS'angle'
+p5
+I0
+sS'isGlobal'
+p6
+I00
+sasS'com.typemytype.robofont.layerData'
+p7
+(dp8
+S'background'
+p9
+(dp10
+S'name'
+p11
+S'tml_LllU'
+p12
+sS'lib'
+p13
+(dp14
+sS'unicodes'
+p15
+(lp16
+sS'width'
+p17
+I920
+sS'contours'
+p18
+(lp19
+(dp20
+S'points'
+p21
+(lp22
+(dp23
+S'y'
+I-278
+sS'x'
+I644
+sS'smooth'
+p24
+I00
+sa(dp25
+S'y'
+I-233
+sS'x'
+I718
+sg24
+I00
+sa(dp26
+S'segmentType'
+p27
+S'curve'
+p28
+sS'x'
+I718
+sg24
+I01
+sS'y'
+I-173
+sa(dp29
+S'y'
+I-108
+sS'x'
+I718
+sg24
+I00
+sa(dp30
+S'y'
+I-112
+sS'x'
+I661
+sg24
+I00
+sa(dp31
+g27
+S'curve'
+p32
+sS'x'
+I645
+sg24
+I00
+sS'y'
+I-160
+sa(dp33
+g27
+S'line'
+p34
+sS'x'
+I537
+sg24
+I00
+sS'y'
+I-160
+sa(dp35
+g27
+S'line'
+p36
+sS'x'
+I538
+sg24
+I00
+sS'y'
+I32
+sa(dp37
+g27
+S'line'
+p38
+sS'x'
+I646
+sg24
+I00
+sS'y'
+I33
+sa(dp39
+g27
+S'line'
+p40
+sS'x'
+I646
+sg24
+I00
+sS'y'
+I-61
+sa(dp41
+S'y'
+I-32
+sS'x'
+I676
+sg24
+I00
+sa(dp42
+S'y'
+I-28
+sS'x'
+I821
+sg24
+I00
+sa(dp43
+g27
+S'curve'
+p44
+sS'x'
+I821
+sg24
+I01
+sS'y'
+I-173
+sa(dp45
+S'y'
+I-271
+sS'x'
+I821
+sg24
+I00
+sa(dp46
+S'y'
+I-386
+sS'x'
+I714
+sg24
+I00
+sa(dp47
+g27
+S'curve'
+p48
+sS'x'
+I503
+sg24
+I00
+sS'y'
+I-386
+sa(dp49
+S'y'
+I-385
+sS'x'
+I158
+sg24
+I00
+sa(dp50
+S'y'
+I-84
+sS'x'
+I11
+sg24
+I00
+sa(dp51
+g27
+S'curve'
+p52
+sS'x'
+I10
+sg24
+I01
+sS'y'
+I227
+sa(dp53
+S'y'
+I368
+sS'x'
+I10
+sg24
+I00
+sa(dp54
+S'y'
+I477
+sS'x'
+I60
+sg24
+I00
+sa(dp55
+g27
+S'curve'
+p56
+sS'x'
+I118
+sg24
+I00
+sS'y'
+I572
+sa(dp57
+g27
+S'line'
+p58
+sS'x'
+I207
+sg24
+I00
+sS'y'
+I527
+sa(dp59
+S'y'
+I434
+sS'x'
+I151
+sg24
+I00
+sa(dp60
+S'y'
+I350
+sS'x'
+I114
+sg24
+I00
+sa(dp61
+g27
+S'curve'
+p62
+sS'x'
+I114
+sg24
+I01
+sS'y'
+I227
+sa(dp63
+S'y'
+I13
+sS'x'
+I114
+sg24
+I00
+sa(dp64
+S'y'
+I-279
+sS'x'
+I215
+sg24
+I00
+sa(dp65
+g27
+S'curve'
+p66
+sS'x'
+I504
+sg24
+I00
+sS'y'
+I-278
+sasasS'components'
+p67
+(lp68
+sS'anchors'
+p69
+(lp70
+sss."
+EndChar
+
+StartChar: tml_LllUu
+Encoding: 39 -1 39
+GlifName: tml_L_llU_u
+Width: 1007
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+571 -386 m 256
+ 221 -386 30 -144 30 181 c 256
+ 30 334 72 573 227 573 c 256
+ 318 573 355 492 355 428 c 256
+ 355 362 316 287 233 287 c 256
+ 154 287 123 354 123 408 c 256
+ 123 461 154 501 199 511 c 257
+ 218 487 l 257
+ 197 482 184 460 184 426 c 256
+ 184 390 199 366 228 366 c 256
+ 255 366 271 390 271 425 c 256
+ 271 460 258 488 229 488 c 256
+ 154 488 130 336 130 214 c 256
+ 130 -94 283 -278 570 -278 c 256
+ 700 -278 805 -240 805 -167 c 256
+ 805 -113 748 -111 732 -160 c 257
+ 624 -160 l 257
+ 625 32 l 257
+ 733 33 l 257
+ 733 -61 l 257
+ 763 -30 908 -36 908 -166 c 256
+ 908 -271 812 -386 571 -386 c 256
+EndSplineSet
+Refer: 43 2990 N 1 0 0 1 340 0 2
+EndChar
+
+StartChar: tml_Llla
+Encoding: 40 2996 40
+GlifName: tml_L_lla
+Width: 642
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi.alt1" 510 552 basechar 0
+AnchorPoint: "MatraI.alt6" 505 554 basechar 0
+AnchorPoint: "virama" 296 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+255 -293 m 256
+ 134 -293 50 -206 50 -83 c 257
+ 163 -82 l 257
+ 163 -133 180 -190 262 -190 c 256
+ 329 -190 354 -133 354 -133 c 256
+ 354 -133 398 -178 401 -175 c 257
+ 354 -175 281 -136 281 8 c 258
+ 281 429 l 258
+ 281 518 317 573 414 573 c 256
+ 575 573 629 432 633 299 c 256
+ 639 128 563 0 404 0 c 258
+ 46 0 l 257
+ 46 559 l 257
+ 153 559 l 257
+ 153 98 l 257
+ 385 98 l 258
+ 515 95 535 182 535 275 c 256
+ 535 414 490 484 430 484 c 256
+ 401 484 389 467 389 429 c 258
+ 389 -2 l 258
+ 389 -57 408 -89 473 -89 c 258
+ 562 -89 l 257
+ 562 -179 l 257
+ 429 -179 l 257
+ 429 -179 456 -163 456 -166 c 256
+ 456 -197 382 -293 255 -293 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_MU
+Encoding: 41 -1 41
+GlifName: tml_M_U_
+Width: 929
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+30 184 m 256
+ 30 354 83 483 147 573 c 257
+ 237 528 l 257
+ 176 435 134 340 134 189 c 256
+ 134 -42 233 -170 372 -170 c 256
+ 474 -170 547 -101 547 29 c 257
+ 655 29 l 257
+ 655 -170 523 -267 373 -267 c 256
+ 174 -267 30 -96 30 184 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 43 2990 N 1 0 0 1 262 0 2
+EndChar
+
+StartChar: tml_MUu
+Encoding: 42 -1 42
+GlifName: tml_M_U_u
+Width: 1022
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+435 -170 m 256
+ 537 -170 640 -101 640 29 c 257
+ 748 29 l 257
+ 748 -170 586 -267 436 -267 c 256
+ 227 -267 44 -99 44 181 c 256
+ 44 334 86 573 241 573 c 256
+ 332 573 369 492 369 428 c 256
+ 369 362 330 287 247 287 c 256
+ 168 287 137 354 137 408 c 256
+ 137 461 168 501 213 511 c 257
+ 232 487 l 257
+ 211 482 198 460 198 426 c 256
+ 198 390 213 366 242 366 c 256
+ 269 366 285 390 285 425 c 256
+ 285 460 272 488 243 488 c 256
+ 168 488 144 336 144 214 c 256
+ 144 -17 258 -170 435 -170 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 43 2990 N 1 0 0 1 355 0 2
+EndChar
+
+StartChar: tml_Ma
+Encoding: 43 2990 43
+GlifName: tml_M_a
+Width: 647
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi.alt1" 498 552 basechar 0
+AnchorPoint: "MatraI.alt6" 495 554 basechar 0
+AnchorPoint: "virama" 310 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+30 0 m 257
+ 30 559 l 257
+ 137 559 l 257
+ 137 98 l 257
+ 376 98 l 257
+ 392 0 l 257
+ 30 0 l 257
+265 68 m 257
+ 265 442 l 258
+ 265 534 305 575 398 576 c 256
+ 561 577 616 426 617 299 c 256
+ 618 114 544 0 388 0 c 257
+ 369 98 l 257
+ 509 97 520 215 520 299 c 256
+ 520 381 487 487 409 487 c 256
+ 382 487 373 467 373 432 c 258
+ 373 68 l 257
+ 265 68 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraAa
+Encoding: 44 3006 44
+GlifName: tml_M_atraA_a
+Width: 560
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+71 1 m 257
+ 71 560 l 257
+ 550 560 l 257
+ 550 462 l 257
+ 447 462 l 257
+ 447 1 l 257
+ 339 1 l 257
+ 339 462 l 257
+ 178 462 l 257
+ 178 1 l 257
+ 71 1 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraAi
+Encoding: 45 3016 45
+GlifName: tml_M_atraA_i
+Width: 996
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+201 -24 m 256
+ 92 -24 30 91 30 236 c 256
+ 30 483 212 570 341 570 c 256
+ 449 570 688 510 688 200 c 256
+ 688 52 620 -23 528 -23 c 256
+ 434 -23 370 57 370 206 c 256
+ 370 401 471 572 689 572 c 256
+ 831 572 956 495 956 247 c 256
+ 956 94 887 0 760 -16 c 257
+ 746 86 l 257
+ 814 92 848 177 848 249 c 256
+ 848 394 785 474 689 474 c 256
+ 524 474 475 327 475 199 c 256
+ 475 123 492 65 528 65 c 256
+ 567 65 580 124 580 194 c 256
+ 580 397 455 476 332 474 c 256
+ 258 473 132 418 132 233 c 256
+ 132 165 140 64 199 64 c 256
+ 242 64 252 139 252 179 c 256
+ 252 238 230 281 195 281 c 256
+ 158 281 131 234 135 167 c 257
+ 82 196 l 257
+ 82 269 124 362 210 362 c 256
+ 282 362 348 298 348 171 c 256
+ 348 50 288 -24 201 -24 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraAi.alt
+Encoding: 46 -1 46
+GlifName: tml_M_atraA_i.alt
+Width: 528
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraAi.alt" 420 244 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+439 566 m 256
+ 439 418 280 263 280 166 c 256
+ 280 101 312 76 351 76 c 256
+ 410 76 420 147 420 245 c 257
+ 498 201 l 257
+ 498 62 450 -23 351 -23 c 256
+ 261 -23 179 23 179 166 c 256
+ 179 329 342 440 342 566 c 256
+ 342 664 292 708 225 708 c 256
+ 162 708 117 664 117 603 c 256
+ 117 575 135 554 161 554 c 256
+ 186 554 204 574 204 602 c 256
+ 204 628 186 646 161 646 c 256
+ 136 646 118 628 117 603 c 257
+ 63 605 l 257
+ 63 670 108 717 171 717 c 256
+ 239 717 288 667 288 599 c 256
+ 288 527 236 475 164 475 c 256
+ 86 475 30 526 30 610 c 256
+ 30 715 106 801 228 800 c 256
+ 342 800 439 724 439 566 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraAu
+Encoding: 47 3020 47
+GlifName: tml_M_atraA_u
+Width: 611
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+Refer: 48 3014 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_MatraE
+Encoding: 48 3014 48
+GlifName: tml_M_atraE_
+Width: 611
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+198 -29 m 256
+ 70 -29 28 117 28 347 c 256
+ 28 659 172 805 337 806 c 256
+ 482 807 574 729 575 459 c 258
+ 577 0 l 257
+ 469 0 l 257
+ 468 457 l 258
+ 468 661 397 698 333 698 c 256
+ 227 698 134 573 134 382 c 256
+ 134 332 141 302 143 180 c 256
+ 144 130 157 69 198 69 c 256
+ 240 69 252 125 252 183 c 256
+ 252 251 236 302 200 302 c 256
+ 167 302 143 260 143 181 c 257
+ 74 232 l 257
+ 74 294 110 402 206 402 c 256
+ 301 402 350 305 350 175 c 256
+ 350 50 293 -29 198 -29 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraEe
+Encoding: 49 3015 49
+GlifName: tml_M_atraE_e
+Width: 488
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+290 -19 m 256
+ 89 -19 20 175 20 378 c 256
+ 20 623 120 807 289 807 c 256
+ 387 807 448 728 448 607 c 256
+ 448 466 368 411 300 411 c 256
+ 220 411 165 485 165 571 c 256
+ 165 699 239 741 239 741 c 257
+ 295 709 l 257
+ 295 709 244 711 244 607 c 256
+ 244 544 274 511 296 511 c 256
+ 322 511 348 543 348 604 c 256
+ 348 643 340 708 297 708 c 256
+ 193 708 122 580 122 379 c 256
+ 122 216 165 69 294 69 c 256
+ 337 69 344 133 344 168 c 256
+ 344 238 322 271 294 271 c 256
+ 268 271 247 227 247 168 c 256
+ 247 141 256 70 293 70 c 257
+ 254 22 l 257
+ 254 22 171 78 171 180 c 256
+ 171 311 231 367 300 367 c 256
+ 369 367 448 309 448 168 c 256
+ 448 53 389 -19 290 -19 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraI
+Encoding: 50 3007 50
+GlifName: tml_M_atraI_
+Width: 269
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+-236 550 m 256
+ -191 703 -96 745 -14 746 c 256
+ 137 747 216 659 217 479 c 258
+ 219 0 l 257
+ 111 0 l 257
+ 110 479 l 258
+ 110 583 78 638 -18 638 c 256
+ -75 638 -136 608 -161 503 c 256
+ -236 550 l 256
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraI.alt1
+Encoding: 51 -1 51
+GlifName: tml_M_atraI_.alt1
+Width: 515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraI.alt1" 160 560 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+130 492 m 257
+ 81 492 30 541 30 597 c 256
+ 30 711 135 758 221 758 c 256
+ 364 758 482 676 483 467 c 258
+ 485 1 l 257
+ 377 1 l 257
+ 376 471 l 258
+ 376 592 303 650 217 650 c 256
+ 157 650 124 626 124 597 c 256
+ 124 573 143 560 160 560 c 257
+ 130 492 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraI.alt2
+Encoding: 52 -1 52
+GlifName: tml_M_atraI_.alt2
+Width: 482
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraI.alt2" 178 560 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+160 482 m 257
+ 96 482 30 525 30 597 c 256
+ 30 706 122 758 208 758 c 256
+ 351 758 419 656 420 487 c 258
+ 422 1 l 257
+ 314 1 l 257
+ 313 491 l 258
+ 313 582 290 650 204 650 c 256
+ 159 650 132 624 132 595 c 256
+ 132 564 156 560 178 560 c 257
+ 160 482 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraI.alt3
+Encoding: 53 -1 53
+GlifName: tml_M_atraI_.alt3
+Width: 250
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraI.alt3" -112 530 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+-112 442 m 257
+ -176 442 -253 490 -253 582 c 256
+ -253 691 -160 758 -65 758 c 256
+ 78 758 176 666 177 497 c 258
+ 177 1 l 257
+ 70 1 l 257
+ 70 501 l 258
+ 70 592 17 650 -69 650 c 256
+ -114 650 -158 624 -158 583 c 256
+ -158 542 -129 530 -112 530 c 257
+ -112 442 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraI.alt4
+Encoding: 54 -1 54
+GlifName: tml_M_atraI_.alt4
+Width: 269
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraI.alt4" -83 560 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+-83 472 m 257
+ -147 472 -228 508 -228 600 c 256
+ -228 694 -140 758 -45 758 c 256
+ 98 758 196 666 197 497 c 258
+ 199 1 l 257
+ 91 1 l 257
+ 90 501 l 258
+ 90 592 37 650 -49 650 c 256
+ -94 650 -129 629 -129 600 c 256
+ -129 566 -100 560 -83 560 c 257
+ -83 472 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraI.alt5
+Encoding: 55 -1 55
+GlifName: tml_M_atraI_.alt5
+Width: 199
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraI.alt5" -143 573 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+-149 478 m 257
+ -216 467 -298 503 -298 592 c 256
+ -298 686 -203 758 -98 758 c 256
+ 45 758 136 666 137 497 c 258
+ 139 1 l 257
+ 31 1 l 257
+ 30 501 l 258
+ 30 592 -16 650 -102 650 c 256
+ -157 650 -194 624 -194 591 c 256
+ -194 570 -169 557 -143 573 c 257
+ -149 478 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraI.alt6
+Encoding: 56 -1 56
+GlifName: tml_M_atraI_.alt6
+Width: 269
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraI.alt6" -115 554 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+-128 491 m 257
+ -177 491 -254 520 -254 594 c 256
+ -254 710 -146 757 -54 757 c 256
+ 92 757 176 647 177 500 c 258
+ 177 0 l 257
+ 70 0 l 257
+ 70 480 l 258
+ 70 591 16 649 -58 649 c 256
+ -120 649 -151 617 -150 588 c 256
+ -149 567 -135 565 -115 554 c 257
+ -128 491 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraI.alt7
+Encoding: 57 -1 57
+GlifName: tml_M_atraI_.alt7
+Width: 600
+VWidth: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "MatraI.alt7" 185 554 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+172 491 m 257
+ 123 491 46 520 46 594 c 256
+ 46 710 154 757 246 757 c 256
+ 392 757 465 643 465 500 c 258
+ 465 0 l 257
+ 358 0 l 257
+ 358 480 l 258
+ 358 591 316 649 242 649 c 256
+ 180 649 150 619 150 590 c 256
+ 150 570 165 568 185 554 c 257
+ 172 491 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraI.alt8
+Encoding: 58 -1 58
+GlifName: tml_M_atraI_.alt8
+Width: 600
+VWidth: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "MatraI.alt8" 157 510 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+119 452 m 257
+ 70 452 21 509 21 573 c 256
+ 21 649 90 757 252 757 c 256
+ 458 757 567 602 567 445 c 258
+ 567 0 l 257
+ 460 0 l 257
+ 460 420 l 258
+ 460 561 376 649 252 649 c 256
+ 163 649 131 605 131 566 c 256
+ 131 543 148 528 157 510 c 257
+ 119 452 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraI.stylalt1
+Encoding: 59 -1 59
+GlifName: tml_M_atraI_.stylalt1
+Width: 874
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraI.stylalt1" 207 275 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+140 192 m 257
+ 95 226 30 305 30 441 c 256
+ 30 630 171 800 419 800 c 256
+ 706 800 844 611 844 328 c 257
+ 844 -14 l 257
+ 735 -13 l 257
+ 735 337 l 257
+ 735 596 596 692 419 690 c 256
+ 255 688 138 593 138 441 c 256
+ 138 354 159 314 207 275 c 257
+ 140 192 l 257
+EndSplineSet
+PickledDataWithLists: "(dp1
+S'com.typemytype.robofont.guides'
+p2
+(lp3
+(dp4
+S'y'
+I-274
+sS'x'
+I1215
+sS'angle'
+p5
+I0
+sS'isGlobal'
+p6
+I00
+sas."
+EndChar
+
+StartChar: tml_MatraIi
+Encoding: 60 3008 60
+GlifName: tml_M_atraI_i
+Width: 419
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi" 197 560 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+197 467 m 256
+ 130 467 18 519 18 666 c 256
+ 18 833 138 903 251 902 c 256
+ 353 901 401 830 401 738 c 256
+ 401 616 331 590 277 590 c 256
+ 209 590 153 629 152 728 c 256
+ 152 797 203 855 240 881 c 257
+ 276 806 l 257
+ 250 806 234 768 234 736 c 256
+ 234 684 253 664 278 664 c 256
+ 304 664 317 693 317 738 c 256
+ 317 764 311 806 275 806 c 256
+ 179 806 122 763 122 665 c 256
+ 122 600 153 561 197 560 c 256
+ 197 467 l 256
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraIi.alt1
+Encoding: 61 -1 61
+GlifName: tml_M_atraI_i.alt1
+Width: 443
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi.alt1" 209 552 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+30 666 m 256
+ 30 833 150 903 263 902 c 256
+ 365 901 413 830 413 738 c 256
+ 413 616 343 590 289 590 c 256
+ 221 590 165 629 164 728 c 256
+ 164 797 215 855 252 881 c 257
+ 288 806 l 257
+ 262 806 246 768 246 736 c 256
+ 246 684 265 664 290 664 c 256
+ 316 664 329 693 329 738 c 256
+ 329 764 323 806 287 806 c 256
+ 191 806 134 763 134 665 c 256
+ 134 600 173 572 209 552 c 257
+ 209 470 l 257
+ 142 470 30 519 30 666 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraIi.alt2
+Encoding: 62 -1 62
+GlifName: tml_M_atraI_i.alt2
+Width: 453
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi.alt2" 254 584 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+30 666 m 256
+ 30 833 160 903 273 902 c 256
+ 375 901 423 830 423 738 c 256
+ 423 616 353 590 299 590 c 256
+ 231 590 175 629 174 728 c 256
+ 174 797 225 855 262 881 c 257
+ 298 806 l 257
+ 272 806 256 768 256 736 c 256
+ 256 684 275 664 300 664 c 256
+ 326 664 339 693 339 738 c 256
+ 339 764 333 806 297 806 c 256
+ 201 806 134 764 134 666 c 256
+ 134 589 193 546 254 584 c 257
+ 249 482 l 257
+ 172 445 30 509 30 666 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraIi.alt3
+Encoding: 63 -1 63
+GlifName: tml_M_atraI_i.alt3
+Width: 600
+VWidth: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "MatraIi.alt3" 226 542 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+30 666 m 256
+ 30 833 150 903 263 902 c 256
+ 365 901 413 830 413 738 c 256
+ 413 616 343 590 289 590 c 256
+ 221 590 165 629 164 728 c 256
+ 164 797 215 855 252 881 c 257
+ 288 806 l 257
+ 262 806 246 768 246 736 c 256
+ 246 684 265 664 290 664 c 256
+ 316 664 329 693 329 738 c 256
+ 329 764 323 806 287 806 c 256
+ 191 806 134 763 134 665 c 256
+ 134 581 193 557 226 542 c 257
+ 212 470 l 257
+ 145 470 30 519 30 666 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraIi.stylalt1
+Encoding: 64 -1 64
+GlifName: tml_M_atraI_i.stylalt1
+Width: 743
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi.stylalt1" 228 280 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+161 197 m 257
+ 116 231 30 314 30 511 c 256
+ 30 740 175 954 415 954 c 256
+ 595 954 713 862 713 734 c 256
+ 713 654 657 601 581 601 c 256
+ 506 601 455 653 455 724 c 256
+ 455 793 504 843 571 843 c 256
+ 636 843 680 796 680 731 c 257
+ 626 729 l 257
+ 625 754 607 772 582 772 c 256
+ 557 772 539 754 539 727 c 256
+ 539 700 557 680 582 680 c 256
+ 608 680 626 701 626 729 c 256
+ 626 768 609 801 578 824 c 256
+ 547 847 502 860 445 859 c 256
+ 273 857 135 724 135 511 c 256
+ 135 365 180 319 228 280 c 257
+ 161 197 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraO
+Encoding: 65 3018 65
+GlifName: tml_M_atraO_
+Width: 1171
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+Refer: 44 3006 N 1 0 0 1 0 0 2
+Refer: 48 3014 N 1 0 0 1 560 0 2
+EndChar
+
+StartChar: tml_MatraOo
+Encoding: 66 3019 66
+GlifName: tml_M_atraO_o
+Width: 488
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+Refer: 49 3015 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_MatraU
+Encoding: 67 3009 67
+GlifName: tml_M_atraU_
+Width: 388
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraU" -170 560 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+348 385 m 256
+ 348 272 293 211 201 211 c 256
+ 102 211 53 282 53 373 c 256
+ 53 472 112 522 202 522 c 257
+ 197 462 l 257
+ 165 462 152 419 152 383 c 256
+ 152 350 163 307 196 307 c 256
+ 228 307 238 348 238 385 c 256
+ 238 448 209 462 195 462 c 258
+ -171 462 l 257
+ -171 560 l 257
+ 157 560 l 258
+ 238 560 348 539 348 385 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraU.alt1
+Encoding: 68 -1 68
+GlifName: tml_M_atraU_.alt1
+Width: 169
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "MatraU.alt1" 30 33 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+30 -153 m 257
+ 30 33 l 257
+ 139 33 l 257
+ 139 -153 l 261
+ 30 -153 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_MatraUu
+Encoding: 69 3010 69
+GlifName: tml_M_atraU_u
+Width: 549
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "MatraUu" -181 560 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+175 550 m 257
+ 222 550 348 526 348 385 c 256
+ 348 276 291 218 199 218 c 256
+ 94 218 43 293 43 397 c 256
+ 43 538 138 645 281 645 c 256
+ 439 645 504 523 504 414 c 256
+ 504 296 445 196 445 196 c 257
+ 363 230 l 257
+ 363 230 414 315 414 402 c 256
+ 414 491 360 562 284 562 c 256
+ 197 562 143 470 143 392 c 256
+ 143 351 164 316 200 316 c 256
+ 226 316 241 344 241 385 c 256
+ 241 433 218 462 162 462 c 258
+ -181 462 l 261
+ -181 560 l 261
+ 134 560 l 257
+ 175 550 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_Month
+Encoding: 70 3060 70
+GlifName: tml_M_onth
+Width: 1051
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+560 800 m 256
+ 687 800 753 724 753 640 c 256
+ 753 567 700 532 642 532 c 256
+ 583 532 531 567 531 640 c 256
+ 531 730 609 800 723 800 c 256
+ 823 800 914 740 895 644 c 257
+ 1021 644 l 257
+ 1021 557 l 257
+ 803 557 l 257
+ 803 616 l 257
+ 835 645 810 719 737 719 c 256
+ 666 719 609 699 609 642 c 256
+ 609 616 624 605 642 605 c 256
+ 659 605 675 615 675 642 c 256
+ 675 699 603 721 556 721 c 256
+ 493 721 410 681 450 550 c 257
+ 368 532 l 257
+ 316 686 406 800 560 800 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 43 2990 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_NU
+Encoding: 71 -1 71
+GlifName: tml_N_U_
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+411 -349 m 256
+ 160 -349 60 -270 60 -185 c 256
+ 60 -114 114 -61 209 -61 c 258
+ 974 -61 l 257
+ 974 573 l 257
+ 1081 573 l 257
+ 1081 -158 l 257
+ 202 -158 l 258
+ 181 -158 167 -165 167 -183 c 256
+ 167 -225 263 -250 411 -250 c 256
+ 706 -250 805 -26 805 207 c 256
+ 805 361 768 475 671 475 c 256
+ 550 475 504 368 504 214 c 256
+ 504 142 519 75 548 75 c 256
+ 576 75 588 134 588 213 c 256
+ 588 414 470 474 367 474 c 256
+ 208 474 149 378 149 256 c 256
+ 149 159 166 75 214 75 c 256
+ 260 75 269 139 269 178 c 256
+ 269 239 241 272 215 272 c 256
+ 175 272 147 222 159 148 c 257
+ 72 217 l 257
+ 94 267 124 373 221 373 c 256
+ 290 373 371 316 371 175 c 256
+ 371 54 312 -23 214 -23 c 256
+ 109 -23 47 91 47 246 c 256
+ 47 450 162 572 367 573 c 256
+ 532 573 696 470 696 214 c 256
+ 696 53 653 -23 548 -23 c 256
+ 446 -23 396 55 396 214 c 256
+ 396 425 478 572 670 573 c 256
+ 855 573 911 381 912 215 c 256
+ 913 -102 768 -349 411 -349 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_NUu
+Encoding: 72 -1 72
+GlifName: tml_N_U_u
+Width: 1399
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+1369 573 m 257
+ 1369 476 l 257
+ 1269 476 l 257
+ 1269 -13 l 257
+ 1162 -13 l 257
+ 1162 476 l 257
+ 1047 476 l 257
+ 1047 573 l 257
+ 1369 573 l 257
+EndSplineSet
+Refer: 71 -1 N 1 0 0 1 -17 0 2
+EndChar
+
+StartChar: tml_Na
+Encoding: 73 2984 73
+GlifName: tml_N_a
+Width: 632
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi" 427 560 basechar 0
+AnchorPoint: "MatraI.alt1" 442 560 basechar 0
+AnchorPoint: "virama" 328 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+33 1 m 257
+ 33 560 l 257
+ 482 560 l 257
+ 482 462 l 257
+ 379 462 l 257
+ 379 1 l 257
+ 271 1 l 257
+ 271 462 l 257
+ 140 462 l 257
+ 140 1 l 257
+ 33 1 l 257
+223 -61 m 258
+ 327 -61 l 258
+ 440 -60 504 -1 499 123 c 256
+ 499 200 480 266 428 266 c 256
+ 385 266 379 218 379 179 c 257
+ 310 220 l 257
+ 312 265 350 359 439 358 c 256
+ 558 357 602 253 602 118 c 256
+ 602 -46 521 -155 333 -157 c 258
+ 229 -158 l 258
+ 131 -159 141 -197 140 -236 c 257
+ 30 -236 l 257
+ 31 -129 73 -61 223 -61 c 258
+  PathStart: -2
+EndSplineSet
+PickledDataWithLists: "(dp1
+S'com.typemytype.robofont.guides'
+p2
+(lp3
+(dp4
+S'y'
+I1
+sS'x'
+I150
+sS'angle'
+p5
+I90
+sS'isGlobal'
+p6
+I00
+sas."
+EndChar
+
+StartChar: tml_NgUu
+Encoding: 74 -1 74
+GlifName: tml_N_gU_u
+Width: 941
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+631 -153 m 257
+ 631 32 l 257
+ 740 33 l 257
+ 740 -153 l 257
+ 631 -153 l 257
+775 58 m 256
+ 842 58 911 9 911 -98 c 256
+ 911 -237 769 -349 553 -349 c 256
+ 379 -349 220 -300 220 -175 c 256
+ 220 -97 269 -44 338 -44 c 256
+ 414 -44 460 -103 460 -169 c 256
+ 460 -250 409 -279 346 -279 c 256
+ 312 -279 272 -251 266 -208 c 257
+ 305 -188 l 257
+ 308 -203 320 -215 338 -215 c 256
+ 359 -215 373 -200 373 -178 c 256
+ 373 -157 365 -138 338 -138 c 256
+ 315 -138 304 -156 304 -178 c 256
+ 304 -234 427 -261 553 -262 c 256
+ 697 -263 813 -191 813 -95 c 256
+ 813 -36 786 -22 764 -22 c 256
+ 751 -22 740 -30 740 -47 c 257
+ 684 5 l 257
+ 712 43 744 59 775 58 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 75 2969 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Nga
+Encoding: 75 2969 75
+GlifName: tml_N_ga
+Width: 750
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraU.alt1" 611 33 basechar 0
+AnchorPoint: "MatraIi" 663 560 basechar 0
+AnchorPoint: "MatraI.alt4" 639 560 basechar 0
+AnchorPoint: "virama" 350 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+30 0 m 257
+ 30 560 l 257
+ 440 560 l 257
+ 440 462 l 257
+ 338 462 l 257
+ 338 164 l 257
+ 230 164 l 257
+ 230 462 l 257
+ 137 462 l 257
+ 137 0 l 257
+ 30 0 l 257
+228 98 m 257
+ 697 97 l 257
+ 697 0 l 257
+ 228 0 l 257
+ 228 98 l 257
+298 98 m 257
+ 415 98 443 187 443 240 c 256
+ 443 283 424 317 387 317 c 256
+ 348 317 338 279 338 254 c 257
+ 289 285 l 257
+ 289 358 340 408 413 408 c 256
+ 491 408 548 352 548 257 c 256
+ 548 136 454 22 307 22 c 257
+ 298 98 l 257
+613 560 m 257
+ 720 560 l 257
+ 720 0 l 257
+ 613 0 l 257
+ 613 560 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_Nine
+Encoding: 76 3055 76
+GlifName: tml_N_ine
+Width: 954
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+523 341 m 257
+ 700 351 740 223 740 144 c 256
+ 740 50 685 -1 610 -1 c 256
+ 539 -1 481 50 481 139 c 256
+ 481 302 604 360 708 360 c 256
+ 831 360 915 280 915 165 c 256
+ 915 80 873 15 837 -14 c 257
+ 772 46 l 257
+ 805 81 826 120 826 171 c 256
+ 826 233 768 279 708 279 c 256
+ 622 279 567 223 567 147 c 256
+ 567 121 583 77 612 77 c 256
+ 641 77 653 112 653 138 c 256
+ 653 214 608 242 558 244 c 257
+ 430 244 l 257
+ 417 341 l 257
+ 523 341 l 257
+EndSplineSet
+Refer: 12 2970 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_NnAa.alt
+Encoding: 77 -1 77
+GlifName: tml_N_nA_a.alt
+Width: 1107
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+608 -271 m 256
+ 258 -271 30 -113 30 242 c 256
+ 30 388 78 510 126 572 c 257
+ 215 527 l 257
+ 206 514 134 416 134 251 c 256
+ 134 -61 329 -168 604 -168 c 256
+ 820 -168 973 -50 973 79 c 256
+ 973 176 904 171 904 171 c 257
+ 904 269 l 257
+ 904 269 967 267 967 359 c 256
+ 967 426 915 475 834 475 c 256
+ 713 475 667 368 667 214 c 256
+ 667 142 682 75 711 75 c 256
+ 739 75 751 134 751 213 c 256
+ 751 414 633 474 540 474 c 257
+ 540 572 l 257
+ 695 572 859 470 859 214 c 256
+ 859 53 816 -23 711 -23 c 256
+ 609 -23 559 55 559 214 c 256
+ 559 425 641 572 833 573 c 256
+ 995 574 1065 472 1065 358 c 256
+ 1065 254 1016 225 1016 225 c 257
+ 1016 225 1077 189 1077 79 c 256
+ 1077 -127 874 -271 608 -271 c 256
+377 -23 m 256
+ 272 -23 210 91 210 246 c 256
+ 210 450 325 571 520 572 c 257
+ 520 474 l 257
+ 371 474 312 378 312 256 c 256
+ 312 159 329 75 377 75 c 256
+ 423 75 432 139 432 178 c 256
+ 432 239 404 272 378 272 c 256
+ 338 272 310 222 322 148 c 256
+ 235 217 l 256
+ 257 267 287 373 384 373 c 256
+ 453 373 534 316 534 175 c 256
+ 534 54 475 -23 377 -23 c 256
+520 474 m 257
+ 520 572 l 257
+ 542 572 l 257
+ 542 474 l 257
+ 520 474 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_NnU
+Encoding: 78 -1 78
+GlifName: tml_N_nU_
+Width: 837
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+70 1 m 257
+ 70 560 l 257
+ 519 560 l 257
+ 519 462 l 257
+ 416 462 l 257
+ 416 1 l 257
+ 308 1 l 257
+ 308 462 l 257
+ 177 462 l 257
+ 177 1 l 257
+ 70 1 l 257
+306 -349 m 256
+ 92 -349 22 -252 22 -180 c 256
+ 22 -125 63 -64 161 -64 c 258
+ 700 -62 l 257
+ 700 560 l 257
+ 807 560 l 257
+ 807 -159 l 257
+ 175 -158 l 258
+ 144 -158 129 -165 129 -190 c 256
+ 129 -222 186 -252 306 -252 c 256
+ 484 -252 541 -108 541 97 c 256
+ 541 174 517 266 465 266 c 256
+ 422 266 416 218 416 179 c 257
+ 347 220 l 257
+ 349 265 387 359 476 358 c 256
+ 595 357 644 227 644 92 c 256
+ 644 -175 547 -349 306 -349 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_NnUu
+Encoding: 79 -1 79
+GlifName: tml_N_nU_u
+Width: 837
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+1112 560 m 257
+ 1112 463 l 257
+ 1012 463 l 257
+ 1012 -13 l 257
+ 905 -13 l 257
+ 905 463 l 257
+ 790 463 l 257
+ 790 560 l 257
+ 1112 560 l 257
+EndSplineSet
+Refer: 78 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Nna
+Encoding: 80 2979 80
+GlifName: tml_N_na
+Width: 1307
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi" 1247 561 basechar 0
+AnchorPoint: "MatraAi.alt" 30 244 basechar 0
+AnchorPoint: "virama" 700 0 basechar 0
+AnchorPoint: "MatraI.alt2" 1202 561 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+201 -24 m 256
+ 92 -24 30 91 30 236 c 256
+ 30 483 212 570 341 570 c 256
+ 449 570 688 510 688 200 c 256
+ 688 52 620 -23 528 -23 c 256
+ 434 -23 370 57 370 206 c 256
+ 370 401 471 572 689 572 c 256
+ 851 572 1026 475 1026 207 c 256
+ 1026 57 972 -23 869 -23 c 256
+ 768 -23 709 55 709 215 c 256
+ 709 410 815 561 1000 561 c 258
+ 1277 561 l 257
+ 1277 461 l 257
+ 1174 461 l 257
+ 1174 1 l 257
+ 1066 1 l 257
+ 1066 461 l 257
+ 1001 461 l 258
+ 882 461 814 359 814 208 c 256
+ 814 133 831 65 867 65 c 256
+ 905 65 920 137 920 209 c 256
+ 920 424 785 474 689 474 c 256
+ 524 474 475 327 475 199 c 256
+ 475 123 492 65 528 65 c 256
+ 567 65 580 124 580 194 c 256
+ 580 397 455 476 332 474 c 256
+ 258 473 132 418 132 233 c 256
+ 132 165 149 64 199 64 c 256
+ 242 64 252 139 252 179 c 256
+ 252 238 230 281 195 281 c 256
+ 158 281 134 234 138 167 c 257
+ 82 196 l 257
+ 82 269 124 362 210 362 c 256
+ 282 362 348 298 348 171 c 256
+ 348 50 288 -24 201 -24 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_NnnAa.alt
+Encoding: 81 -1 81
+GlifName: tml_N_nnA_a.alt
+Width: 1457
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+997 208 m 256
+ 997 133 1014 65 1050 65 c 256
+ 1088 65 1103 137 1103 209 c 256
+ 1103 424 968 474 872 474 c 256
+ 707 474 658 327 658 199 c 256
+ 658 123 675 65 711 65 c 256
+ 750 65 763 124 763 194 c 256
+ 763 397 638 476 515 474 c 256
+ 441 473 315 418 315 233 c 256
+ 315 165 332 64 382 64 c 256
+ 425 64 435 139 435 179 c 256
+ 435 238 413 281 378 281 c 256
+ 341 281 317 234 321 167 c 257
+ 265 196 l 257
+ 265 269 307 362 393 362 c 256
+ 465 362 531 298 531 171 c 256
+ 531 50 471 -24 384 -24 c 256
+ 275 -24 213 91 213 236 c 256
+ 213 483 395 570 524 570 c 256
+ 632 570 871 510 871 200 c 256
+ 871 52 803 -23 711 -23 c 256
+ 617 -23 553 57 553 206 c 256
+ 553 401 654 572 872 572 c 256
+ 1034 572 1209 475 1209 207 c 256
+ 1209 57 1155 -23 1052 -23 c 256
+ 951 -23 892 55 892 215 c 256
+ 892 410 998 573 1183 573 c 257
+ 1345 574 1415 472 1415 358 c 256
+ 1415 254 1366 225 1366 225 c 257
+ 1366 225 1427 189 1427 79 c 256
+ 1427 -127 1218 -271 778 -271 c 256
+ 316 -271 30 -143 30 242 c 256
+ 30 388 78 510 126 572 c 257
+ 215 527 l 257
+ 206 514 134 416 134 251 c 256
+ 134 -85 377 -168 774 -168 c 256
+ 1080 -168 1323 -70 1323 79 c 256
+ 1323 176 1254 171 1254 171 c 257
+ 1254 269 l 257
+ 1254 269 1317 267 1317 359 c 256
+ 1317 426 1265 475 1184 475 c 257
+ 1065 475 997 359 997 208 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_NnnU
+Encoding: 82 -1 82
+GlifName: tml_N_nnU_
+Width: 1456
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+814 208 m 256
+ 814 133 831 65 867 65 c 256
+ 905 65 920 137 920 209 c 256
+ 920 424 785 474 689 474 c 256
+ 524 474 475 327 475 199 c 256
+ 475 123 492 65 528 65 c 256
+ 567 65 580 124 580 194 c 256
+ 580 397 455 476 332 474 c 256
+ 258 473 132 418 132 233 c 256
+ 132 165 149 64 199 64 c 256
+ 242 64 252 139 252 179 c 256
+ 252 238 230 281 195 281 c 256
+ 158 281 134 234 138 167 c 257
+ 82 196 l 257
+ 82 269 124 362 210 362 c 256
+ 282 362 348 298 348 171 c 256
+ 348 50 288 -24 201 -24 c 256
+ 92 -24 30 91 30 236 c 256
+ 30 483 212 570 341 570 c 256
+ 449 570 688 510 688 200 c 256
+ 688 52 620 -23 528 -23 c 256
+ 434 -23 370 57 370 206 c 256
+ 370 401 471 572 689 572 c 256
+ 851 572 1026 475 1026 207 c 256
+ 1026 57 972 -23 869 -23 c 256
+ 768 -23 709 55 709 215 c 256
+ 709 410 815 573 1000 573 c 256
+ 1185 573 1257 381 1257 215 c 256
+ 1257 -90 1097 -349 594 -349 c 256
+ 156 -349 68 -268 68 -185 c 256
+ 68 -106 116 -61 211 -61 c 258
+ 1319 -61 l 257
+ 1319 573 l 257
+ 1426 573 l 257
+ 1426 -158 l 257
+ 208 -158 l 258
+ 187 -158 175 -169 175 -184 c 256
+ 175 -208 249 -250 589 -250 c 256
+ 1032 -250 1135 0 1135 207 c 256
+ 1135 371 1097 474 1001 474 c 256
+ 883 474 814 359 814 208 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_NnnUu
+Encoding: 83 -1 83
+GlifName: tml_N_nnU_u
+Width: 1761
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+1731 573 m 257
+ 1731 476 l 257
+ 1631 476 l 257
+ 1631 -13 l 257
+ 1524 -13 l 257
+ 1524 476 l 257
+ 1409 476 l 257
+ 1409 573 l 257
+ 1731 573 l 257
+EndSplineSet
+Refer: 82 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Nnna
+Encoding: 84 2985 84
+GlifName: tml_N_nna
+Width: 968
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi" 908 561 basechar 0
+AnchorPoint: "MatraAi.alt" 30 244 basechar 0
+AnchorPoint: "virama" 486 0 basechar 0
+AnchorPoint: "MatraI.alt2" 863 561 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+360 474 m 257
+ 360 572 l 257
+ 515 572 679 470 679 214 c 256
+ 679 53 636 -23 531 -23 c 256
+ 429 -23 379 55 379 214 c 256
+ 379 425 473 561 665 561 c 258
+ 938 561 l 257
+ 938 463 l 257
+ 836 463 l 257
+ 836 1 l 257
+ 728 1 l 257
+ 728 463 l 257
+ 654 463 l 258
+ 533 463 487 368 487 214 c 256
+ 487 142 502 75 531 75 c 256
+ 559 75 571 134 571 213 c 256
+ 571 414 453 474 360 474 c 257
+  PathStart: -2
+197 -23 m 256
+ 92 -23 30 91 30 246 c 256
+ 30 450 145 571 340 572 c 257
+ 340 474 l 257
+ 191 474 132 378 132 256 c 256
+ 132 159 149 75 197 75 c 256
+ 243 75 252 139 252 178 c 256
+ 252 239 224 272 198 272 c 256
+ 158 272 130 222 142 148 c 256
+ 55 217 l 256
+ 77 267 107 373 204 373 c 256
+ 273 373 354 316 354 175 c 256
+ 354 54 295 -23 197 -23 c 256
+340 474 m 257
+ 340 572 l 257
+ 362 572 l 257
+ 362 474 l 257
+ 340 474 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_Number
+Encoding: 85 3066 85
+GlifName: tml_N_umber
+Width: 946
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+327 537 m 257
+ 291 627 336 755 480 755 c 256
+ 647 755 830 620 830 375 c 256
+ 830 288 805 204 706 204 c 256
+ 624 204 577 274 577 376 c 256
+ 577 482 662 574 768 574 c 256
+ 882 574 997 503 999 325 c 256
+ 1000 218 952 140 910 98 c 257
+ 1037 98 l 257
+ 1037 0 l 257
+ 772 0 l 257
+ 771 83 l 257
+ 830 130 898 204 898 315 c 256
+ 898 443 835 471 768 471 c 256
+ 698 471 669 419 669 363 c 256
+ 669 314 685 295 706 295 c 256
+ 726 295 741 311 741 355 c 256
+ 741 540 633 659 486 657 c 256
+ 429 656 376 621 410 537 c 257
+ 327 537 l 257
+30 0 m 257
+ 30 560 l 257
+ 440 560 l 257
+ 440 462 l 257
+ 338 462 l 257
+ 338 0 l 257
+ 230 0 l 257
+ 230 462 l 257
+ 137 462 l 257
+ 137 0 l 257
+ 30 0 l 257
+387 76 m 257
+ 423 76 449 141 449 213 c 256
+ 449 276 424 317 387 317 c 256
+ 348 317 338 279 338 254 c 257
+ 289 285 l 257
+ 289 358 340 408 413 408 c 256
+ 491 408 546 327 546 232 c 256
+ 546 121 501 0 387 0 c 257
+ 387 76 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_NyU
+Encoding: 86 -1 86
+GlifName: tml_N_yU_
+Width: 948
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+314 -349 m 256
+ 100 -349 30 -252 30 -180 c 256
+ 30 -125 71 -64 169 -64 c 258
+ 811 -64 l 257
+ 811 560 l 257
+ 918 560 l 257
+ 918 -159 l 257
+ 183 -158 l 258
+ 152 -158 137 -165 137 -190 c 256
+ 137 -222 194 -252 314 -252 c 256
+ 552 -250 648 -84 648 124 c 256
+ 648 203 621 267 580 267 c 256
+ 538 267 529 229 529 204 c 257
+ 480 235 l 256
+ 480 308 528 358 592 358 c 256
+ 686 358 750 270 750 121 c 256
+ 750 -142 622 -350 314 -349 c 256
+EndSplineSet
+Refer: 16 2958 N 1 0 0 1 8 0 2
+EndChar
+
+StartChar: tml_NyUu
+Encoding: 87 -1 87
+GlifName: tml_N_yU_u
+Width: 1253
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+1223 560 m 257
+ 1223 463 l 257
+ 1123 463 l 257
+ 1123 -13 l 257
+ 1016 -13 l 257
+ 1016 463 l 257
+ 901 463 l 257
+ 901 560 l 257
+ 1223 560 l 257
+EndSplineSet
+Refer: 86 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Nya
+Encoding: 88 2974 88
+GlifName: tml_N_ya
+Width: 974
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi" 771 560 basechar 0
+AnchorPoint: "MatraI.alt1" 786 560 basechar 0
+AnchorPoint: "virama" 590 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+409 -24 m 256
+ 304 -24 242 90 242 245 c 256
+ 242 442 335 560 491 560 c 256
+ 489 462 l 256
+ 390 462 344 370 344 255 c 256
+ 344 158 361 74 409 74 c 256
+ 455 74 464 139 464 178 c 256
+ 464 246 436 281 410 281 c 256
+ 367 281 347 235 350 167 c 257
+ 294 196 l 257
+ 294 269 337 362 421 362 c 256
+ 494 362 560 297 560 174 c 256
+ 560 53 503 -24 409 -24 c 256
+518 -275 m 256
+ 223 -274 31 -84 30 227 c 256
+ 30 368 80 477 138 572 c 257
+ 227 527 l 257
+ 171 434 134 350 134 227 c 256
+ 134 -17 290 -176 519 -175 c 256
+ 757 -174 842 -54 842 134 c 256
+ 842 213 815 267 774 267 c 256
+ 732 267 723 229 723 204 c 257
+ 674 235 l 256
+ 674 308 722 358 786 358 c 256
+ 880 358 944 280 944 131 c 256
+ 944 -117 826 -276 518 -275 c 256
+  PathStart: -2
+481 462 m 257
+ 489 560 l 257
+ 826 560 l 257
+ 826 462 l 257
+ 723 462 l 257
+ 723 1 l 257
+ 616 1 l 257
+ 616 462 l 257
+ 481 462 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_O
+Encoding: 89 2962 89
+GlifName: tml_O_
+Width: 662
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+476 152 m 256
+ 389 152 337 230 337 299 c 257
+ 436 299 l 257
+ 436 269 444 243 477 243 c 256
+ 514 243 541 286 541 345 c 256
+ 541 442 458 512 354 512 c 256
+ 211 512 132 423 132 300 c 256
+ 132 260 144 231 174 231 c 256
+ 206 231 219 255 219 289 c 256
+ 219 320 207 343 176 343 c 256
+ 146 343 133 321 132 290 c 257
+ 74 296 l 257
+ 74 369 118 422 192 422 c 256
+ 262 422 303 364 303 285 c 256
+ 303 204 256 146 176 146 c 256
+ 92 146 41 214 41 307 c 256
+ 41 483 158 610 354 610 c 256
+ 517 610 643 501 643 350 c 256
+ 643 235 573 152 476 152 c 256
+  PathStart: -1
+332 -164 m 256
+ 225 -164 148 -85 148 23 c 257
+ 247 23 l 257
+ 247 -27 285 -63 338 -63 c 256
+ 408 -63 428 -10 435 62 c 257
+ 461 14 l 257
+ 387 14 337 73 337 160 c 258
+ 337 299 l 257
+ 434 299 l 257
+ 434 159 l 258
+ 434 109 451 98 486 98 c 258
+ 607 98 l 257
+ 607 12 l 257
+ 491 12 l 257
+ 528 15 l 257
+ 515 -89 442 -164 332 -164 c 256
+  PathStart: -1
+EndSplineSet
+EndChar
+
+StartChar: tml_Om
+Encoding: 90 3024 90
+GlifName: tml_O_m
+Width: 683
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+176 146 m 256
+ 92 146 41 214 41 307 c 256
+ 41 483 158 610 354 610 c 256
+ 517 610 643 501 643 350 c 256
+ 643 235 573 152 476 152 c 256
+ 389 152 337 230 337 299 c 257
+ 436 299 l 257
+ 436 269 444 243 477 243 c 256
+ 514 243 541 286 541 345 c 256
+ 541 442 458 512 354 512 c 256
+ 211 512 132 423 132 300 c 256
+ 132 260 144 231 174 231 c 256
+ 206 231 219 255 219 289 c 256
+ 219 320 207 343 176 343 c 256
+ 146 343 133 321 132 290 c 257
+ 74 296 l 257
+ 74 369 118 422 192 422 c 256
+ 262 422 303 364 303 285 c 256
+ 303 204 256 146 176 146 c 256
+332 -164 m 256
+ 225 -164 148 -85 148 23 c 257
+ 247 23 l 257
+ 247 -27 285 -63 338 -63 c 256
+ 408 -63 428 -10 435 62 c 257
+ 461 14 l 257
+ 387 14 337 73 337 160 c 258
+ 337 299 l 257
+ 434 299 l 257
+ 434 159 l 258
+ 434 109 451 98 486 98 c 258
+ 607 98 l 257
+ 607 12 l 257
+ 491 12 l 257
+ 528 15 l 257
+ 515 -89 442 -164 332 -164 c 256
+  PathStart: -1
+309 -41 m 257
+ 309 27 l 257
+ 325 27 l 257
+ 325 -26 l 257
+ 350 -26 l 257
+ 352 -41 l 257
+ 309 -41 l 257
+337 -30 m 257
+ 337 12 l 258
+ 337 23 342 29 353 29 c 256
+ 372 29 381 12 381 -3 c 256
+ 381 -24 369 -41 352 -41 c 257
+ 349 -26 l 257
+ 362 -26 366 -13 366 -3 c 256
+ 366 5 363 14 356 14 c 256
+ 353 14 352 11 352 7 c 258
+ 352 -30 l 257
+ 337 -30 l 257
+350 45 m 256
+ 350 51 345 56 339 56 c 256
+ 333 56 329 51 329 45 c 256
+ 329 39 333 35 339 35 c 256
+ 345 35 350 39 350 45 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_One
+Encoding: 91 3047 91
+GlifName: tml_O_ne
+Width: 641
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+Refer: 31 2965 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Oo
+Encoding: 92 2963 92
+GlifName: tml_O_o
+Width: 663
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+176 146 m 256
+ 92 146 41 214 41 307 c 256
+ 41 483 158 610 354 610 c 256
+ 517 610 643 501 643 350 c 256
+ 643 235 573 152 476 152 c 256
+ 389 152 337 230 337 299 c 257
+ 436 299 l 257
+ 436 269 444 243 477 243 c 256
+ 514 243 541 286 541 345 c 256
+ 541 442 458 512 354 512 c 256
+ 211 512 132 423 132 300 c 256
+ 132 260 144 231 174 231 c 256
+ 206 231 219 255 219 289 c 256
+ 219 320 207 343 176 343 c 256
+ 146 343 133 321 132 290 c 257
+ 74 296 l 257
+ 74 369 118 422 192 422 c 256
+ 262 422 303 364 303 285 c 256
+ 303 204 256 146 176 146 c 256
+332 -164 m 256
+ 225 -164 128 -100 128 8 c 256
+ 128 74 177 121 245 121 c 256
+ 312 121 360 77 360 17 c 256
+ 360 -68 286 -107 263 -120 c 257
+ 226 -62 l 257
+ 252 -46 278 -34 278 9 c 256
+ 278 28 267 41 253 41 c 256
+ 238 41 227 24 227 5 c 256
+ 227 -37 262 -73 326 -73 c 256
+ 396 -73 428 -10 435 62 c 257
+ 461 14 l 257
+ 387 14 337 73 337 160 c 258
+ 337 299 l 257
+ 434 299 l 257
+ 434 159 l 258
+ 434 109 451 98 486 98 c 258
+ 607 98 l 257
+ 607 12 l 257
+ 491 12 l 257
+ 528 15 l 257
+ 515 -89 442 -164 332 -164 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_PUu
+Encoding: 93 -1 93
+GlifName: tml_P_U_u
+Width: 691
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+391 -153 m 257
+ 392 32 l 257
+ 500 33 l 257
+ 500 -153 l 257
+ 391 -153 l 257
+535 58 m 256
+ 602 58 671 9 671 -98 c 256
+ 671 -237 528 -349 343 -349 c 256
+ 149 -349 40 -282 40 -175 c 256
+ 40 -97 89 -44 158 -44 c 256
+ 234 -44 280 -103 280 -169 c 256
+ 280 -250 229 -279 166 -279 c 256
+ 132 -279 92 -251 86 -208 c 257
+ 125 -188 l 257
+ 128 -203 140 -215 158 -215 c 256
+ 179 -215 193 -200 193 -178 c 256
+ 193 -157 185 -138 158 -138 c 256
+ 135 -138 124 -156 124 -178 c 256
+ 124 -236 215 -259 343 -259 c 256
+ 466 -259 573 -191 573 -95 c 256
+ 573 -36 546 -22 524 -22 c 256
+ 511 -22 500 -30 500 -47 c 257
+ 444 5 l 257
+ 472 43 504 59 535 58 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 94 2986 N 1 0 0 1 11 0 2
+EndChar
+
+StartChar: tml_Pa
+Encoding: 94 2986 94
+GlifName: tml_P_a
+Width: 510
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraU.alt1" 371 33 basechar 0
+AnchorPoint: "MatraIi" 442 560 basechar 0
+AnchorPoint: "MatraI.alt3" 372 530 basechar 0
+AnchorPoint: "virama" 262 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+30 1 m 257
+ 30 560 l 257
+ 137 560 l 257
+ 137 99 l 257
+ 372 99 l 257
+ 372 560 l 257
+ 480 560 l 257
+ 480 1 l 257
+ 30 1 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_RI.alt
+Encoding: 95 -1 95
+GlifName: tml_R_I_.alt
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+71 1 m 257
+ 71 560 l 257
+ 550 560 l 257
+ 550 462 l 257
+ 447 462 l 257
+ 447 1 l 257
+ 339 1 l 257
+ 339 462 l 257
+ 178 462 l 257
+ 178 1 l 257
+ 71 1 l 257
+EndSplineSet
+Refer: 52 -1 N 1 0 0 1 300 0 2
+EndChar
+
+StartChar: tml_RIi.alt
+Encoding: 96 -1 96
+GlifName: tml_R_I_i.alt
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+71 1 m 257
+ 71 560 l 257
+ 550 560 l 257
+ 550 462 l 257
+ 447 462 l 257
+ 447 1 l 257
+ 339 1 l 257
+ 339 462 l 257
+ 178 462 l 257
+ 178 1 l 257
+ 71 1 l 257
+EndSplineSet
+Refer: 60 3008 N 1 0 0 1 290 0 2
+EndChar
+
+StartChar: tml_RU
+Encoding: 97 -1 97
+GlifName: tml_R_U_
+Width: 944
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+327 0 m 257
+ 327 560 l 257
+ 796 560 l 257
+ 796 462 l 257
+ 693 462 l 257
+ 693 0 l 257
+ 585 0 l 257
+ 585 462 l 257
+ 434 462 l 257
+ 434 0 l 257
+ 327 0 l 257
+217 526 m 257
+ 171 457 137 354 137 234 c 256
+ 137 10 280 -161 519 -160 c 256
+ 710 -159 812 -34 812 134 c 256
+ 812 213 785 267 744 267 c 256
+ 702 267 693 229 693 204 c 257
+ 644 235 l 256
+ 644 308 692 358 756 358 c 256
+ 850 358 914 280 914 131 c 256
+ 914 -96 787 -268 508 -267 c 256
+ 213 -266 30 -65 30 229 c 256
+ 30 356 62 484 121 574 c 257
+ 217 526 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_RUu
+Encoding: 98 -1 98
+GlifName: tml_R_U_u
+Width: 529
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+30 0 m 257
+ 30 560 l 257
+ 499 560 l 257
+ 499 462 l 257
+ 396 462 l 257
+ 396 0 l 257
+ 288 0 l 257
+ 288 462 l 257
+ 137 462 l 257
+ 137 0 l 257
+ 30 0 l 257
+181 -267 m 256
+ -80 -266 -340 -134 -340 191 c 256
+ -340 344 -288 573 -133 573 c 256
+ -42 573 -5 492 -5 428 c 256
+ -5 362 -44 287 -127 287 c 256
+ -206 287 -237 354 -237 408 c 256
+ -237 461 -206 501 -161 511 c 257
+ -142 487 l 257
+ -163 482 -176 460 -176 426 c 256
+ -176 390 -161 366 -132 366 c 256
+ -105 366 -89 390 -89 425 c 256
+ -89 460 -102 488 -131 488 c 256
+ -206 488 -240 326 -240 204 c 256
+ -240 -64 5 -160 192 -160 c 256
+ 383 -160 515 -34 515 134 c 256
+ 515 213 488 267 447 267 c 256
+ 405 267 396 229 396 204 c 257
+ 347 235 l 256
+ 347 308 395 358 459 358 c 256
+ 553 358 617 280 617 131 c 256
+ 617 -96 460 -268 181 -267 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_Ra
+Encoding: 99 2992 99
+GlifName: tml_R_a
+Width: 549
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi" 464 560 basechar 0
+AnchorPoint: "MatraI.alt2" 444 560 basechar 0
+AnchorPoint: "virama" 275 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+50 0 m 257
+ 50 560 l 257
+ 519 560 l 257
+ 519 461 l 257
+ 416 461 l 257
+ 416 0 l 257
+ 308 0 l 257
+ 308 461 l 257
+ 157 461 l 257
+ 157 0 l 257
+ 50 0 l 257
+88 -174 m 257
+ 309 33 l 257
+ 416 0 l 257
+ 154 -241 l 257
+ 88 -174 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_RrAa.alt
+Encoding: 100 -1 100
+GlifName: tml_R_rA_a.alt
+Width: 907
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+590 426 m 257
+ 510 390 l 257
+ 511 443 486 473 444 473 c 256
+ 414 473 380 452 378 392 c 258
+ 378 0 l 257
+ 269 0 l 257
+ 269 408 l 258
+ 269 506 345 575 434 574 c 256
+ 510 573 587 534 590 426 c 257
+  PathStart: -2
+510 1 m 257
+ 510 460 l 257
+ 617 460 l 257
+ 615 -1 l 257
+ 510 1 l 257
+865 359 m 256
+ 865 255 816 226 816 226 c 257
+ 816 226 877 190 877 80 c 256
+ 877 -126 743 -270 508 -270 c 256
+ 194 -270 31 -92 31 217 c 256
+ 31 373 98 511 146 573 c 257
+ 235 528 l 257
+ 226 515 135 382 135 207 c 256
+ 135 24 211 -167 494 -167 c 256
+ 694 -167 773 -49 773 80 c 256
+ 773 177 704 172 704 172 c 257
+ 704 270 l 257
+ 704 270 767 268 767 360 c 256
+ 767 427 735 476 689 476 c 256
+ 628 476 616 420 615 390 c 257
+ 545 431 l 257
+ 545 506 595 572 694 573 c 256
+ 807 574 865 473 865 359 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_RrU
+Encoding: 101 -1 101
+GlifName: tml_R_rU_
+Width: 875
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+369 426 m 257
+ 289 390 l 257
+ 290 443 265 473 223 473 c 256
+ 193 473 159 452 157 392 c 258
+ 157 0 l 257
+ 48 0 l 257
+ 48 408 l 258
+ 48 506 124 575 213 574 c 256
+ 289 573 366 534 369 426 c 257
+  PathStart: -2
+289 0 m 257
+ 289 460 l 257
+ 396 460 l 257
+ 394 -1 l 257
+ 289 0 l 257
+30 -180 m 256
+ 30 -125 71 -64 169 -64 c 258
+ 738 -62 l 257
+ 738 560 l 257
+ 845 560 l 257
+ 845 -159 l 257
+ 183 -158 l 258
+ 152 -158 137 -165 137 -190 c 256
+ 137 -222 207 -252 304 -252 c 256
+ 566 -252 569 43 567 234 c 256
+ 565 416 537 476 468 476 c 256
+ 407 476 395 420 394 390 c 257
+ 324 431 l 257
+ 324 506 374 573 473 573 c 256
+ 615 573 677 461 677 234 c 256
+ 677 -28 645 -349 304 -349 c 256
+ 107 -349 30 -252 30 -180 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_RrUu
+Encoding: 102 -1 102
+GlifName: tml_R_rU_u
+Width: 1180
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+1150 560 m 257
+ 1150 463 l 257
+ 1050 463 l 257
+ 1050 -13 l 257
+ 943 -13 l 257
+ 943 463 l 257
+ 828 463 l 257
+ 828 560 l 257
+ 1150 560 l 257
+EndSplineSet
+Refer: 101 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Rra
+Encoding: 103 2993 103
+GlifName: tml_R_ra
+Width: 689
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi.alt1" 547 552 basechar 0
+AnchorPoint: "MatraI.alt6" 545 553 basechar 0
+AnchorPoint: "virama" 327 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+351 426 m 257
+ 271 390 l 257
+ 272 443 247 473 205 473 c 256
+ 175 473 141 452 139 392 c 258
+ 139 0 l 257
+ 30 0 l 257
+ 30 408 l 258
+ 30 506 106 575 195 574 c 256
+ 271 573 348 534 351 426 c 257
+  PathStart: -2
+271 1 m 257
+ 271 460 l 257
+ 378 460 l 257
+ 376 -1 l 257
+ 271 1 l 257
+363 -164 m 258
+ 219 -165 l 258
+ 151 -165 141 -204 140 -243 c 257
+ 30 -243 l 257
+ 31 -136 73 -61 213 -61 c 258
+ 357 -61 l 258
+ 476 -61 551 13 549 234 c 256
+ 547 416 519 476 450 476 c 256
+ 389 476 377 420 376 390 c 257
+ 306 431 l 257
+ 306 506 356 573 455 573 c 256
+ 597 573 659 461 659 234 c 256
+ 659 -8 590 -162 363 -164 c 258
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_Rupee
+Encoding: 104 3065 104
+GlifName: tml_R_upee
+Width: 932
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+313 1 m 257
+ 313 560 l 257
+ 762 560 l 257
+ 762 462 l 257
+ 659 462 l 257
+ 659 1 l 257
+ 551 1 l 257
+ 551 462 l 257
+ 420 462 l 257
+ 420 1 l 257
+ 313 1 l 257
+160 341 m 256
+ 160 74 251 -160 498 -160 c 256
+ 657 -160 779 -56 779 129 c 256
+ 779 197 760 266 708 266 c 256
+ 665 266 659 218 659 179 c 257
+ 590 220 l 257
+ 594 268 625 358 725 358 c 256
+ 834 358 882 252 882 118 c 256
+ 882 -104 722 -267 490 -267 c 256
+ 186 -267 50 4 50 340 c 256
+ 50 746 272 954 523 954 c 256
+ 723 954 841 862 841 734 c 256
+ 841 654 785 601 709 601 c 256
+ 634 601 583 653 583 724 c 256
+ 583 793 632 843 699 843 c 256
+ 764 843 808 796 808 731 c 257
+ 754 729 l 257
+ 753 754 735 772 710 772 c 256
+ 685 772 667 754 667 727 c 256
+ 667 700 685 680 710 680 c 256
+ 736 680 754 701 754 729 c 256
+ 754 771 713 796 689 815 c 256
+ 652 844 591 850 523 848 c 256
+ 267 843 160 601 160 341 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_SU
+Encoding: 105 -1 105
+GlifName: tml_S_U_
+Width: 1368
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+207 -24 m 256
+ 102 -24 40 90 40 245 c 256
+ 40 450 129 573 292 573 c 256
+ 397 573 514 502 514 340 c 258
+ 514 0 l 257
+ 413 1 l 257
+ 413 339 l 258
+ 413 427 357 476 292 476 c 256
+ 186 476 142 378 142 255 c 256
+ 142 158 159 74 207 74 c 256
+ 253 74 262 139 262 178 c 256
+ 262 246 234 281 208 281 c 256
+ 165 281 145 235 148 167 c 257
+ 89 196 l 257
+ 89 259 132 362 217 362 c 256
+ 292 362 360 297 360 174 c 256
+ 360 53 303 -24 207 -24 c 256
+  PathStart: -2
+800 -23 m 256
+ 655 -23 644 74 644 180 c 258
+ 644 385 l 258
+ 643 445 615 472 582 472 c 256
+ 526 472 514 404 514 338 c 257
+ 441 368 l 257
+ 441 471 485 574 592 574 c 256
+ 696 574 746 487 746 382 c 258
+ 746 171 l 258
+ 746 116 748 75 800 75 c 256
+ 861 75 868 161 868 256 c 256
+ 868 445 823 462 823 462 c 257
+ 901 523 l 257
+ 956 464 974 401 974 255 c 256
+ 974 151 956 -23 800 -23 c 256
+  PathStart: -2
+1328 385 m 256
+ 1328 272 1273 211 1181 211 c 256
+ 1082 211 1033 282 1033 373 c 256
+ 1033 472 1092 522 1182 522 c 257
+ 1177 462 l 257
+ 1145 462 1132 419 1132 383 c 256
+ 1132 350 1143 307 1176 307 c 256
+ 1208 307 1218 348 1218 385 c 256
+ 1218 448 1189 462 1175 462 c 258
+ 823 462 l 257
+ 823 560 l 257
+ 1137 560 l 258
+ 1218 560 1328 539 1328 385 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_SUu
+Encoding: 106 -1 106
+GlifName: tml_S_U_u
+Width: 1528
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+207 -24 m 256
+ 102 -24 40 90 40 245 c 256
+ 40 450 129 573 292 573 c 256
+ 397 573 514 502 514 340 c 258
+ 514 0 l 257
+ 413 1 l 257
+ 413 339 l 258
+ 413 427 357 476 292 476 c 256
+ 186 476 142 378 142 255 c 256
+ 142 158 159 74 207 74 c 256
+ 253 74 262 139 262 178 c 256
+ 262 246 234 281 208 281 c 256
+ 165 281 145 235 148 167 c 257
+ 89 196 l 257
+ 89 259 132 362 217 362 c 256
+ 292 362 360 297 360 174 c 256
+ 360 53 303 -24 207 -24 c 256
+  PathStart: -2
+800 -23 m 256
+ 655 -23 644 74 644 180 c 258
+ 644 385 l 258
+ 643 445 615 472 582 472 c 256
+ 526 472 514 404 514 338 c 257
+ 441 368 l 257
+ 441 471 485 574 592 574 c 256
+ 696 574 746 487 746 382 c 258
+ 746 171 l 258
+ 746 116 748 75 800 75 c 256
+ 861 75 868 161 868 256 c 256
+ 868 445 823 462 823 462 c 257
+ 901 523 l 257
+ 956 464 974 401 974 255 c 256
+ 974 151 956 -23 800 -23 c 256
+  PathStart: -2
+1159 550 m 257
+ 1206 550 1332 526 1332 385 c 256
+ 1332 276 1275 218 1183 218 c 256
+ 1078 218 1027 293 1027 397 c 256
+ 1027 538 1122 645 1265 645 c 256
+ 1423 645 1488 523 1488 414 c 256
+ 1488 296 1429 196 1429 196 c 257
+ 1347 230 l 257
+ 1347 230 1398 315 1398 402 c 256
+ 1398 491 1344 562 1268 562 c 256
+ 1181 562 1127 470 1127 392 c 256
+ 1127 351 1148 316 1184 316 c 256
+ 1210 316 1225 344 1225 385 c 256
+ 1225 433 1202 462 1146 462 c 258
+ 823 462 l 257
+ 823 560 l 257
+ 1118 560 l 257
+ 1159 550 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_Sa
+Encoding: 107 3000 107
+GlifName: tml_S_a
+Width: 1004
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "virama" 450 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+197 -24 m 256
+ 92 -24 30 90 30 245 c 256
+ 30 450 119 573 282 573 c 256
+ 387 573 504 502 504 340 c 258
+ 504 0 l 257
+ 403 1 l 257
+ 403 339 l 258
+ 403 427 347 476 282 476 c 256
+ 176 476 132 378 132 255 c 256
+ 132 158 149 74 197 74 c 256
+ 243 74 252 139 252 178 c 256
+ 252 246 224 281 198 281 c 256
+ 155 281 135 235 138 167 c 257
+ 79 196 l 257
+ 79 259 122 362 207 362 c 256
+ 282 362 350 297 350 174 c 256
+ 350 53 293 -24 197 -24 c 256
+  PathStart: -2
+790 -23 m 256
+ 645 -23 634 74 634 180 c 258
+ 634 385 l 258
+ 633 445 605 472 572 472 c 256
+ 516 472 504 404 504 338 c 257
+ 431 368 l 257
+ 431 471 475 574 582 574 c 256
+ 686 574 736 487 736 382 c 258
+ 736 171 l 258
+ 736 116 738 75 790 75 c 256
+ 851 75 858 161 858 256 c 256
+ 858 445 769 530 769 530 c 257
+ 856 584 l 257
+ 911 525 964 401 964 255 c 256
+ 964 151 946 -23 790 -23 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_Sa.alt
+Encoding: 108 -1 108
+GlifName: tml_S_a.alt
+Width: 1143
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraI.alt5" 876 572 basechar 0
+AnchorPoint: "MatraIi.alt2" 896 584 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+197 -24 m 256
+ 92 -24 30 90 30 245 c 256
+ 30 450 119 573 282 573 c 256
+ 387 573 504 502 504 340 c 258
+ 504 0 l 257
+ 403 1 l 257
+ 403 339 l 258
+ 403 427 347 476 282 476 c 256
+ 176 476 132 378 132 255 c 256
+ 132 158 149 74 197 74 c 256
+ 243 74 252 139 252 178 c 256
+ 252 246 224 281 198 281 c 256
+ 155 281 135 235 138 167 c 257
+ 79 196 l 257
+ 79 259 122 362 207 362 c 256
+ 282 362 350 297 350 174 c 256
+ 350 53 293 -24 197 -24 c 256
+808 -23 m 256
+ 663 -23 634 74 634 180 c 258
+ 634 385 l 258
+ 633 445 605 472 572 472 c 256
+ 516 472 504 404 504 338 c 257
+ 431 368 l 257
+ 431 471 475 574 582 574 c 256
+ 686 574 736 487 736 382 c 258
+ 736 171 l 258
+ 736 116 756 75 808 75 c 256
+ 869 75 898 161 898 256 c 256
+ 898 445 809 531 809 531 c 257
+ 896 584 l 257
+ 951 525 1004 401 1004 255 c 256
+ 1004 151 964 -23 808 -23 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_Seven
+Encoding: 109 3053 109
+GlifName: tml_S_even
+Width: 571
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+197 -24 m 256
+ 92 -24 30 90 30 245 c 256
+ 30 442 123 560 279 560 c 257
+ 521 560 l 257
+ 521 1 l 257
+ 414 1 l 257
+ 414 462 l 257
+ 277 462 l 257
+ 178 462 132 370 132 255 c 256
+ 132 158 149 74 197 74 c 256
+ 243 74 252 139 252 178 c 256
+ 252 246 224 281 198 281 c 256
+ 155 281 135 235 138 167 c 257
+ 82 196 l 257
+ 82 269 125 362 209 362 c 256
+ 282 362 348 297 348 174 c 256
+ 348 53 291 -24 197 -24 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_Sha
+Encoding: 110 2998 110
+GlifName: tml_S_ha
+Width: 776
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraU" 560 560 basechar 0
+AnchorPoint: "MatraUu" 560 560 basechar 0
+AnchorPoint: "virama" 390 0 basechar 0
+AnchorPoint: "MatraIi.alt3" 651 542 basechar 0
+AnchorPoint: "MatraI.alt1" 596 558 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+30 560 m 257
+ 137 560 l 257
+ 137 153 l 258
+ 137 108 152 83 182 83 c 256
+ 216 83 230 105 230 153 c 258
+ 230 560 l 257
+ 337 560 l 257
+ 337 153 l 258
+ 337 41 282 -17 180 -17 c 256
+ 83 -17 30 46 30 153 c 258
+ 30 560 l 257
+230 462 m 257
+ 230 560 l 257
+ 552 560 l 257
+ 561 462 l 257
+ 230 462 l 257
+425 143 m 258
+ 425 545 l 257
+ 530 545 l 257
+ 530 143 l 258
+ 530 95 561 86 578 86 c 256
+ 623 86 645 156 645 284 c 256
+ 645 427 618 463 556 462 c 257
+ 547 560 l 257
+ 669 560 750 521 749 284 c 256
+ 748 96 685 -15 575 -15 c 256
+ 504 -15 425 15 425 143 c 258
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_Shree
+Encoding: 111 -1 111
+GlifName: tml_S_hree
+Width: 1418
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+698 578 m 256
+ 803 578 838 493 843 402 c 257
+ 787 383 l 257
+ 787 440 762 478 719 478 c 256
+ 685 478 653 454 653 394 c 258
+ 653 1 l 257
+ 546 1 l 257
+ 546 429 l 258
+ 546 528 610 578 698 578 c 256
+  PathStart: -2
+787 1 m 257
+ 787 414 l 257
+ 827 560 l 257
+ 1254 559 l 257
+ 1254 460 l 257
+ 1154 461 l 257
+ 1154 1 l 257
+ 1047 1 l 257
+ 1047 462 l 257
+ 894 462 l 257
+ 894 1 l 257
+ 787 1 l 257
+286 1 m 257
+ 286 560 l 257
+ 393 560 l 257
+ 393 99 l 257
+ 653 99 l 257
+ 653 1 l 257
+ 286 1 l 257
+708 -271 m 256
+ 348 -271 30 -107 30 242 c 256
+ 30 388 78 510 126 572 c 257
+ 215 527 l 257
+ 206 514 134 417 134 252 c 256
+ 134 -64 419 -168 704 -168 c 256
+ 977 -168 1273 -84 1273 137 c 256
+ 1273 208 1249 267 1202 267 c 256
+ 1166 267 1154 231 1154 204 c 257
+ 1105 235 l 257
+ 1105 308 1151 358 1221 358 c 256
+ 1311 358 1375 274 1375 138 c 256
+ 1375 -147 1065 -271 708 -271 c 256
+1184 465 m 256
+ 1117 465 1005 517 1005 664 c 256
+ 1005 831 1125 901 1238 900 c 256
+ 1340 899 1388 828 1388 736 c 256
+ 1388 614 1318 588 1264 588 c 256
+ 1196 588 1140 627 1139 726 c 256
+ 1139 795 1190 853 1227 879 c 257
+ 1263 804 l 257
+ 1237 804 1221 766 1221 734 c 256
+ 1221 682 1240 662 1265 662 c 256
+ 1291 662 1304 691 1304 736 c 256
+ 1304 762 1298 804 1262 804 c 256
+ 1166 804 1109 761 1109 663 c 256
+ 1109 598 1140 559 1184 558 c 256
+ 1184 465 l 256
+EndSplineSet
+EndChar
+
+StartChar: tml_Six
+Encoding: 112 3052 112
+GlifName: tml_S_ix
+Width: 897
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+217 -13 m 256
+ 82 -13 30 75 30 172 c 256
+ 30 271 94 341 212 341 c 258
+ 438 341 l 258
+ 536 341 575 240 575 204 c 257
+ 478 180 l 257
+ 478 212 469 244 438 244 c 258
+ 212 244 l 258
+ 159 244 130 212 130 167 c 256
+ 130 124 166 85 217 85 c 256
+ 282 85 308 140 308 207 c 258
+ 308 289 l 257
+ 318 301 l 257
+ 318 461 l 257
+ 223 461 l 257
+ 223 309 l 257
+ 139 309 l 257
+ 139 560 l 257
+ 518 560 l 257
+ 518 461 l 257
+ 415 461 l 257
+ 415 207 l 258
+ 415 103 375 -13 217 -13 c 256
+478 0 m 257
+ 478 183 l 258
+ 478 265 529 341 650 341 c 258
+ 867 341 l 257
+ 867 244 l 257
+ 767 244 l 257
+ 767 0 l 257
+ 670 0 l 257
+ 670 245 l 257
+ 624 245 575 234 575 164 c 258
+ 575 0 l 257
+ 478 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_SsU
+Encoding: 113 -1 113
+GlifName: tml_S_sU_
+Width: 1398
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+1358 385 m 256
+ 1358 272 1303 211 1211 211 c 256
+ 1112 211 1063 282 1063 373 c 256
+ 1063 472 1122 522 1212 522 c 257
+ 1207 462 l 257
+ 1175 462 1162 419 1162 383 c 256
+ 1162 350 1173 307 1206 307 c 256
+ 1238 307 1248 348 1248 385 c 256
+ 1248 448 1219 462 1205 462 c 258
+ 1017 462 l 257
+ 1017 452 l 257
+ 910 452 l 257
+ 910 560 l 257
+ 1167 560 l 258
+ 1248 560 1358 539 1358 385 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 115 2999 N 1 0 0 1 10 0 2
+EndChar
+
+StartChar: tml_SsUu
+Encoding: 114 -1 114
+GlifName: tml_S_sU_u
+Width: 1564
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+1195 550 m 257
+ 1242 550 1368 526 1368 385 c 256
+ 1368 276 1311 218 1219 218 c 256
+ 1114 218 1063 293 1063 397 c 256
+ 1063 538 1158 645 1301 645 c 256
+ 1459 645 1524 523 1524 414 c 256
+ 1524 296 1465 196 1465 196 c 257
+ 1383 230 l 257
+ 1383 230 1434 315 1434 402 c 256
+ 1434 491 1380 562 1304 562 c 256
+ 1217 562 1163 470 1163 392 c 256
+ 1163 351 1184 316 1220 316 c 256
+ 1246 316 1261 344 1261 385 c 256
+ 1261 433 1238 462 1182 462 c 258
+ 1017 462 l 257
+ 1017 452 l 257
+ 910 452 l 257
+ 910 560 l 257
+ 1154 560 l 257
+ 1195 550 l 257
+EndSplineSet
+Refer: 115 2999 N 1 0 0 1 10 0 2
+EndChar
+
+StartChar: tml_Ssa
+Encoding: 115 2999 115
+GlifName: tml_S_sa
+Width: 1037
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi.alt1" 765 552 basechar 0
+AnchorPoint: "MatraI.alt8" 803 510 basechar 0
+AnchorPoint: "virama" 550 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+30 245 m 256
+ 30 448 123 573 279 573 c 256
+ 414 573 508 452 508 279 c 256
+ 508 144 467 59 467 59 c 257
+ 378 81 l 257
+ 396 121 409 182 409 263 c 256
+ 409 389 358 476 279 476 c 256
+ 179 476 132 376 132 255 c 256
+ 132 158 149 74 197 74 c 256
+ 243 74 252 139 252 178 c 256
+ 252 246 224 281 198 281 c 256
+ 155 281 135 235 138 167 c 257
+ 54 216 l 257
+ 54 272 114 362 199 362 c 256
+ 280 362 354 297 354 174 c 256
+ 354 53 295 -24 197 -24 c 256
+ 92 -24 30 90 30 245 c 256
+  PathStart: -2
+822 -146 m 257
+ 715 -146 l 257
+ 715 428 l 258
+ 715 450 709 475 684 475 c 256
+ 661 475 642 452 642 401 c 256
+ 642 360 654 256 772 256 c 256
+ 878 256 899 308 900 379 c 256
+ 955 376 l 256
+ 955 271 928 155 768 155 c 256
+ 650 155 541 240 539 410 c 256
+ 538 514 605 573 680 573 c 256
+ 803 573 823 483 822 418 c 258
+ 822 -146 l 257
+378 0 m 257
+ 378 81 l 257
+ 485 99 l 257
+ 900 99 l 257
+ 900 473 l 257
+ 1007 473 l 257
+ 1007 0 l 257
+ 378 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_TU
+Encoding: 116 -1 116
+GlifName: tml_T_U_
+Width: 800
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+293 -349 m 256
+ 135 -349 31 -271 31 -189 c 256
+ 31 -120 75 -54 158 -54 c 258
+ 663 -54 l 257
+ 663 573 l 257
+ 770 573 l 257
+ 770 -151 l 257
+ 183 -149 l 258
+ 148 -149 138 -167 138 -189 c 256
+ 138 -205 157 -252 293 -252 c 256
+ 411 -252 504 -143 504 47 c 256
+ 504 139 478 241 388 242 c 258
+ 191 244 l 258
+ 150 244 130 214 130 175 c 256
+ 130 123 161 96 212 96 c 256
+ 277 96 308 140 308 207 c 258
+ 308 289 l 257
+ 318 301 l 257
+ 318 464 l 257
+ 223 464 l 257
+ 223 309 l 257
+ 139 309 l 257
+ 139 560 l 257
+ 518 560 l 257
+ 518 464 l 257
+ 415 464 l 257
+ 415 207 l 258
+ 415 100 375 1 212 1 c 256
+ 82 1 31 75 30 175 c 256
+ 29 268 84 341 172 341 c 258
+ 391 341 l 258
+ 538 341 603 199 603 46 c 256
+ 603 -127 526 -349 293 -349 c 256
+EndSplineSet
+PickledDataWithLists: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'background'
+p4
+(dp5
+S'name'
+p6
+S'tml_TU'
+p7
+sS'lib'
+p8
+(dp9
+sS'unicodes'
+p10
+(lp11
+sS'width'
+p12
+I800
+sS'contours'
+p13
+(lp14
+(dp15
+S'points'
+p16
+(lp17
+(dp18
+S'y'
+I239
+sS'x'
+I603
+sS'smooth'
+p19
+I00
+sa(dp20
+S'y'
+I341
+sS'x'
+I538
+sg19
+I00
+sa(dp21
+S'segmentType'
+p22
+S'curve'
+p23
+sS'x'
+I391
+sg19
+I01
+sS'y'
+I341
+sa(dp24
+g22
+S'line'
+p25
+sS'x'
+I172
+sg19
+I01
+sS'y'
+I341
+sa(dp26
+S'y'
+I341
+sS'x'
+I84
+sg19
+I00
+sa(dp27
+S'y'
+I268
+sS'x'
+I29
+sg19
+I00
+sa(dp28
+g22
+S'curve'
+p29
+sS'x'
+I30
+sg19
+I01
+sS'y'
+I175
+sa(dp30
+S'y'
+I75
+sS'x'
+I31
+sg19
+I00
+sa(dp31
+S'y'
+I1
+sS'x'
+I82
+sg19
+I00
+sa(dp32
+g22
+S'curve'
+p33
+sS'x'
+I212
+sg19
+I01
+sS'y'
+I1
+sa(dp34
+S'y'
+I1
+sS'x'
+I375
+sg19
+I00
+sa(dp35
+S'y'
+I100
+sS'x'
+I415
+sg19
+I00
+sa(dp36
+g22
+S'curve'
+p37
+sS'x'
+I415
+sg19
+I01
+sS'y'
+I207
+sa(dp38
+g22
+S'line'
+p39
+sS'x'
+I415
+sg19
+I00
+sS'y'
+I464
+sa(dp40
+g22
+S'line'
+p41
+sS'x'
+I518
+sg19
+I00
+sS'y'
+I464
+sa(dp42
+g22
+S'line'
+p43
+sS'x'
+I518
+sg19
+I00
+sS'y'
+I560
+sa(dp44
+g22
+S'line'
+p45
+sS'x'
+I139
+sg19
+I00
+sS'y'
+I560
+sa(dp46
+g22
+S'line'
+p47
+sS'x'
+I139
+sg19
+I00
+sS'y'
+I309
+sa(dp48
+g22
+S'line'
+p49
+sS'x'
+I223
+sg19
+I00
+sS'y'
+I309
+sa(dp50
+g22
+S'line'
+p51
+sS'x'
+I223
+sg19
+I00
+sS'y'
+I464
+sa(dp52
+g22
+S'line'
+p53
+sS'x'
+I318
+sg19
+I00
+sS'y'
+I464
+sa(dp54
+g22
+S'line'
+p55
+sS'x'
+I318
+sg19
+I00
+sS'y'
+I301
+sa(dp56
+g22
+S'line'
+p57
+sS'x'
+I308
+sg19
+I00
+sS'y'
+I289
+sa(dp58
+g22
+S'line'
+p59
+sS'x'
+I308
+sg19
+I01
+sS'y'
+I207
+sa(dp60
+S'y'
+I140
+sS'x'
+I308
+sg19
+I00
+sa(dp61
+S'y'
+I96
+sS'x'
+I277
+sg19
+I00
+sa(dp62
+g22
+S'curve'
+p63
+sS'x'
+I212
+sg19
+I01
+sS'y'
+I96
+sa(dp64
+S'y'
+I96
+sS'x'
+I161
+sg19
+I00
+sa(dp65
+S'y'
+I123
+sS'x'
+I130
+sg19
+I00
+sa(dp66
+g22
+S'curve'
+p67
+sS'x'
+I130
+sg19
+I01
+sS'y'
+I175
+sa(dp68
+S'y'
+I214
+sS'x'
+I130
+sg19
+I00
+sa(dp69
+S'y'
+I244
+sS'x'
+I150
+sg19
+I00
+sa(dp70
+g22
+S'curve'
+p71
+sS'x'
+I191
+sg19
+I01
+sS'y'
+I244
+sa(dp72
+g22
+S'line'
+p73
+sS'x'
+I388
+sg19
+I01
+sS'y'
+I242
+sa(dp74
+S'y'
+I241
+sS'x'
+I478
+sg19
+I00
+sa(dp75
+S'y'
+I179
+sS'x'
+I504
+sg19
+I00
+sa(dp76
+g22
+S'curve'
+p77
+sS'x'
+I504
+sg19
+I00
+sS'y'
+I87
+sa(dp78
+S'y'
+I-103
+sS'x'
+I504
+sg19
+I00
+sa(dp79
+S'y'
+I-252
+sS'x'
+I421
+sg19
+I00
+sa(dp80
+g22
+S'curve'
+p81
+sS'x'
+I303
+sg19
+I01
+sS'y'
+I-252
+sa(dp82
+S'y'
+I-252
+sS'x'
+I154
+sg19
+I00
+sa(dp83
+S'y'
+I-215
+sS'x'
+I138
+sg19
+I00
+sa(dp84
+g22
+S'curve'
+p85
+sS'x'
+I138
+sg19
+I01
+sS'y'
+I-199
+sa(dp86
+S'y'
+I-177
+sS'x'
+I138
+sg19
+I00
+sa(dp87
+S'y'
+I-169
+sS'x'
+I155
+sg19
+I00
+sa(dp88
+g22
+S'curve'
+p89
+sS'x'
+I173
+sg19
+I00
+sS'y'
+I-169
+sa(dp90
+g22
+S'line'
+p91
+sS'x'
+I889
+sg19
+I00
+sS'y'
+I-171
+sa(dp92
+g22
+S'line'
+p93
+sS'x'
+I889
+sg19
+I00
+sS'y'
+I573
+sa(dp94
+g22
+S'line'
+p95
+sS'x'
+I782
+sg19
+I00
+sS'y'
+I573
+sa(dp96
+g22
+S'line'
+p97
+sS'x'
+I782
+sg19
+I00
+sS'y'
+I-74
+sa(dp98
+g22
+S'line'
+p99
+sS'x'
+I158
+sg19
+I00
+sS'y'
+I-74
+sa(dp100
+S'y'
+I-74
+sS'x'
+I82
+sg19
+I00
+sa(dp101
+S'y'
+I-124
+sS'x'
+I31
+sg19
+I00
+sa(dp102
+g22
+S'curve'
+p103
+sS'x'
+I31
+sg19
+I01
+sS'y'
+I-193
+sa(dp104
+S'y'
+I-275
+sS'x'
+I31
+sg19
+I00
+sa(dp105
+S'y'
+I-349
+sS'x'
+I145
+sg19
+I00
+sa(dp106
+g22
+S'curve'
+p107
+sS'x'
+I303
+sg19
+I01
+sS'y'
+I-349
+sa(dp108
+S'y'
+I-349
+sS'x'
+I536
+sg19
+I00
+sa(dp109
+S'y'
+I-87
+sS'x'
+I603
+sg19
+I00
+sa(dp110
+g22
+S'curve'
+p111
+sS'x'
+I603
+sg19
+I00
+sS'y'
+I86
+sasasS'components'
+p112
+(lp113
+sS'anchors'
+p114
+(lp115
+sss."
+EndChar
+
+StartChar: tml_TUu
+Encoding: 117 -1 117
+GlifName: tml_T_U_u
+Width: 1105
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+868 -13 m 257
+ 868 476 l 257
+ 753 476 l 257
+ 753 573 l 257
+ 1075 573 l 257
+ 1075 476 l 257
+ 975 476 l 257
+ 975 -13 l 257
+ 868 -13 l 257
+EndSplineSet
+Refer: 116 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Ta
+Encoding: 118 2980 118
+GlifName: tml_T_a
+Width: 633
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraIi" 463 560 basechar 0
+AnchorPoint: "MatraI.stylalt1" 115 275 basechar 0
+AnchorPoint: "virama" 368 0 basechar 0
+AnchorPoint: "MatraIi.stylalt1" 118 280 basechar 0
+AnchorPoint: "MatraI.alt1" 438 560 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+230 -158 m 258
+ 142 -158 152 -197 151 -236 c 257
+ 41 -236 l 257
+ 42 -129 84 -61 224 -61 c 258
+ 328 -61 l 258
+ 436 -60 504 14 504 87 c 256
+ 504 179 478 241 388 242 c 258
+ 191 244 l 258
+ 150 244 130 214 130 175 c 256
+ 130 123 161 96 212 96 c 256
+ 277 96 308 140 308 207 c 258
+ 308 289 l 257
+ 318 301 l 257
+ 318 464 l 257
+ 223 464 l 257
+ 223 309 l 257
+ 139 309 l 257
+ 139 560 l 257
+ 518 560 l 257
+ 518 464 l 257
+ 415 464 l 257
+ 415 207 l 258
+ 415 100 375 1 212 1 c 256
+ 82 1 31 75 30 175 c 256
+ 29 268 84 341 172 341 c 258
+ 391 341 l 258
+ 538 341 603 239 603 86 c 256
+ 603 -35 489 -156 334 -157 c 258
+ 230 -158 l 258
+EndSplineSet
+EndChar
+
+StartChar: tml_Ten
+Encoding: 119 3056 119
+GlifName: tml_T_en
+Width: 719
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+313 291 m 257
+ 409 292 l 257
+ 413 148 432 88 507 90 c 256
+ 570 91 591 184 591 291 c 256
+ 591 382 563 475 483 475 c 256
+ 451 475 424 453 390 419 c 257
+ 320 499 l 257
+ 349 525 405 575 490 575 c 256
+ 641 575 699 429 699 261 c 256
+ 699 94 627 -10 508 -10 c 256
+ 353 -10 318 94 313 291 c 257
+  PathStart: -2
+26 234 m 256
+ 26 364 79 470 119 550 c 257
+ 217 508 l 257
+ 194 464 134 366 134 254 c 256
+ 134 147 158 87 223 87 c 256
+ 286 87 317 140 313 291 c 257
+ 408 292 l 257
+ 415 88 372 -17 217 -17 c 256
+ 98 -17 26 67 26 234 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_Thousand
+Encoding: 120 3058 120
+GlifName: tml_T_housand
+Width: 925
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+631 -81 m 258
+ 687 -81 l 258
+ 767 -80 789 -26 789 19 c 256
+ 789 90 752 118 680 118 c 258
+ 574 118 l 258
+ 539 118 527 99 527 73 c 256
+ 527 52 546 36 574 36 c 256
+ 614 36 622 62 622 102 c 258
+ 622 246 l 257
+ 721 246 l 257
+ 720 96 l 258
+ 720 25 691 -52 575 -51 c 256
+ 468 -51 433 23 433 73 c 256
+ 433 126 474 205 558 205 c 258
+ 671 205 l 258
+ 730 205 885 208 885 21 c 256
+ 885 -75 830 -170 701 -170 c 258
+ 649 -170 l 258
+ 577 -170 586 -221 586 -237 c 257
+ 481 -237 l 257
+ 481 -191 490 -83 631 -81 c 258
+  PathStart: -2
+486 341 m 257
+ 811 341 l 257
+ 811 244 l 257
+ 486 244 l 257
+ 486 341 l 257
+EndSplineSet
+Refer: 12 2970 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Three
+Encoding: 121 3049 121
+GlifName: tml_T_hree
+Width: 727
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+50 0 m 257
+ 50 560 l 257
+ 460 560 l 257
+ 460 462 l 257
+ 358 462 l 257
+ 358 164 l 257
+ 250 164 l 257
+ 250 462 l 257
+ 157 462 l 257
+ 157 0 l 257
+ 50 0 l 257
+248 98 m 257
+ 717 97 l 257
+ 717 -2 l 257
+ 248 -1 l 257
+ 248 98 l 257
+318 98 m 257
+ 435 98 463 187 463 240 c 256
+ 463 283 444 317 407 317 c 256
+ 368 317 358 279 358 254 c 257
+ 309 285 l 257
+ 309 358 360 408 433 408 c 256
+ 511 408 568 352 568 257 c 256
+ 568 136 474 22 327 22 c 257
+ 318 98 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_TtI
+Encoding: 122 -1 122
+GlifName: tml_T_tI_
+Width: 657
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+408 45 m 256
+ 274 47 219 200 219 319 c 256
+ 219 471 278 572 396 573 c 256
+ 482 573 561 525 562 374 c 258
+ 564 -146 l 257
+ 456 -146 l 257
+ 455 393 l 258
+ 455 444 435 475 396 475 c 256
+ 349 475 317 417 317 319 c 256
+ 317 189 371 98 444 98 c 256
+ 408 45 l 256
+EndSplineSet
+Refer: 126 2975 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_TtIi
+Encoding: 123 -1 123
+GlifName: tml_T_tI_i
+Width: 657
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+219 205 m 256
+ 219 372 339 442 452 441 c 256
+ 554 440 602 369 602 277 c 256
+ 602 155 532 129 478 129 c 256
+ 410 129 354 168 353 267 c 256
+ 353 336 404 394 441 420 c 257
+ 477 345 l 257
+ 451 345 435 307 435 275 c 256
+ 435 223 454 203 479 203 c 256
+ 505 203 518 232 518 277 c 256
+ 518 303 512 345 476 345 c 256
+ 380 345 323 302 323 204 c 256
+ 323 139 354 100 398 99 c 256
+ 398 6 l 256
+ 331 6 219 58 219 205 c 256
+EndSplineSet
+Refer: 126 2975 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_TtU
+Encoding: 124 -1 124
+GlifName: tml_T_tU_
+Width: 878
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+432 560 m 257
+ 433 0 l 257
+ 325 0 l 257
+ 325 560 l 257
+ 432 560 l 257
+373 -163 m 256
+ 514 -162 552 -34 552 104 c 256
+ 552 183 525 267 484 267 c 256
+ 442 267 433 229 433 204 c 257
+ 384 235 l 256
+ 384 308 432 358 496 358 c 256
+ 590 358 654 250 654 101 c 256
+ 654 -76 592 -268 373 -268 c 256
+ 167 -268 40 -84 40 249 c 256
+ 40 573 196 800 453 800 c 256
+ 740 800 838 611 838 338 c 257
+ 838 -13 l 257
+ 729 -13 l 257
+ 729 357 l 257
+ 729 596 610 692 453 690 c 256
+ 231 687 147 456 147 254 c 256
+ 147 -13 224 -164 373 -163 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_TtUu
+Encoding: 125 -1 125
+GlifName: tml_T_tU_u
+Width: 868
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+432 560 m 257
+ 433 0 l 257
+ 325 0 l 257
+ 325 560 l 257
+ 432 560 l 257
+373 -268 m 256
+ 167 -268 30 -84 30 249 c 256
+ 30 603 206 800 443 800 c 256
+ 680 800 742 658 742 569 c 256
+ 742 466 692 404 618 404 c 256
+ 527 404 490 485 490 549 c 256
+ 490 615 529 690 612 690 c 256
+ 691 690 742 623 742 569 c 256
+ 742 516 691 476 646 466 c 257
+ 627 490 l 257
+ 648 495 661 517 661 551 c 256
+ 661 587 646 611 617 611 c 256
+ 590 611 574 587 574 552 c 256
+ 574 517 587 489 616 489 c 256
+ 657 489 671 536 671 567 c 256
+ 671 606 638 713 443 710 c 256
+ 238 707 137 516 137 254 c 256
+ 137 -13 224 -164 373 -163 c 256
+ 514 -162 552 -34 552 104 c 256
+ 552 183 525 267 484 267 c 256
+ 442 267 433 229 433 204 c 257
+ 384 235 l 256
+ 384 308 432 358 496 358 c 256
+ 590 358 654 250 654 101 c 256
+ 654 -76 592 -268 373 -268 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_Tta
+Encoding: 126 2975 126
+GlifName: tml_T_ta
+Width: 577
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "virama" 330 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+30 1 m 257
+ 30 560 l 257
+ 137 560 l 257
+ 137 99 l 257
+ 547 99 l 257
+ 547 1 l 257
+ 30 1 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_Two
+Encoding: 127 3048 127
+GlifName: tml_T_wo
+Width: 534
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+169 1 m 257
+ 80 0 36 46 36 108 c 256
+ 36 182 85 224 154 224 c 258
+ 214 224 l 258
+ 318 226 350 302 350 376 c 256
+ 350 447 311 512 231 512 c 256
+ 139 512 117 425 117 386 c 256
+ 117 355 131 333 161 333 c 256
+ 194 333 203 367 203 387 c 256
+ 203 419 185 438 161 438 c 256
+ 133 438 118 413 117 385 c 257
+ 63 397 l 257
+ 63 436 102 509 171 509 c 256
+ 217 509 290 481 290 381 c 256
+ 290 303 242 247 164 247 c 256
+ 80 247 30 313 30 402 c 256
+ 30 516 112 596 235 597 c 256
+ 368 598 447 501 447 371 c 256
+ 447 245 375 135 219 132 c 258
+ 153 131 l 258
+ 143 131 132 125 132 113 c 256
+ 132 99 147 96 162 96 c 257
+ 169 1 l 257
+160 1 m 257
+ 156 96 l 257
+ 504 97 l 257
+ 504 1 l 257
+ 160 1 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_U
+Encoding: 128 2953 128
+GlifName: tml_U_
+Width: 804
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+774 96 m 257
+ 774 0 l 257
+ 169 0 l 258
+ 92 0 36 45 36 108 c 256
+ 36 175 86 224 159 224 c 258
+ 199 224 l 258
+ 323 224 365 302 365 376 c 256
+ 365 447 321 512 241 512 c 256
+ 149 512 127 425 127 386 c 256
+ 127 355 141 333 171 333 c 256
+ 204 333 213 367 213 387 c 256
+ 213 419 195 438 171 438 c 256
+ 143 438 128 413 127 385 c 257
+ 73 397 l 257
+ 73 436 112 509 181 509 c 256
+ 227 509 304 481 304 381 c 256
+ 304 303 252 247 174 247 c 256
+ 90 247 30 313 30 402 c 256
+ 30 516 122 596 245 597 c 256
+ 378 598 473 506 473 376 c 256
+ 473 250 385 135 229 132 c 258
+ 173 131 l 258
+ 151 131 142 125 142 113 c 256
+ 142 101 151 95 174 95 c 258
+ 774 96 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_Uu
+Encoding: 129 2954 129
+GlifName: tml_U_u
+Width: 1164
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+168 1 m 257
+ 80 0 36 46 36 108 c 256
+ 36 182 85 224 154 224 c 258
+ 214 224 l 258
+ 318 226 350 302 350 376 c 256
+ 350 447 311 512 231 512 c 256
+ 139 512 117 425 117 386 c 256
+ 117 355 131 333 161 333 c 256
+ 194 333 203 367 203 387 c 256
+ 203 419 185 438 161 438 c 256
+ 133 438 118 413 117 385 c 257
+ 63 397 l 257
+ 63 436 102 509 171 509 c 256
+ 217 509 290 481 290 381 c 256
+ 290 303 242 247 164 247 c 256
+ 80 247 30 313 30 402 c 256
+ 30 516 112 596 235 597 c 256
+ 368 598 447 501 447 371 c 256
+ 447 245 375 135 219 132 c 258
+ 153 131 l 258
+ 143 131 132 125 132 113 c 256
+ 132 99 147 96 161 96 c 257
+ 1144 97 l 257
+ 1144 1 l 257
+ 168 1 l 257
+621 124 m 256
+ 542 124 499 208 499 325 c 256
+ 499 477 560 569 672 569 c 256
+ 769 569 843 467 843 317 c 256
+ 783 333 l 256
+ 783 431 731 488 678 488 c 256
+ 594 488 581 387 581 298 c 256
+ 581 249 592 209 623 209 c 256
+ 656 209 665 247 665 272 c 256
+ 665 325 642 341 624 341 c 256
+ 601 341 580 321 582 270 c 257
+ 535 287 l 257
+ 535 335 568 422 631 422 c 256
+ 688 422 738 363 738 271 c 256
+ 738 180 693 124 621 124 c 256
+794 560 m 257
+ 1133 560 l 257
+ 1133 476 l 257
+ 1066 476 l 257
+ 1066 142 l 257
+ 976 142 l 257
+ 976 476 l 257
+ 874 476 l 257
+ 874 142 l 257
+ 783 142 l 257
+ 783 486 l 257
+ 794 489 l 257
+ 794 560 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_VUu
+Encoding: 130 -1 130
+GlifName: tml_V_U_u
+Width: 730
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+591 -153 m 257
+ 591 32 l 257
+ 700 33 l 257
+ 700 -153 l 257
+ 591 -153 l 257
+735 58 m 256
+ 802 58 871 9 871 -98 c 256
+ 871 -237 729 -349 513 -349 c 256
+ 339 -349 180 -300 180 -175 c 256
+ 180 -97 229 -44 298 -44 c 256
+ 374 -44 420 -103 420 -169 c 256
+ 420 -250 369 -279 306 -279 c 256
+ 272 -279 232 -251 226 -208 c 257
+ 265 -188 l 257
+ 268 -203 280 -215 298 -215 c 256
+ 319 -215 333 -200 333 -178 c 256
+ 333 -157 325 -138 298 -138 c 256
+ 275 -138 264 -156 264 -178 c 256
+ 264 -234 387 -261 513 -262 c 256
+ 657 -263 773 -191 773 -95 c 256
+ 773 -36 746 -22 724 -22 c 256
+ 711 -22 700 -30 700 -47 c 257
+ 644 5 l 257
+ 672 43 704 59 735 58 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 131 2997 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Va
+Encoding: 131 2997 131
+GlifName: tml_V_a
+Width: 730
+VWidth: 0
+GlyphClass: 2
+Flags: WO
+AnchorPoint: "MatraU.alt1" 591 33 basechar 0
+AnchorPoint: "MatraIi" 663 559 basechar 0
+AnchorPoint: "MatraI.alt3" 594 530 basechar 0
+AnchorPoint: "virama" 413 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+30 245 m 256
+ 30 448 123 573 279 573 c 256
+ 416 573 514 455 512 280 c 256
+ 511 185 489 101 470 59 c 257
+ 379 84 l 257
+ 396 123 409 174 409 263 c 256
+ 409 389 357 476 277 476 c 256
+ 178 476 132 376 132 255 c 256
+ 132 158 149 74 197 74 c 256
+ 243 74 252 139 252 178 c 256
+ 252 246 224 281 198 281 c 256
+ 155 281 135 235 138 167 c 257
+ 82 196 l 257
+ 82 269 125 362 209 362 c 256
+ 282 362 348 297 348 174 c 256
+ 348 53 291 -24 197 -24 c 256
+ 92 -24 30 90 30 245 c 256
+  PathStart: -2
+379 84 m 257
+ 484 101 l 257
+ 593 101 l 257
+ 593 559 l 257
+ 700 559 l 257
+ 700 1 l 257
+ 379 1 l 257
+ 379 84 l 257
+EndSplineSet
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'=tml_Pa'
+p3
+s."
+EndChar
+
+StartChar: tml_Virama
+Encoding: 132 3021 132
+GlifName: tml_V_irama
+Width: 0
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "virama" 0 0 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+-63 680 m 256
+ -63 714 -34 743 0 743 c 256
+ 34 743 63 714 63 680 c 256
+ 63 646 34 617 0 617 c 256
+ -34 617 -63 646 -63 680 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_Visarga
+Encoding: 133 2947 133
+GlifName: tml_V_isarga
+Width: 773
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+523 282 m 256
+ 523 360 460 423 382 423 c 256
+ 303 423 240 360 240 282 c 256
+ 240 204 303 141 382 141 c 256
+ 460 141 523 204 523 282 c 256
+  PathStart: -2
+331 285 m 256
+ 331 313 354 336 383 336 c 256
+ 411 336 434 313 434 285 c 256
+ 434 256 411 233 383 233 c 256
+ 354 233 331 256 331 285 c 256
+  PathStart: -2
+722 -69 m 256
+ 722 9 659 72 581 72 c 256
+ 502 72 439 9 439 -69 c 256
+ 439 -147 502 -210 581 -210 c 256
+ 659 -210 722 -147 722 -69 c 256
+  PathStart: -2
+530 -66 m 256
+ 530 -38 553 -15 582 -15 c 256
+ 610 -15 633 -38 633 -66 c 256
+ 633 -95 610 -118 582 -118 c 256
+ 553 -118 530 -95 530 -66 c 256
+  PathStart: -2
+343 -69 m 256
+ 343 9 280 72 202 72 c 256
+ 123 72 60 9 60 -69 c 256
+ 60 -147 123 -210 202 -210 c 256
+ 280 -210 343 -147 343 -69 c 256
+  PathStart: -2
+151 -66 m 256
+ 151 -38 174 -15 203 -15 c 256
+ 231 -15 254 -38 254 -66 c 256
+ 254 -95 231 -118 203 -118 c 256
+ 174 -118 151 -95 151 -66 c 256
+  PathStart: -2
+EndSplineSet
+EndChar
+
+StartChar: tml_YUu
+Encoding: 134 -1 134
+GlifName: tml_Y_U_u
+Width: 678
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+541 -153 m 257
+ 542 32 l 257
+ 650 33 l 257
+ 650 -153 l 257
+ 541 -153 l 257
+685 58 m 256
+ 752 58 821 9 821 -98 c 256
+ 821 -237 679 -349 463 -349 c 256
+ 289 -349 130 -300 130 -175 c 256
+ 130 -97 179 -44 248 -44 c 256
+ 324 -44 370 -103 370 -169 c 256
+ 370 -250 319 -279 256 -279 c 256
+ 222 -279 182 -251 176 -208 c 257
+ 215 -188 l 257
+ 218 -203 230 -215 248 -215 c 256
+ 269 -215 283 -200 283 -178 c 256
+ 283 -157 275 -138 248 -138 c 256
+ 225 -138 214 -156 214 -178 c 256
+ 214 -234 337 -261 463 -262 c 256
+ 607 -263 723 -191 723 -95 c 256
+ 723 -36 696 -22 674 -22 c 256
+ 661 -22 650 -30 650 -47 c 257
+ 594 5 l 257
+ 622 43 654 59 685 58 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 135 2991 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tml_Ya
+Encoding: 135 2991 135
+GlifName: tml_Y_a
+Width: 678
+VWidth: 0
+GlyphClass: 2
+Flags: W
+AnchorPoint: "MatraU.alt1" 539 33 basechar 0
+AnchorPoint: "MatraIi" 611 560 basechar 0
+AnchorPoint: "MatraI.alt3" 542 529 basechar 0
+AnchorPoint: "virama" 330 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+182 -17 m 256
+ 94 -17 30 33 30 132 c 258
+ 30 560 l 257
+ 137 560 l 257
+ 137 167 l 258
+ 137 107 169 83 203 83 c 256
+ 246 83 271 121 271 178 c 257
+ 327 159 l 257
+ 322 68 287 -17 182 -17 c 256
+311 0 m 257
+ 271 147 l 257
+ 271 560 l 257
+ 378 560 l 257
+ 378 99 l 257
+ 541 99 l 257
+ 541 560 l 257
+ 648 560 l 257
+ 648 0 l 257
+ 311 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: tml_Year
+Encoding: 136 3061 136
+GlifName: tml_Y_ear
+Width: 1757
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+243 245 m 256
+ 243 448 336 573 492 573 c 256
+ 629 573 727 455 725 280 c 256
+ 724 185 702 101 683 59 c 257
+ 592 84 l 257
+ 609 123 622 174 622 263 c 256
+ 622 389 570 476 490 476 c 256
+ 391 476 345 376 345 255 c 256
+ 345 158 362 74 410 74 c 256
+ 456 74 465 139 465 178 c 256
+ 465 246 437 281 411 281 c 256
+ 368 281 348 235 351 167 c 257
+ 295 196 l 257
+ 295 269 338 362 422 362 c 256
+ 495 362 561 297 561 174 c 256
+ 561 53 504 -24 410 -24 c 256
+ 305 -24 243 90 243 245 c 256
+  PathStart: -2
+592 84 m 257
+ 697 101 l 257
+ 806 101 l 257
+ 806 559 l 257
+ 913 559 l 257
+ 913 1 l 257
+ 592 1 l 257
+ 592 84 l 257
+1065 0 m 257
+ 1065 462 l 257
+ 807 462 l 257
+ 807 560 l 257
+ 1276 560 l 257
+ 1276 462 l 257
+ 1173 462 l 257
+ 1173 0 l 257
+ 1065 0 l 257
+786 -350 m 256
+ 206 -350 30 -65 30 229 c 256
+ 30 633 333 850 788 850 c 256
+ 1244 850 1500 680 1532 411 c 256
+ 1537 369 1560 357 1585 357 c 256
+ 1605 357 1630 366 1630 417 c 258
+ 1630 560 l 257
+ 1737 560 l 257
+ 1737 400 l 258
+ 1737 304 1674 250 1586 250 c 256
+ 1504 250 1434 307 1425 399 c 256
+ 1404 609 1126 743 788 743 c 256
+ 426 743 137 590 137 234 c 256
+ 137 10 272 -243 797 -243 c 256
+ 1169 -243 1292 -34 1292 134 c 256
+ 1292 213 1265 267 1224 267 c 256
+ 1182 267 1173 229 1173 204 c 257
+ 1124 235 l 256
+ 1124 308 1172 358 1236 358 c 256
+ 1330 358 1394 280 1394 131 c 256
+ 1394 -96 1247 -350 786 -350 c 256
+EndSplineSet
+EndChar
+
+StartChar: tml_Zero
+Encoding: 137 3046 137
+GlifName: tml_Z_ero
+Width: 543
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+264 -5 m 256
+ 397 -5 474 95 474 203 c 256
+ 474 314 392 409 267 409 c 256
+ 152 409 60 328 60 199 c 256
+ 60 72 148 -5 264 -5 c 256
+268 89 m 256
+ 188 89 149 149 149 201 c 256
+ 149 260 199 312 269 312 c 256
+ 338 312 384 262 384 201 c 256
+ 384 147 347 89 268 89 c 256
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

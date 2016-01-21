@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="388"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="205" y="0" type="line"/>
+      <point x="212" y="250" type="line"/>
+      <point x="212" y="363" type="line"/>
+      <point x="203" y="453" type="line"/>
+      <point x="185" y="453" type="line"/>
+      <point x="176" y="363" type="line"/>
+      <point x="176" y="250" type="line"/>
+      <point x="183" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="462" type="line"/>
+      <point x="168" y="470" type="line"/>
+      <point x="168" y="488" type="line"/>
+      <point x="118" y="496" type="line"/>
+      <point x="30" y="496" type="line"/>
+      <point x="30" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="358" y="462" type="line"/>
+      <point x="358" y="496" type="line"/>
+      <point x="270" y="496" type="line"/>
+      <point x="220" y="488" type="line"/>
+      <point x="220" y="470" type="line"/>
+      <point x="270" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="505" type="line"/>
+      <point x="211" y="555" type="line"/>
+      <point x="211" y="653" type="line"/>
+      <point x="177" y="653" type="line"/>
+      <point x="177" y="555" type="line"/>
+      <point x="185" y="505" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
