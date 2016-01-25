@@ -2,7 +2,17 @@
 <glyph name="si_YU.post" format="1">
   <advance width="500"/>
   <outline>
-    <component base="si_MatraU" xOffset="505.8"/>
+    <contour>
+      <point x="451.8" y="-159" type="line"/>
+      <point x="16.3926" y="-159" type="line"/>
+      <point x="16.3926" y="-126.904" type="line"/>
+      <point x="414.712" y="-126.904" type="line"/>
+      <point x="414.712" y="28" type="line"/>
+      <point x="419.712" y="28" type="line" smooth="yes"/>
+      <point x="428.174" y="28"/>
+      <point x="446.467" y="38"/>
+      <point x="451.8" y="64" type="curve"/>
+    </contour>
     <component base="si_Ya.post"/>
   </outline>
 </glyph>

@@ -2,7 +2,44 @@
 <glyph name="si_Nna.reph" format="1">
   <advance width="845"/>
   <outline>
-    <component base="si_Reph" xOffset="1048.2"/>
+    <contour>
+      <point x="578.991" y="621.401" type="line"/>
+      <point x="663.2" y="621.401" type="line"/>
+      <point x="663.2" y="555.401" type="line" smooth="yes"/>
+      <point x="663.2" y="528.224"/>
+      <point x="651.709" y="518.401"/>
+      <point x="632.2" y="518.401" type="curve" smooth="yes"/>
+      <point x="460.2" y="518.401" type="line" smooth="yes"/>
+      <point x="433.73" y="518.401"/>
+      <point x="420.2" y="532.297"/>
+      <point x="420.2" y="564.401" type="curve" smooth="yes"/>
+      <point x="420.2" y="662.401" type="line" smooth="yes"/>
+      <point x="420.2" y="691.139"/>
+      <point x="437.449" y="710.401"/>
+      <point x="474.2" y="710.401" type="curve" smooth="yes"/>
+      <point x="759.2" y="710.401" type="line" smooth="yes"/>
+      <point x="792.645" y="710.401"/>
+      <point x="810.2" y="693.58"/>
+      <point x="810.2" y="654.401" type="curve" smooth="yes"/>
+      <point x="810.2" y="521.401" type="line"/>
+      <point x="697.2" y="521.401" type="line"/>
+      <point x="697.2" y="623.401" type="line" smooth="yes"/>
+      <point x="697.2" y="638.734"/>
+      <point x="691.867" y="646.401"/>
+      <point x="681.2" y="646.401" type="curve" smooth="yes"/>
+      <point x="548.2" y="646.401" type="line" smooth="yes"/>
+      <point x="537.533" y="646.401"/>
+      <point x="532.2" y="642.068"/>
+      <point x="532.2" y="633.401" type="curve" smooth="yes"/>
+      <point x="532.2" y="605.401" type="line" smooth="yes"/>
+      <point x="532.2" y="596.734"/>
+      <point x="535.92" y="592.401"/>
+      <point x="544.2" y="592.401" type="curve" smooth="yes"/>
+      <point x="566.2" y="592.401" type="line" smooth="yes"/>
+      <point x="577.465" y="592.401"/>
+      <point x="578.991" y="597.734"/>
+      <point x="578.991" y="608.401" type="curve" smooth="yes"/>
+    </contour>
     <component base="si_Nna"/>
   </outline>
 </glyph>

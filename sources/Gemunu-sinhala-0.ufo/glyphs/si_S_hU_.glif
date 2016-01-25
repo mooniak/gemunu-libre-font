@@ -2,7 +2,20 @@
 <glyph name="si_ShU" format="1">
   <advance width="592"/>
   <outline>
-    <component base="si_MatraU.alt" xOffset="551"/>
+    <contour>
+      <point x="537.987" y="-126.998" type="line"/>
+      <point x="537.987" y="-159.013" type="line"/>
+      <point x="385.584" y="-159.013" type="line" smooth="yes"/>
+      <point x="364.251" y="-159.013"/>
+      <point x="353.584" y="-149.013"/>
+      <point x="353.584" y="-129.013" type="curve" smooth="yes"/>
+      <point x="353.584" y="32" type="line"/>
+      <point x="390.199" y="32" type="line"/>
+      <point x="390.199" y="-107.998" type="line" smooth="yes"/>
+      <point x="390.199" y="-121.632"/>
+      <point x="391.748" y="-126.998"/>
+      <point x="406.199" y="-126.998" type="curve" smooth="yes"/>
+    </contour>
     <component base="si_Sha"/>
   </outline>
 </glyph>

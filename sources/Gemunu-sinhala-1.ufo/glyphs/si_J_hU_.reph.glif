@@ -3,6 +3,17 @@
   <advance width="912"/>
   <outline>
     <contour>
+      <point x="884.888" y="-159" type="line"/>
+      <point x="423.994" y="-159" type="line"/>
+      <point x="423.994" y="-53" type="line"/>
+      <point x="761.888" y="-53" type="line"/>
+      <point x="761.888" y="28.6035" type="line"/>
+      <point x="833.888" y="28.6035" type="line" smooth="yes"/>
+      <point x="862.555" y="28.6035"/>
+      <point x="879.555" y="41.6035"/>
+      <point x="884.888" y="67.6035" type="curve"/>
+    </contour>
+    <contour>
       <point x="598.196" y="284.79" type="line"/>
       <point x="555.997" y="284.79" type="line" smooth="yes"/>
       <point x="549.062" y="284.79"/>
@@ -184,6 +195,5 @@
       <point x="335.533" y="486.575"/>
       <point x="351" y="481" type="curve" smooth="yes"/>
     </contour>
-    <component base="si_MatraU" xOffset="926.8"/>
   </outline>
 </glyph>

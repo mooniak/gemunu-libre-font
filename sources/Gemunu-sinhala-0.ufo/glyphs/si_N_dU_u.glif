@@ -3,6 +3,86 @@
   <advance width="620"/>
   <outline>
     <contour>
+      <point x="592.005" y="-158.999" type="line"/>
+      <point x="561.203" y="-158.999" type="line"/>
+      <point x="556.003" y="-149.728"/>
+      <point x="544.535" y="-138.132"/>
+      <point x="536.807" y="-132.798" type="curve" smooth="yes"/>
+      <point x="526.636" y="-125.778"/>
+      <point x="508.613" y="-119.993"/>
+      <point x="489.803" y="-119.993" type="curve"/>
+      <point x="463" y="-119.993" type="line"/>
+      <point x="445.342" y="-119.993"/>
+      <point x="424.84" y="-127.5"/>
+      <point x="412.411" y="-132.599" type="curve"/>
+      <point x="364.803" y="-152.402" type="line"/>
+      <point x="349.131" y="-158.382"/>
+      <point x="320.317" y="-162.805"/>
+      <point x="286.006" y="-162.805" type="curve" smooth="yes"/>
+      <point x="254" y="-162.805" type="line" smooth="yes"/>
+      <point x="221.586" y="-162.805"/>
+      <point x="205.999" y="-150.575"/>
+      <point x="205.999" y="-122.002" type="curve" smooth="yes"/>
+      <point x="205.999" y="-29.0029" type="line"/>
+      <point x="242.797" y="-29.0029" type="line"/>
+      <point x="242.797" y="-112.604" type="line" smooth="yes"/>
+      <point x="242.797" y="-123.889"/>
+      <point x="247.665" y="-130.605"/>
+      <point x="259.602" y="-130.605" type="curve" smooth="yes"/>
+      <point x="291.8" y="-130.605" type="line" smooth="yes"/>
+      <point x="312.769" y="-130.605"/>
+      <point x="338.596" y="-127.924"/>
+      <point x="362" y="-119.002" type="curve"/>
+      <point x="401.206" y="-103.399" type="line"/>
+      <point x="414.172" y="-98.0723"/>
+      <point x="438.6" y="-91.5957"/>
+      <point x="460.796" y="-91.5957" type="curve"/>
+      <point x="494.014" y="-91.5957" type="line"/>
+      <point x="515.706" y="-91.5957"/>
+      <point x="535.151" y="-97.3721"/>
+      <point x="543.413" y="-102.801" type="curve" smooth="yes"/>
+      <point x="549.367" y="-106.713"/>
+      <point x="550.054" y="-107.64"/>
+      <point x="554.801" y="-112.4" type="curve"/>
+      <point x="554.801" y="4" type="line"/>
+      <point x="567.999" y="4" type="line" smooth="yes"/>
+      <point x="573.567" y="4"/>
+      <point x="587.107" y="4.59473"/>
+      <point x="592.005" y="17" type="curve"/>
+    </contour>
+    <contour>
+      <point x="592" y="0.000976562" type="line"/>
+      <point x="250.2" y="0" type="line" smooth="yes"/>
+      <point x="216.2" y="0"/>
+      <point x="206" y="17.9258"/>
+      <point x="206" y="49.5996" type="curve" smooth="yes"/>
+      <point x="206" y="295.998" type="line" smooth="yes"/>
+      <point x="206" y="336.654"/>
+      <point x="227.106" y="352.998"/>
+      <point x="264" y="352.998" type="curve" smooth="yes"/>
+      <point x="550.796" y="352.998" type="line"/>
+      <point x="550.795" y="436" type="line" smooth="yes"/>
+      <point x="550.795" y="457.285"/>
+      <point x="542.271" y="465"/>
+      <point x="524" y="465" type="curve" smooth="yes"/>
+      <point x="206" y="465" type="line"/>
+      <point x="206" y="497.001" type="line"/>
+      <point x="535" y="497" type="line" smooth="yes"/>
+      <point x="568.564" y="497"/>
+      <point x="588" y="480.913"/>
+      <point x="588" y="444" type="curve" smooth="yes"/>
+      <point x="588" y="321.001" type="line"/>
+      <point x="275" y="321" type="line" smooth="yes"/>
+      <point x="250.604" y="321"/>
+      <point x="243" y="311.276"/>
+      <point x="243" y="290" type="curve" smooth="yes"/>
+      <point x="243" y="58.001" type="line" smooth="yes"/>
+      <point x="243" y="38.1592"/>
+      <point x="251.048" y="32"/>
+      <point x="266.2" y="32" type="curve" smooth="yes"/>
+      <point x="592" y="32.001" type="line"/>
+    </contour>
+    <contour>
       <point x="116.602" y="465" type="line" smooth="yes"/>
       <point x="76.8906" y="465"/>
       <point x="59" y="452.74"/>
@@ -16,6 +96,5 @@
       <point x="281.614" y="497" type="line"/>
       <point x="211.614" y="465" type="line"/>
     </contour>
-    <component base="si_DUu" xOffset="184"/>
   </outline>
 </glyph>
