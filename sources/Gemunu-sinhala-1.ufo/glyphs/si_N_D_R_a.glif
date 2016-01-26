@@ -49,16 +49,6 @@
       <point x="248.414" y="223" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="356" y="497" type="curve" smooth="yes"/>
-      <point x="431.998" y="497" type="line"/>
-      <point x="432" y="393.999" type="line"/>
-      <point x="398" y="394" type="line" smooth="yes"/>
-      <point x="378.403" y="394"/>
-      <point x="372.184" y="386.479"/>
-      <point x="360" y="373" type="curve" smooth="yes"/>
-      <point x="170" y="162.803" type="line" smooth="yes"/>
-      <point x="163.174" y="155.251"/>
-      <point x="156.698" y="151.324"/>
       <point x="150.25" y="151.324" type="curve" smooth="yes"/>
       <point x="140.75" y="151.324"/>
       <point x="136" y="153.566"/>
@@ -73,6 +63,16 @@
       <point x="274.199" y="450" type="line" smooth="yes"/>
       <point x="301.946" y="483.155"/>
       <point x="323.471" y="497"/>
+      <point x="356" y="497" type="curve" smooth="yes"/>
+      <point x="431.998" y="497" type="line"/>
+      <point x="432" y="393.999" type="line"/>
+      <point x="398" y="394" type="line" smooth="yes"/>
+      <point x="378.403" y="394"/>
+      <point x="372.184" y="386.479"/>
+      <point x="360" y="373" type="curve" smooth="yes"/>
+      <point x="170" y="162.803" type="line" smooth="yes"/>
+      <point x="163.174" y="155.251"/>
+      <point x="156.698" y="151.324"/>
     </contour>
     <component base="si_DRa" xOffset="394"/>
   </outline>

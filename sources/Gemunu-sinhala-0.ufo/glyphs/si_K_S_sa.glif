@@ -34,6 +34,24 @@
       <point x="330.994" y="64" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="12" y="252.991" type="line"/>
+      <point x="156.992" y="374.211" type="line"/>
+      <point x="156.831" y="430" type="line" smooth="yes"/>
+      <point x="156.777" y="454.001"/>
+      <point x="150.944" y="465"/>
+      <point x="128" y="465" type="curve" smooth="yes"/>
+      <point x="38" y="465" type="line"/>
+      <point x="38" y="497.001" type="line"/>
+      <point x="147.195" y="497" type="line" smooth="yes"/>
+      <point x="175.434" y="497"/>
+      <point x="192.909" y="477.275"/>
+      <point x="192.947" y="440.799" type="curve" smooth="yes"/>
+      <point x="192.995" y="404.206" type="line"/>
+      <point x="274.006" y="472" type="line" smooth="yes"/>
+      <point x="297.624" y="491.765"/>
+      <point x="320.747" y="497"/>
+      <point x="339.209" y="497" type="curve" smooth="yes"/>
+      <point x="481.598" y="497" type="line"/>
       <point x="481.6" y="465" type="line"/>
       <point x="355.815" y="465" type="line" smooth="yes"/>
       <point x="328.595" y="465"/>
@@ -64,24 +82,6 @@
       <point x="29.9258" y="215.78"/>
       <point x="44.7832" y="224.8" type="curve"/>
       <point x="12" y="224.8" type="line"/>
-      <point x="12" y="252.991" type="line"/>
-      <point x="156.992" y="374.211" type="line"/>
-      <point x="156.831" y="430" type="line" smooth="yes"/>
-      <point x="156.777" y="454.001"/>
-      <point x="150.944" y="465"/>
-      <point x="128" y="465" type="curve" smooth="yes"/>
-      <point x="38" y="465" type="line"/>
-      <point x="38" y="497.001" type="line"/>
-      <point x="147.195" y="497" type="line" smooth="yes"/>
-      <point x="175.434" y="497"/>
-      <point x="192.909" y="477.275"/>
-      <point x="192.947" y="440.799" type="curve" smooth="yes"/>
-      <point x="192.995" y="404.206" type="line"/>
-      <point x="274.006" y="472" type="line" smooth="yes"/>
-      <point x="297.624" y="491.765"/>
-      <point x="320.747" y="497"/>
-      <point x="339.209" y="497" type="curve" smooth="yes"/>
-      <point x="481.598" y="497" type="line"/>
     </contour>
     <component base="si_Ssa" xOffset="409"/>
   </outline>

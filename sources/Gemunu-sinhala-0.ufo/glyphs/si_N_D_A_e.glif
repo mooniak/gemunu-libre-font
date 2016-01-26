@@ -49,14 +49,6 @@
       <point x="293" y="291.5" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="471" y="465" type="line"/>
-      <point x="379" y="465" type="line" smooth="yes"/>
-      <point x="344.312" y="465"/>
-      <point x="331.194" y="458.683"/>
-      <point x="310.599" y="435.001" type="curve" smooth="yes"/>
-      <point x="98.5" y="191.703" type="line" smooth="yes"/>
-      <point x="88.6055" y="180.353"/>
-      <point x="79.3584" y="176.901"/>
       <point x="72.5" y="176.901" type="curve" smooth="yes"/>
       <point x="64.3711" y="176.901"/>
       <point x="58.8828" y="179.363"/>
@@ -75,6 +67,14 @@
       <point x="317.21" y="497"/>
       <point x="355" y="497" type="curve" smooth="yes"/>
       <point x="471.001" y="497" type="line"/>
+      <point x="471" y="465" type="line"/>
+      <point x="379" y="465" type="line" smooth="yes"/>
+      <point x="344.312" y="465"/>
+      <point x="331.194" y="458.683"/>
+      <point x="310.599" y="435.001" type="curve" smooth="yes"/>
+      <point x="98.5" y="191.703" type="line" smooth="yes"/>
+      <point x="88.6055" y="180.353"/>
+      <point x="79.3584" y="176.901"/>
     </contour>
     <component base="si_DAe" xOffset="424"/>
   </outline>
