@@ -63,8 +63,8 @@
 	\si_Ttha \si_U \si_Uu \si_V.halant \si_VI \si_VIi \si_VRI \si_VRIi \si_VRa \si_VU 
 	\si_VUu \si_Va \si_Va.reph \si_Y.halant \si_Y.post.halant \si_YI \si_YIi \si_YU 
 	\si_YU.post \si_YUu \si_YUu.post \si_YUu.post.reph \si_Ya \si_Ya.post 
-	\si_Ya.post.reph \si_Ya.reph \si_Yu.post.reph \si_kundaliya \si_vocalicLL 
-	\si_vocalicR \si_vocalicRr \space \visarga \zwj \zwnj \si_vocalicL ];
+	\si_Ya.post.reph \si_Ya.reph \si_Yu.post.reph \si_kundaliya \si_vocalicL 
+	\si_vocalicLL \si_vocalicR \si_vocalicRr \space \visarga \zwj \zwnj ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

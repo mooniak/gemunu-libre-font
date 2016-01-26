@@ -84,11 +84,11 @@
       <point x="383.401" y="461.599" type="curve" smooth="yes"/>
       <point x="383.401" y="459.398" type="line"/>
       <point x="405.996" y="475.202" type="line" smooth="yes"/>
-      <point x="411.029205898" y="478.722420953"/>
-      <point x="416.261709393" y="481.704635624"/>
-      <point x="421.606515052" y="484.223497806" type="curve" smooth="yes"/>
-      <point x="443.144992691" y="494.373999107"/>
-      <point x="466.5071741" y="497.0"/>
+      <point x="411.029" y="478.722"/>
+      <point x="416.262" y="481.705"/>
+      <point x="421.607" y="484.223" type="curve" smooth="yes"/>
+      <point x="443.145" y="494.374"/>
+      <point x="466.507" y="497"/>
       <point x="486" y="497" type="curve" smooth="yes"/>
       <point x="591.989" y="497" type="line"/>
     </contour>

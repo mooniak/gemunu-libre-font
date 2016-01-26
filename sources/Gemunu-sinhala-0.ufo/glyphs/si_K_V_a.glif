@@ -20,10 +20,10 @@
       <point x="297.624" y="491.765"/>
       <point x="320.747" y="497"/>
       <point x="339.209" y="497" type="curve" smooth="yes"/>
-      <point x="388.263241868" y="497.0" type="line"/>
+      <point x="388.263" y="497" type="line"/>
       <point x="481.598" y="497" type="line"/>
       <point x="481.6" y="465" type="line"/>
-      <point x="388.152582359" y="465.0" type="line"/>
+      <point x="388.153" y="465" type="line"/>
       <point x="355.815" y="465" type="line" smooth="yes"/>
       <point x="328.595" y="465"/>
       <point x="312.183" y="457.316"/>
