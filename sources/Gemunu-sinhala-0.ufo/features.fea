@@ -17,9 +17,9 @@
 	\si_FU \si_FUu \si_Fa \si_Fa.reph \si_G.halant \si_GDha \si_GI \si_GIi 
 	\si_GR.halant \si_GRI \si_GRIi \si_GRa \si_GU \si_GUu \si_Ga \si_Ga.reph 
 	\si_Gh.halant \si_GhI \si_GhIi \si_GhRI \si_GhRIi \si_GhRa \si_GhU \si_GhUu 
-	\si_Gha \si_Gha.reph \si_H.halant \si_HI \si_HIi \si_HRIi \si_HRa \si_HU \si_HUu 
-	\si_Ha \si_Ha.reph \si_Halant \si_I \si_Ii \si_J.halant \si_JI \si_JIi \si_JRI 
-	\si_JRIi \si_JRa \si_JU \si_JUu \si_Ja \si_Ja.reph \si_Jh.halant \si_JhI 
+	\si_Gha \si_Gha.reph \si_H.halant \si_HI \si_HIi \si_HRI \si_HRIi \si_HRa \si_HU 
+	\si_HUu \si_Ha \si_Ha.reph \si_Halant \si_I \si_Ii \si_J.halant \si_JI \si_JIi 
+	\si_JRI \si_JRIi \si_JRa \si_JU \si_JUu \si_Ja \si_Ja.reph \si_Jh.halant \si_JhI 
 	\si_JhIi \si_JhRI \si_JhRIi \si_JhRa \si_JhU \si_JhU.reph \si_JhUu 
 	\si_JhUu.reph \si_Jha \si_Jha.reph \si_Jny.halant \si_JnyAa \si_JnyAa.halant 
 	\si_JnyAe \si_JnyAee \si_JnyI \si_JnyIi \si_JnyRI \si_JnyRIi \si_JnyRa \si_JnyU 
@@ -65,7 +65,7 @@
 	\si_YIi \si_YU \si_YU.post \si_YUu \si_YUu.post \si_YUu.post.reph \si_Ya 
 	\si_Ya.post \si_Ya.post.reph \si_Ya.reph \si_Yu.post.reph \si_kundaliya 
 	\si_vocalicL \si_vocalicLL \si_vocalicR \si_vocalicRr \space \visarga \zwj 
-	\zwnj \si_HRI ];
+	\zwnj ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
