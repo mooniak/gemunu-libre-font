@@ -57,14 +57,15 @@
 	\si_TRa \si_TThI \si_TThIi \si_TThU \si_TThUu \si_TTha \si_TU \si_TUu 
 	\si_TV.halant \si_TVI \si_TVIi \si_TVU \si_TVUu \si_TVa \si_Ta \si_Ta.reph 
 	\si_Th.halant \si_ThI \si_ThIi \si_ThU \si_ThUu \si_Tha \si_Tha.reph 
-	\si_Tt.halant \si_TtI \si_TtIi \si_TtRI \si_TtRIi \si_TtRa \si_TtTh.halant 
-	\si_TtThI \si_TtThIi \si_TtThU \si_TtThUu \si_TtTha \si_TtU \si_TtUu \si_TtVa 
-	\si_Tta \si_Tta.reph \si_Tth.halant \si_TthI \si_TthIi \si_TthU \si_TthUu 
-	\si_Ttha \si_U \si_Uu \si_V.halant \si_VI \si_VIi \si_VRI \si_VRIi \si_VRa \si_VU 
-	\si_VUu \si_Va \si_Va.reph \si_Y.halant \si_Y.post.halant \si_YI \si_YIi \si_YU 
-	\si_YU.post \si_YUu \si_YUu.post \si_YUu.post.reph \si_Ya \si_Ya.post 
-	\si_Ya.post.reph \si_Ya.reph \si_Yu.post.reph \si_kundaliya \si_vocalicL 
-	\si_vocalicLL \si_vocalicR \si_vocalicRr \space \visarga \zwj \zwnj ];
+	\si_Tt.halant \si_TtI \si_TtIi \si_TtRI \si_TtRIi \si_TtRa \si_TtTth.halant 
+	\si_TtTthI \si_TtTthIi \si_TtTthU \si_TtTthUu \si_TtTtha \si_TtU \si_TtUu 
+	\si_TtVa \si_Tta \si_Tta.reph \si_Tth.halant \si_TthI \si_TthIi \si_TthU 
+	\si_TthUu \si_Ttha \si_U \si_Uu \si_V.halant \si_VI \si_VIi \si_VRI \si_VRIi 
+	\si_VRa \si_VU \si_VUu \si_Va \si_Va.reph \si_Y.halant \si_Y.post.halant \si_YI 
+	\si_YIi \si_YU \si_YU.post \si_YUu \si_YUu.post \si_YUu.post.reph \si_Ya 
+	\si_Ya.post \si_Ya.post.reph \si_Ya.reph \si_Yu.post.reph \si_kundaliya 
+	\si_vocalicL \si_vocalicLL \si_vocalicR \si_vocalicRr \space \visarga \zwj 
+	\zwnj \si_HRI ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
