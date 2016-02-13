@@ -1,0 +1,1 @@
+Gemunu is trademarks of Pushpanada Ekanayaka.
