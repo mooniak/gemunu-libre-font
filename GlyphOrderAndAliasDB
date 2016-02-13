@@ -226,7 +226,6 @@ si_SI si_SI
 si_HI si_HI
 si_LlI si_LlI
 si_FI si_FI
-# #
 si_KSsI si_KSsI
 si_KVI si_KVI
 si_TVI si_TVI
@@ -238,6 +237,7 @@ si_NThI si_NThI
 si_DVI si_DVI
 si_DDhI si_DDhI
 si_TtTthI si_TtTthI
+si_YI.post si_YI.post
 ################### ###################
 si_KIi si_KIi
 si_KhIi si_KhIi
@@ -280,7 +280,6 @@ si_SIi si_SIi
 si_HIi si_HIi
 si_LlIi si_LlIi
 si_FIi si_FIi
-#### ####
 si_KSsIi si_KSsIi
 si_KVIi si_KVIi
 si_TVIi si_TVIi
@@ -292,6 +291,8 @@ si_NThIi si_NThIi
 si_DVIi si_DVIi
 si_DDhIi si_DDhIi
 si_TtTthIi si_TtTthIi
+si_YIi.post si_YIi.post
+
 
 ### Paapili: keti
 si_KU si_KU
