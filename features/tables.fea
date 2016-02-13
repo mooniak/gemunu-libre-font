@@ -52,13 +52,13 @@ table name {
   nameid  9 "Pushpananda Ekanayake, Sol Matas";
 
 # Description
-  # nameid 10 "";
+  # nameid 10 "A new interpreation of FM Gamunu. Supporting Sinhala and Latin";
 
 # URL vendor
-  nameid 11 "http://mooniak.com";
+  nameid 11 "http://mooniak.com/type";
 
 # URL designer
-  # nameid 12 "";
+  # nameid 12 "http://mooniak.com/type";
 
 # License description
   nameid 13 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
