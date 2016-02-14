@@ -1008,9 +1008,9 @@
     <string>zwj.glif</string>
     <key>zwnj</key>
     <string>zwnj.glif</string>
-    <key>si_YIi.post</key>
-    <string>si_Y_I_i.post.glif</string>
-    <key>si_YI.post</key>
-    <string>si_Y_I_.post.glif</string>
+    <key>si_Ya.post.MatraIi</key>
+    <string>si_Y_a.post.M_atraI_i.glif</string>
+    <key>si_Ya.post.MatraI</key>
+    <string>si_Y_a.post.M_atraI_.glif</string>
   </dict>
 </plist>

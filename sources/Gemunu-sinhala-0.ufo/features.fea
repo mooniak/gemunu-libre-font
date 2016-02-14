@@ -65,7 +65,7 @@
 	\si_YIi \si_YU \si_YU.post \si_YUu \si_YUu.post \si_YUu.post.reph \si_Ya 
 	\si_Ya.post \si_Ya.post.reph \si_Ya.reph \si_Yu.post.reph \si_kundaliya 
 	\si_vocalicL \si_vocalicLL \si_vocalicR \si_vocalicRr \space \visarga \zwj 
-	\zwnj \si_YIi.post \si_YI.post ];
+	\zwnj \si_Ya.post.MatraIi \si_Ya.post.MatraI ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
