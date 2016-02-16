@@ -1,4 +1,5 @@
 
+#Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\anusvara \dottedcircle \si_A \si_Aa \si_Aae \si_Ae \si_Ai \si_Au 
 	\si_B.halant \si_BI \si_BIi \si_BRI \si_BRIi \si_BRa \si_BU \si_BUu \si_Ba 
@@ -65,7 +66,11 @@
 	\si_YIi \si_YU \si_YU.post \si_YUu \si_YUu.post \si_YUu.post.reph \si_Ya 
 	\si_Ya.post \si_Ya.post.reph \si_Ya.reph \si_Yu.post.reph \si_kundaliya 
 	\si_vocalicL \si_vocalicLL \si_vocalicR \si_vocalicRr \space \visarga \zwj 
-	\zwnj \si_Ya.post.MatraI \si_Ya.post.MatraIi ];
+	\zwnj \si_Ya.post.MatraI \si_Ya.post.MatraIi \si_GhR.halant \si_CR.halant 
+	\si_JR.halant \si_JhR.halant \si_NyR.halant \si_TtR.halant \si_JnyR.halant 
+	\si_NdjR.halant \si_DdR.halant \si_TR.halant \si_DR.halant \si_DhR.halant 
+	\si_PR.halant \si_BhRa.halant \si_MR.halant \si_VR.halant \si_ShR.halant 
+	\si_SsR.halant \si_SR.halant \si_HR.halant \si_FR.halant \si_BR.halant ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

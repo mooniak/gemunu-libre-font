@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_SR.halant" format="1">
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="23.4004" y="-15.8076" type="line"/>
+      <point x="147.405" y="-15.8076" type="line"/>
+      <point x="147.405" y="-35.0107" type="line" smooth="yes"/>
+      <point x="147.405" y="-47.0107"/>
+      <point x="149.067" y="-53.0107"/>
+      <point x="160.4" y="-53.0107" type="curve" smooth="yes"/>
+      <point x="393.8" y="-53.0107" type="line" smooth="yes"/>
+      <point x="406.68" y="-53.0107"/>
+      <point x="407.396" y="-47.8877"/>
+      <point x="407.396" y="-35.0098" type="curve" smooth="yes"/>
+      <point x="407.396" y="-15.8076" type="line"/>
+      <point x="531.4" y="-15.8076" type="line"/>
+      <point x="531.4" y="-116.021" type="line" smooth="yes"/>
+      <point x="531.4" y="-147.587"/>
+      <point x="515.733" y="-159.021"/>
+      <point x="490.4" y="-159.021" type="curve" smooth="yes"/>
+      <point x="67.4004" y="-159.021" type="line" smooth="yes"/>
+      <point x="40.3164" y="-159.021"/>
+      <point x="23.4004" y="-144.818"/>
+      <point x="23.4004" y="-114.824" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="408.798" y="492.396" type="line"/>
+      <point x="408.798" y="649" type="line"/>
+      <point x="533" y="649" type="line"/>
+      <point x="533" y="426" type="line"/>
+      <point x="528.333" y="433.333"/>
+      <point x="512.918" y="462.636"/>
+      <point x="501" y="470.791" type="curve" smooth="yes"/>
+      <point x="488.544" y="479.315"/>
+      <point x="469.502" y="492.396"/>
+      <point x="444" y="492.396" type="curve" smooth="yes"/>
+    </contour>
+    <component base="si_Sa"/>
+  </outline>
+</glyph>
