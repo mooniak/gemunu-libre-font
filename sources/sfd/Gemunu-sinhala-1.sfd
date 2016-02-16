@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1455631291
-ModificationTime: 1455631492
+ModificationTime: 1455655361
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -479,7 +479,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 483 7 7
-BeginChars: 527 527
+BeginChars: 528 528
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -8746,8 +8746,8 @@ Flags: W
 LayerCount: 2
 Back
 Fore
-Refer: 157 3530 N 1 0 0 1 596.4 0 2
-Refer: 219 3482 N 1 0 0 1 0 0 2
+Refer: 157 3530 S 1 0 0 1 596.4 0 2
+Refer: 219 3482 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_KI
@@ -8816,7 +8816,7 @@ Flags: W
 LayerCount: 2
 Back
 Fore
-Refer: 401 -1 N 1 0 0 1 623.2 0 2
+Refer: 401 -1 S 1 0 0 1 623.2 0 2
 Refer: 219 3482 N 1 0 0 1 0 0 2
 EndChar
 
@@ -23034,6 +23034,19 @@ SplineSet
  39.5 -10.75 l 257
  -39.5 -10.75 l 257
 EndSplineSet
+EndChar
+
+StartChar: si_KRa.halant
+Encoding: 527 -1 527
+Width: 592
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+Refer: 401 -1 N 1 0 0 1 623.2 0 2
+Refer: 157 3530 N 1 0 0 1 596.4 0 2
+Refer: 219 3482 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
