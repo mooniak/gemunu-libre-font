@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1455711107
-ModificationTime: 1455711107
+ModificationTime: 1455806738
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -478,7 +478,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 8 2
+WinInfo: 264 8 2
 BeginChars: 527 527
 
 StartChar: .notdef
@@ -767,7 +767,7 @@ GlifName: si_A_u
 Width: 867
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
@@ -11070,7 +11070,7 @@ GlifName: si_M_atraA_u
 Width: 1511
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
@@ -11241,41 +11241,11 @@ GlifName: si_M_atraL_s
 Width: 355
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
-SplineSet
-22 497 m 257
- 22 296.593 l 258
- 22 273.958 35.0068 263.593 55 263.593 c 258
- 135.6 263.593 l 258
- 161.569 263.593 177.6 271.499 177.6 298.593 c 258
- 177.6 441.199 l 258
- 177.6 459.723 182.348 465 197.203 465 c 258
- 249.998 465 l 258
- 263.571 465 269.794 457.214 269.794 443 c 258
- 269.794 58 l 258
- 269.794 39.457 261.143 32 246.795 32 c 258
- 83.0049 32 l 258
- 66.5098 32 59 37.582 59 56.9961 c 258
- 59 147 l 257
- 22 147 l 257
- 22 47 l 258
- 22 16.3372 38.0887 0 62 0 c 258
- 259 0 l 258
- 287.587 0 307 16.7559 307 46 c 258
- 307 456 l 258
- 307 478.214 290.729 497 265 497 c 258
- 176.809 497 l 258
- 153.83 497 140.211 481.421 140.211 453 c 258
- 140.211 315.181 l 258
- 140.211 297.911 132.8 296.186 118.196 296.186 c 258
- 79.0029 296.186 l 258
- 63.7539 296.186 59 297.744 59 315.183 c 258
- 59 497 l 257
- 22 497 l 257
-EndSplineSet
+Refer: 264 3571 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: si_MatraO
@@ -21304,7 +21274,7 @@ GlifName: si_U_u
 Width: 889
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Fore
