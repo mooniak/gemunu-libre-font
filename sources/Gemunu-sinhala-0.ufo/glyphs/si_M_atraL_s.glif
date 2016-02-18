@@ -3,59 +3,6 @@
   <advance width="355"/>
   <unicode hex="0DDF"/>
   <outline>
-    <contour>
-      <point x="22" y="497" type="line"/>
-      <point x="22" y="296.593" type="line" smooth="yes"/>
-      <point x="22" y="273.958"/>
-      <point x="35.0068" y="263.593"/>
-      <point x="55" y="263.593" type="curve" smooth="yes"/>
-      <point x="135.6" y="263.593" type="line" smooth="yes"/>
-      <point x="161.569" y="263.593"/>
-      <point x="177.6" y="271.499"/>
-      <point x="177.6" y="298.593" type="curve" smooth="yes"/>
-      <point x="177.6" y="441.199" type="line" smooth="yes"/>
-      <point x="177.6" y="459.723"/>
-      <point x="182.348" y="465"/>
-      <point x="197.203" y="465" type="curve" smooth="yes"/>
-      <point x="249.998" y="465" type="line" smooth="yes"/>
-      <point x="263.571" y="465"/>
-      <point x="269.794" y="457.214"/>
-      <point x="269.794" y="443" type="curve" smooth="yes"/>
-      <point x="269.794" y="58" type="line" smooth="yes"/>
-      <point x="269.794" y="39.457"/>
-      <point x="261.143" y="32"/>
-      <point x="246.795" y="32" type="curve" smooth="yes"/>
-      <point x="83.0049" y="32" type="line" smooth="yes"/>
-      <point x="66.5098" y="32"/>
-      <point x="59" y="37.582"/>
-      <point x="59" y="56.9961" type="curve" smooth="yes"/>
-      <point x="59" y="147" type="line"/>
-      <point x="22" y="147" type="line"/>
-      <point x="22" y="47" type="line" smooth="yes"/>
-      <point x="22" y="16.3372"/>
-      <point x="38.0887" y="0"/>
-      <point x="62" y="0" type="curve" smooth="yes"/>
-      <point x="259" y="0" type="line" smooth="yes"/>
-      <point x="287.587" y="0"/>
-      <point x="307" y="16.7559"/>
-      <point x="307" y="46" type="curve" smooth="yes"/>
-      <point x="307" y="456" type="line" smooth="yes"/>
-      <point x="307" y="478.214"/>
-      <point x="290.729" y="497"/>
-      <point x="265" y="497" type="curve" smooth="yes"/>
-      <point x="176.809" y="497" type="line" smooth="yes"/>
-      <point x="153.83" y="497"/>
-      <point x="140.211" y="481.421"/>
-      <point x="140.211" y="453" type="curve" smooth="yes"/>
-      <point x="140.211" y="315.181" type="line" smooth="yes"/>
-      <point x="140.211" y="297.911"/>
-      <point x="132.8" y="296.186"/>
-      <point x="118.196" y="296.186" type="curve" smooth="yes"/>
-      <point x="79.0029" y="296.186" type="line" smooth="yes"/>
-      <point x="63.7539" y="296.186"/>
-      <point x="59" y="297.744"/>
-      <point x="59" y="315.183" type="curve" smooth="yes"/>
-      <point x="59" y="497" type="line"/>
-    </contour>
+    <component base="si_MatraLl"/>
   </outline>
 </glyph>
