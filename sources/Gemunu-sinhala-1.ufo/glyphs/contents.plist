@@ -1056,5 +1056,7 @@
     <string>zwj.glif</string>
     <key>zwnj</key>
     <string>zwnj.glif</string>
+    <key>si_KR.halant</key>
+    <string>si_K_R_.halant.glif</string>
   </dict>
 </plist>
