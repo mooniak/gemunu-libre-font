@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+import os
 import hindkit as kit
 kit.confirm_version('0.2.1')
 
@@ -19,15 +20,56 @@ family.set_masters(
         # 'devanagari_matra_i_variants',
     ],
 )
-family.masters[0]._file_name = 'GemunuLibre-Regular.ufo'
+
+family.masters[0]._file_name = 'GemunuLibre-ExtraBold.ufo'
 family.masters[1]._file_name = 'GemunuLibre-ExtraBold.ufo'
+
+family.set_styles([
+    ('ExtraBold', 100.0, 800),
+])
+
+# - - -
+#
+# family.output_name_affix = '{} FDK'
+#
+# - - -
+
+builder = kit.Builder(family)
+
+builder.fontrevision = '1.000'
+
+builder.set_options([
+
+    'prepare_styles',   # stage i
+    'prepare_features', # stage ii
+    'compile',          # stage iii
+
+    'makeinstances', #!
+    'checkoutlines', #!
+    # 'autohint',      #!
+
+    'do_style_linking',
+    'use_os_2_version_4',
+    'prefer_typo_metrics',
+    'is_width_weight_slope_only',
+
+])
+
+builder.generate_designspace()
+builder.generate_fmndb()
+
+builder.build()
+os.rename("build/GemunuLibre-ExtraBold.otf","GemunuLibre-ExtraBold.otf")
+
+family.masters[0]._file_name = 'GemunuLibre-Regular.ufo'
+family.masters[1]._file_name = 'GemunuLibre-Bold.ufo'
 
 family.set_styles([
     ('Light',     0.0, 400),
     ('Regular',     20, 500),
     ('Medium',   41, 600),
     ('Bold',       68, 700),
-    ('ExtraBold', 100.0, 800),
+    ('Bold1', 100.0, 800),
 ])
 
 # - - -
@@ -61,3 +103,5 @@ builder.generate_designspace()
 builder.generate_fmndb()
 
 builder.build()
+os.remove("build/GemunuLibre-Bold1.otf")
+os.rename("GemunuLibre-ExtraBold.otf", "build/GemunuLibre-ExtraBold.otf")
