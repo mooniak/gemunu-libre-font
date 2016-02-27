@@ -2,8 +2,8 @@
 # -----------------
 
 table hhea {
-  Ascender 860;
-  Descender -348;
+  Ascender 844;
+  Descender -278;
   LineGap 0;
 } hhea;
 
@@ -21,11 +21,11 @@ table OS/2 {
     73  # Sinhala 0D80-0DFF
     ;
   # CodePageRange;
-  TypoAscender 860;
-  TypoDescender -348;
+  TypoAscender 844;
+  TypoDescender -278;
   TypoLineGap 0;
-  winAscent 860;
-  winDescent 348;
+  winAscent 844;
+  winDescent 278;
   include (weightclass.fea); # WeightClass 400;
   WidthClass 5;
   # Vendor "";
@@ -49,7 +49,7 @@ table name {
   nameid  8 "Mooniak";
 
 # Designer
-  nameid  9 "Pushpananda Ekanayake, Sol Matas";
+  nameid  9 "Pushpananda Ekanayake, Sol Matas, Kosala Senevirathne";
 
 # Description
   # nameid 10 "A new interpreation of FM Gamunu. Supporting Sinhala and Latin";
