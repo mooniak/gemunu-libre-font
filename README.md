@@ -9,11 +9,11 @@
 
 This repo is the active devleopment repo of the project. So files move here and the sometimes. See [live testing page](http://mooniak.com/gemunu-libre-font/tests/) to see work in progress.
 
-- See [Realases](https://github.com/mooniak/gemunu-libre-font/releases) to Download released clean font versions, sources and specimens at the relase point.
+- See [Releases](https://github.com/mooniak/gemunu-libre-font/releases) to Download released clean font versions, sources and specimens at the relase point.
 
 - `/tests/fonts` contains draft fonts which are dirty, generated for design testing.
 
-- `/sources/` contains dirty and incomplete `.ufo` files which opens in all major font editors. These files are generated in intervals in between development. See [Realases](https://github.com/mooniak/gemunu-libre-font/releases) for clean sources.
+- `/sources/` contains dirty and incomplete `.ufo` files which opens in all major font editors. These files are generated in intervals in between development. See [Releases](https://github.com/mooniak/gemunu-libre-font/releases) for clean sources.
 
 - `/sources/sfd` contains source `.sfd` files which opens in [FontForge](http://fontforge.github.io/en-US/). These files are under active developemnt. There might be some FontForge revision files around too.
 
