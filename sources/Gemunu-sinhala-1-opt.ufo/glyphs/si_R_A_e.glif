@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_RAe" format="1">
+  <advance width="712"/>
+  <outline>
+    <contour>
+      <point x="456.82" y="637" type="line"/>
+      <point x="682.827" y="637" type="line"/>
+      <point x="682.827" y="535" type="line"/>
+      <point x="597" y="279" type="line" smooth="yes"/>
+      <point x="587.973" y="252.075"/>
+      <point x="587.827" y="233.667"/>
+      <point x="587.827" y="207" type="curve" smooth="yes"/>
+      <point x="587.827" y="124" type="line" smooth="yes"/>
+      <point x="587.827" y="112.667"/>
+      <point x="594.827" y="107"/>
+      <point x="608.827" y="107" type="curve" smooth="yes"/>
+      <point x="682.827" y="107" type="line"/>
+      <point x="682.827" y="0" type="line"/>
+      <point x="522" y="0" type="line" smooth="yes"/>
+      <point x="478.778" y="0"/>
+      <point x="463.82" y="22.4559"/>
+      <point x="463.82" y="57" type="curve" smooth="yes"/>
+      <point x="463.82" y="222" type="line" smooth="yes"/>
+      <point x="463.82" y="246.667"/>
+      <point x="467.95" y="270.976"/>
+      <point x="482" y="313" type="curve" smooth="yes"/>
+      <point x="555.217" y="532" type="line"/>
+      <point x="456.82" y="532" type="line"/>
+    </contour>
+    <component base="si_Ra"/>
+  </outline>
+</glyph>

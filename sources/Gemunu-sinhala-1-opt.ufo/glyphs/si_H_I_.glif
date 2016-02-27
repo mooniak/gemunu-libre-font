@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_HI" format="1">
+  <advance width="592"/>
+  <outline>
+    <component base="si_MatraI" xOffset="620.2"/>
+    <component base="si_Ha"/>
+  </outline>
+</glyph>

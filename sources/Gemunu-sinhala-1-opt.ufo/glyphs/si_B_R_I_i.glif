@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_BRIi" format="1">
+  <advance width="619"/>
+  <outline>
+    <contour>
+      <point x="23.4004" y="-15.8076" type="line"/>
+      <point x="23.4004" y="-114.824" type="line" smooth="yes"/>
+      <point x="23.4004" y="-144.818"/>
+      <point x="40.3164" y="-159.021"/>
+      <point x="67.4004" y="-159.021" type="curve" smooth="yes"/>
+      <point x="443" y="-159.021" type="line" smooth="yes"/>
+      <point x="468.333" y="-159.021"/>
+      <point x="484" y="-147.587"/>
+      <point x="484" y="-116.021" type="curve" smooth="yes"/>
+      <point x="484" y="-15.8076" type="line"/>
+      <point x="359.995" y="-15.8076" type="line"/>
+      <point x="359.995" y="-35.0098" type="line" smooth="yes"/>
+      <point x="359.995" y="-47.8877"/>
+      <point x="359.279" y="-53.0107"/>
+      <point x="346.399" y="-53.0107" type="curve" smooth="yes"/>
+      <point x="160.4" y="-53.0107" type="line" smooth="yes"/>
+      <point x="149.067" y="-53.0107"/>
+      <point x="147.405" y="-47.0107"/>
+      <point x="147.405" y="-35.0107" type="curve" smooth="yes"/>
+      <point x="147.405" y="-15.8076" type="line"/>
+    </contour>
+    <component base="si_BIi"/>
+  </outline>
+</glyph>

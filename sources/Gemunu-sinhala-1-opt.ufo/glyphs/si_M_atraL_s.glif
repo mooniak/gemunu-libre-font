@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_MatraLs" format="1">
+  <advance width="369"/>
+  <unicode hex="0DDF"/>
+  <outline>
+    <component base="si_MatraLl"/>
+  </outline>
+</glyph>

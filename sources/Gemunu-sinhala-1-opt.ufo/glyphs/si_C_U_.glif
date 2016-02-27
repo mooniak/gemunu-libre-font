@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_CU" format="1">
+  <advance width="539"/>
+  <outline>
+    <contour>
+      <point x="509.088" y="-159" type="line"/>
+      <point x="48.1943" y="-159" type="line"/>
+      <point x="48.1943" y="-53" type="line"/>
+      <point x="386.088" y="-53" type="line"/>
+      <point x="386.088" y="28.6035" type="line"/>
+      <point x="458.088" y="28.6035" type="line" smooth="yes"/>
+      <point x="486.755" y="28.6035"/>
+      <point x="503.755" y="41.6035"/>
+      <point x="509.088" y="67.6035" type="curve"/>
+    </contour>
+    <component base="si_Ca"/>
+  </outline>
+</glyph>

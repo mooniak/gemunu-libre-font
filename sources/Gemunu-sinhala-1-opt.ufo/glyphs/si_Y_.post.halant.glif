@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_Y.post.halant" format="1">
+  <advance width="544"/>
+  <outline>
+    <contour>
+      <point x="345.798" y="486.396" type="line"/>
+      <point x="345.798" y="643" type="line"/>
+      <point x="470" y="643" type="line"/>
+      <point x="470" y="420" type="line"/>
+      <point x="465.333" y="427.333"/>
+      <point x="449.918" y="456.636"/>
+      <point x="438" y="464.791" type="curve" smooth="yes"/>
+      <point x="425.544" y="473.315"/>
+      <point x="406.502" y="486.396"/>
+      <point x="381" y="486.396" type="curve" smooth="yes"/>
+    </contour>
+    <component base="si_Ya.post"/>
+  </outline>
+</glyph>

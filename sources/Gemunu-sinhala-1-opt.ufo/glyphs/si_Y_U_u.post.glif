@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_YUu.post" format="1">
+  <advance width="501"/>
+  <outline>
+    <contour>
+      <point x="470.007" y="-158.999" type="line"/>
+      <point x="353.407" y="-158.999" type="line"/>
+      <point x="345.853" y="-151.036"/>
+      <point x="337.94" y="-141.535"/>
+      <point x="330.212" y="-136.201" type="curve" smooth="yes"/>
+      <point x="320.041" y="-129.182"/>
+      <point x="308.521" y="-129.002"/>
+      <point x="298.412" y="-129.002" type="curve"/>
+      <point x="285.419" y="-129.002" type="line"/>
+      <point x="273.443" y="-129.002"/>
+      <point x="263.848" y="-131.704"/>
+      <point x="251.419" y="-136.803" type="curve"/>
+      <point x="208.215" y="-153.804" type="line"/>
+      <point x="196.427" y="-158.021"/>
+      <point x="184.422" y="-162.805"/>
+      <point x="156.422" y="-162.805" type="curve" smooth="yes"/>
+      <point x="70.2158" y="-162.805" type="line" smooth="yes"/>
+      <point x="37.8018" y="-162.805"/>
+      <point x="22.2148" y="-150.575"/>
+      <point x="22.2148" y="-122.002" type="curve" smooth="yes"/>
+      <point x="22.2148" y="-29.0029" type="line"/>
+      <point x="139.215" y="-29.0029" type="line"/>
+      <point x="139.215" y="-51.002" type="line" smooth="yes"/>
+      <point x="139.215" y="-62.2861"/>
+      <point x="144.083" y="-69.0029"/>
+      <point x="156.02" y="-69.0029" type="curve" smooth="yes"/>
+      <point x="162.216" y="-69.0029" type="line" smooth="yes"/>
+      <point x="175.216" y="-69.0029"/>
+      <point x="191.36" y="-65.4404"/>
+      <point x="208.215" y="-58.8008" type="curve"/>
+      <point x="241.415" y="-46.001" type="line"/>
+      <point x="254.381" y="-40.6738"/>
+      <point x="267.567" y="-39.002"/>
+      <point x="283.215" y="-39.002" type="curve"/>
+      <point x="300.421" y="-39.002" type="line"/>
+      <point x="310.382" y="-39.002"/>
+      <point x="327.444" y="-39.1924"/>
+      <point x="335.617" y="-45.002" type="curve" smooth="yes"/>
+      <point x="341.424" y="-49.1299"/>
+      <point x="342.258" y="-50.2412"/>
+      <point x="347.005" y="-55.002" type="curve"/>
+      <point x="347.005" y="36" type="line"/>
+      <point x="425.007" y="36" type="line" smooth="yes"/>
+      <point x="451.007" y="36"/>
+      <point x="466.007" y="50"/>
+      <point x="470.007" y="78" type="curve"/>
+    </contour>
+    <component base="si_Ya.post"/>
+  </outline>
+</glyph>

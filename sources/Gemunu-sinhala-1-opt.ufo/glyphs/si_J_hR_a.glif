@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_JhRa" format="1">
+  <advance width="917"/>
+  <outline>
+    <contour>
+      <point x="425.588" y="-15.8076" type="line"/>
+      <point x="425.588" y="-114.824" type="line" smooth="yes"/>
+      <point x="425.588" y="-144.818"/>
+      <point x="442.504" y="-159.021"/>
+      <point x="469.588" y="-159.021" type="curve" smooth="yes"/>
+      <point x="845.998" y="-159.021" type="line" smooth="yes"/>
+      <point x="871.331" y="-159.021"/>
+      <point x="886.998" y="-147.587"/>
+      <point x="886.998" y="-116.021" type="curve" smooth="yes"/>
+      <point x="886.998" y="-15.8076" type="line"/>
+      <point x="762.993" y="-15.8076" type="line"/>
+      <point x="762.993" y="-35.0098" type="line" smooth="yes"/>
+      <point x="762.993" y="-47.8877"/>
+      <point x="762.277" y="-53.0107"/>
+      <point x="749.397" y="-53.0107" type="curve" smooth="yes"/>
+      <point x="562.588" y="-53.0107" type="line" smooth="yes"/>
+      <point x="551.255" y="-53.0107"/>
+      <point x="549.593" y="-47.0107"/>
+      <point x="549.593" y="-35.0107" type="curve" smooth="yes"/>
+      <point x="549.593" y="-15.8076" type="line"/>
+    </contour>
+    <component base="si_Jha"/>
+  </outline>
+</glyph>

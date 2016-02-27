@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_vocalicLL" format="1">
+  <advance width="1231"/>
+  <unicode hex="0D90"/>
+  <outline>
+    <contour>
+      <point x="881" y="496.8" type="line"/>
+      <point x="881" y="268" type="line" smooth="yes"/>
+      <point x="881" y="245.365"/>
+      <point x="894" y="235"/>
+      <point x="914" y="235" type="curve" smooth="yes"/>
+      <point x="986.594" y="235" type="line" smooth="yes"/>
+      <point x="1012.56" y="235"/>
+      <point x="1028.59" y="242.905"/>
+      <point x="1028.59" y="270" type="curve" smooth="yes"/>
+      <point x="1028.59" y="378.2" type="line" smooth="yes"/>
+      <point x="1028.59" y="388.865"/>
+      <point x="1031.93" y="394.2"/>
+      <point x="1038.59" y="394.2" type="curve" smooth="yes"/>
+      <point x="1053.39" y="394.2" type="line" smooth="yes"/>
+      <point x="1059.39" y="394.2"/>
+      <point x="1062.39" y="389.533"/>
+      <point x="1062.39" y="380.2" type="curve" smooth="yes"/>
+      <point x="1062.39" y="123.8" type="line" smooth="yes"/>
+      <point x="1062.39" y="112.467"/>
+      <point x="1060.6" y="106.8"/>
+      <point x="1050.6" y="106.8" type="curve" smooth="yes"/>
+      <point x="1020" y="106.8" type="line" smooth="yes"/>
+      <point x="1006.09" y="106.8"/>
+      <point x="1005" y="109.507"/>
+      <point x="1005" y="123.8" type="curve" smooth="yes"/>
+      <point x="1005" y="172" type="line"/>
+      <point x="881" y="172" type="line"/>
+      <point x="881" y="47" type="line" smooth="yes"/>
+      <point x="881" y="16.3369"/>
+      <point x="897.089" y="0"/>
+      <point x="921" y="0" type="curve" smooth="yes"/>
+      <point x="1139" y="0" type="line" smooth="yes"/>
+      <point x="1167.59" y="-0"/>
+      <point x="1187" y="16.7559"/>
+      <point x="1187" y="46" type="curve" smooth="yes"/>
+      <point x="1187" y="456" type="line" smooth="yes"/>
+      <point x="1187" y="478.214"/>
+      <point x="1170.73" y="497"/>
+      <point x="1145" y="497" type="curve" smooth="yes"/>
+      <point x="1022.8" y="497" type="line" smooth="yes"/>
+      <point x="999.819" y="497"/>
+      <point x="986.2" y="485.421"/>
+      <point x="986.2" y="457" type="curve" smooth="yes"/>
+      <point x="986.2" y="360.995" type="line" smooth="yes"/>
+      <point x="986.2" y="344.995"/>
+      <point x="985.766" y="336.995"/>
+      <point x="976.2" y="336.995" type="curve" smooth="yes"/>
+      <point x="960.995" y="336.995" type="line" smooth="yes"/>
+      <point x="953.472" y="336.995"/>
+      <point x="952.193" y="341.662"/>
+      <point x="952.193" y="358.995" type="curve" smooth="yes"/>
+      <point x="952.193" y="496.8" type="line"/>
+    </contour>
+    <component base="si_vocalicL"/>
+  </outline>
+</glyph>

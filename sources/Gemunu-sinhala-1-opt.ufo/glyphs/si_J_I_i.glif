@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_JIi" format="1">
+  <advance width="513"/>
+  <outline>
+    <contour>
+      <point x="252.587" y="564" type="curve" smooth="yes"/>
+      <point x="252.587" y="546" type="line" smooth="yes"/>
+      <point x="252.587" y="542"/>
+      <point x="255.938" y="540"/>
+      <point x="262.587" y="540" type="curve" smooth="yes"/>
+      <point x="290" y="540" type="line" smooth="yes"/>
+      <point x="296" y="540"/>
+      <point x="299" y="542.333"/>
+      <point x="299" y="547" type="curve" smooth="yes"/>
+      <point x="299" y="564" type="line" smooth="yes"/>
+      <point x="299" y="568.667"/>
+      <point x="296" y="571"/>
+      <point x="290" y="571" type="curve" smooth="yes"/>
+      <point x="261.587" y="571" type="line" smooth="yes"/>
+      <point x="255.603" y="571"/>
+      <point x="252.587" y="568.667"/>
+    </contour>
+    <contour>
+      <point x="324" y="507" type="curve" smooth="yes"/>
+      <point x="218" y="507" type="line" smooth="yes"/>
+      <point x="207" y="507"/>
+      <point x="201" y="513"/>
+      <point x="201" y="525" type="curve" smooth="yes"/>
+      <point x="201" y="559" type="line"/>
+      <point x="201" y="559" type="line"/>
+      <point x="172" y="559" type="line" smooth="yes"/>
+      <point x="160.667" y="559"/>
+      <point x="155" y="553"/>
+      <point x="155" y="541" type="curve" smooth="yes"/>
+      <point x="155" y="507" type="line"/>
+      <point x="40" y="507" type="line"/>
+      <point x="40" y="600.792" type="line" smooth="yes"/>
+      <point x="40" y="625.454"/>
+      <point x="61.7109" y="644.792"/>
+      <point x="86" y="644.792" type="curve" smooth="yes"/>
+      <point x="306" y="644.792" type="line" smooth="yes"/>
+      <point x="331.432" y="644.792"/>
+      <point x="350.113" y="631.85"/>
+      <point x="350.188" y="599" type="curve" smooth="yes"/>
+      <point x="350.347" y="530" type="line" smooth="yes"/>
+      <point x="350" y="517"/>
+      <point x="337" y="507"/>
+    </contour>
+    <component base="si_Ja"/>
+  </outline>
+</glyph>

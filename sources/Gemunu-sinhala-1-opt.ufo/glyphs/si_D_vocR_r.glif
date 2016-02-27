@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_DvocRr" format="1">
+  <advance width="1101"/>
+  <outline>
+    <component base="si_MatraR" xOffset="755"/>
+    <component base="si_MatraR" xOffset="433"/>
+    <component base="si_Da"/>
+  </outline>
+</glyph>

@@ -26,13 +26,13 @@
 	\si_JhUu \si_JhUu.reph \si_Jha \si_Jha.reph \si_Jny.halant \si_JnyAa 
 	\si_JnyAa.halant \si_JnyAe \si_JnyAee \si_JnyI \si_JnyIi \si_JnyR.halant 
 	\si_JnyRI \si_JnyRIi \si_JnyRa \si_JnyU \si_JnyUu \si_Jnya \si_K.halant \si_KI 
-	\si_KIi \si_KRI \si_KRIi \si_KRa \si_KSs.halant \si_KSsI \si_KSsIi \si_KSsU 
-	\si_KSsUu \si_KSsa \si_KU \si_KU.reph \si_KUu \si_KV.halant \si_KVI \si_KVIi 
-	\si_KVU \si_KVUu \si_KVa \si_Ka \si_Ka.reph \si_Kh.halant \si_KhI \si_KhIi 
-	\si_KhR.halant \si_KhRI \si_KhRIi \si_KhRa \si_KhU \si_KhUu \si_Kha 
-	\si_L.halant \si_LI \si_LIi \si_LU \si_LUu \si_La \si_Ll.halant \si_LlI \si_LlIi 
-	\si_LlU \si_LlUu \si_Lla \si_M.halant \si_MI \si_MIi \si_MR.halant \si_MRI 
-	\si_MRIi \si_MRa \si_MU \si_MUu \si_Ma \si_Ma.reph \si_MatraAa 
+	\si_KIi \si_KR.halant \si_KRI \si_KRIi \si_KRa \si_KSs.halant \si_KSsI 
+	\si_KSsIi \si_KSsU \si_KSsUu \si_KSsa \si_KU \si_KU.reph \si_KUu \si_KV.halant 
+	\si_KVI \si_KVIi \si_KVU \si_KVUu \si_KVa \si_Ka \si_Ka.reph \si_Kh.halant 
+	\si_KhI \si_KhIi \si_KhR.halant \si_KhRI \si_KhRIi \si_KhRa \si_KhU \si_KhUu 
+	\si_Kha \si_L.halant \si_LI \si_LIi \si_LU \si_LUu \si_La \si_Ll.halant \si_LlI 
+	\si_LlIi \si_LlU \si_LlUu \si_Lla \si_M.halant \si_MI \si_MIi \si_MR.halant 
+	\si_MRI \si_MRIi \si_MRa \si_MU \si_MUu \si_Ma \si_Ma.reph \si_MatraAa 
 	\si_MatraAa.halant \si_MatraAae \si_MatraAe \si_MatraAi \si_MatraAu 
 	\si_MatraE \si_MatraEe \si_MatraI \si_MatraIi \si_MatraLl \si_MatraLs 
 	\si_MatraO \si_MatraOo \si_MatraR \si_MatraRr \si_MatraU \si_MatraU.alt 
@@ -69,8 +69,7 @@
 	\si_Y.post.halant \si_YI \si_YIi \si_YU \si_YU.post \si_YUu \si_YUu.post 
 	\si_YUu.post.reph \si_Ya \si_Ya.post \si_Ya.post.MatraI \si_Ya.post.MatraIi 
 	\si_Ya.post.reph \si_Ya.reph \si_Yu.post.reph \si_kundaliya \si_vocalicL 
-	\si_vocalicLL \si_vocalicR \si_vocalicRr \space \visarga \zwj \zwnj 
-	\si_KR.halant ];
+	\si_vocalicLL \si_vocalicR \si_vocalicRr \space \visarga \zwj \zwnj ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

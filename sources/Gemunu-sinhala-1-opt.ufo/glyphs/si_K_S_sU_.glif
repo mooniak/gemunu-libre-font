@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="si_KSsU" format="1">
+  <advance width="920"/>
+  <outline>
+    <component base="si_MatraU" xOffset="930.8"/>
+    <component base="si_KSsa"/>
+  </outline>
+</glyph>
