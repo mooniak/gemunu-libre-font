@@ -25,7 +25,7 @@ family.masters[0]._file_name = 'GemunuLibre-ExtraBold.ufo'
 family.masters[1]._file_name = 'GemunuLibre-ExtraBold.ufo'
 
 family.set_styles([
-    ('ExtraBold', 100.0, 800),
+    ('Bold', 100.0, 800),
 ])
 
 # - - -
@@ -65,10 +65,10 @@ family.masters[0]._file_name = 'GemunuLibre-Regular.ufo'
 family.masters[1]._file_name = 'GemunuLibre-Bold.ufo'
 
 family.set_styles([
-    ('Light',     0.0, 400),
-    ('Regular',     20, 500),
-    ('Medium',   41, 600),
-    ('Bold',       68, 700),
+    ('ExtraLight',     0.0, 400),
+    ('Light',     20, 500),
+    ('Regular',   41, 600),
+    ('SemiBold',       68, 700),
     ('Bold1', 100.0, 800),
 ])
 
