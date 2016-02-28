@@ -1,17 +1,6 @@
 Contributors to Gemunu Libre Font Development
 ===============
 
-# This is the list of people who have contributed to this project,
-# and includes those not listed in AUTHORS.txt because they are not
-# copyright authors. For example, company employees may be listed
-# here because their company holds the copyright and is listed there.
-#
-# When adding J Random Contributor's name to this file, either J's
-# name or J's organization's name should be added to AUTHORS.txt
-#
-# Names should be added to this file as:
-# Name <email address>
- 
 This is a list of contributors to the project. Please see the git commits and issues to see specific details of contributions.
 
 - N: Pushpananda Ekanayake
