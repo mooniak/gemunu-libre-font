@@ -24,8 +24,8 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1456161191
-ModificationTime: 1456161191
-PfmFamily: 16
+ModificationTime: 1456680436
+PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 94
@@ -47,8 +47,9 @@ OS2CapHeight: 0
 OS2XHeight: 0
 OS2Vendor: 'PfEd'
 OS2UnicodeRanges: 00000002.00000000.00000000.00000000
+MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "Copyright (c) 1997-2015 Pushpananda Ekanayake (http://isiwara.lk), Copyright (c) 2015 mooniak (http://mooniak.com)+AAoA" "" "" "" "" "Version 1.0.1" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "" "" "" "Regular"
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
 PickledDataWithLists: "(dp1
 S'public.glyphOrder'
 p2
@@ -479,6 +480,8 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 0 8 2
+BeginPrivate: 0
+EndPrivate
 BeginChars: 528 528
 
 StartChar: .notdef
