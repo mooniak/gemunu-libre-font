@@ -105,4 +105,4 @@ builder.generate_fmndb()
 
 builder.build()
 os.remove("build/GemunuLibre-Bold1.otf")
-os.rename("GemunuLibre-ExtraBold.otf", "build/GemunuLibre-ExtraBold.otf")
+os.rename("GemunuLibre-Bold.otf", "build/GemunuLibre-Bold.otf")
