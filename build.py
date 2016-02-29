@@ -25,7 +25,7 @@ family.masters[0]._file_name = 'GemunuLibre-ExtraBold.ufo'
 family.masters[1]._file_name = 'GemunuLibre-ExtraBold.ufo'
 
 family.set_styles([
-    ('Bold', 100.0, 700),
+    ('ExtraBold', 100.0, 700),
 ])
 
 # - - -
@@ -105,4 +105,4 @@ builder.generate_fmndb()
 
 builder.build()
 os.remove("build/GemunuLibre-Bold1.otf")
-os.rename("GemunuLibre-Bold.otf", "build/GemunuLibre-Bold.otf")
+os.rename("GemunuLibre-ExtraBold.otf", "build/GemunuLibre-ExtraBold.otf")
