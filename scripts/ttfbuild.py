@@ -50,14 +50,14 @@ for file in file_list:
     font.familyname=family_name
     font.fontname=family_name+"-"+file
     font.fullname=family_name+" "+file
-    if not os.path.exists("build/ttf/Sinhala"):
-        os.mkdir("build/ttf")
-    if lang=="s" and not os.path.exists("build/ttf/Sinhala"):
-        os.mkdir("build/ttf/Sinhala")
-    elif lang=="t" and not os.path.exists("build/ttf/Tamil"):
-        os.mkdir("build/ttf/Tamil")
+    if not os.path.exists("ttf-build/Sinhala"):
+        os.mkdir("ttf-build")
+    if lang=="s" and not os.path.exists("ttf-build/Sinhala"):
+        os.mkdir("ttf-build/Sinhala")
+    elif lang=="t" and not os.path.exists("ttf-build/Tamil"):
+        os.mkdir("ttf-build/Tamil")
     print "[INFO] Generating ttf font"
     if lang=="s":
-        font.generate("build/ttf/Sinhala/"+family_name+"-"+file+".ttf")
+        font.generate("ttf-build/Sinhala/"+family_name+"-"+file+".ttf")
     else:
-        font.generate("build/ttf/Tamil/"+family_name+"-"+file+".ttf")
+        font.generate("ttf-build/Tamil/"+family_name+"-"+file+".ttf")
