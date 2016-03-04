@@ -26,7 +26,7 @@ table OS/2 {
   TypoLineGap 0;
   winAscent 844;
   winDescent 278;
-  include (weightclass.fea); # WeightClass 400;
+  include (weightclass.fea) # WeightClass 400;
   WidthClass 5;
   # Vendor "";
 } OS/2;
