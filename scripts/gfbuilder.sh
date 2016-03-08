@@ -16,6 +16,8 @@ python ../../scripts/fontconvert Gemunu-sinhala-0.sfd ../../sources --ufo
 python ../../scripts/fontconvert Gemunu-sinhala-1.sfd ../../sources --ufo
 python ../../scripts/fontconvert Gemunu-sinhala-1-opt.sfd ../../sources --ufo
 
+rm -rf ../ttf-build
+
 cd ../../scripts
 rm -rf ../masters/*.ufo
 python merger.py ../masters/GemunuLibre-Regular.ufo ../sources/Gemunu-sinhala-0.ufo ../sources/Gemunu-latin-0.ufo
@@ -23,4 +25,4 @@ python merger.py ../masters/GemunuLibre-Bold.ufo ../sources/Gemunu-sinhala-1.ufo
 python merger.py ../masters/GemunuLibre-ExtraBold.ufo ../sources/Gemunu-sinhala-1-opt.ufo ../sources/Gemunu-latin-1.ufo
 
 cd ../
-python gfbuild.py
+python gfbuild-s.py

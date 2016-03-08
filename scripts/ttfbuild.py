@@ -38,7 +38,7 @@ for file in file_list:
             copyfile('instances/'+file+"/"+item, path+"/"+item)
 
     copyfile("features/features-"+lang+".fea", path+"/features-"+lang+".fea")
-    copyfile("features/tables.fea", path+"/tables.fea")
+    copyfile("features/tables-"+lang+".fea", path+"/tables-"+lang+".fea")
 
     try:
        copyfile("features/GENERATED_classes.fea", path+"/GENERATED_classes.fea")
@@ -50,7 +50,7 @@ for file in file_list:
     font.familyname=family_name
     font.fontname=family_name+"-"+file
     font.fullname=family_name+" "+file
-    if not os.path.exists("ttf-build/Sinhala"):
+    if not os.path.exists("ttf-build"):
         os.mkdir("ttf-build")
     if lang=="s" and not os.path.exists("ttf-build/Sinhala"):
         os.mkdir("ttf-build/Sinhala")

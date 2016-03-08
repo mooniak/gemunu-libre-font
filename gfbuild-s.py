@@ -57,9 +57,6 @@ builder.build()
 
 subprocess.call(['python', 'scripts/ttfbuild.py', 's', "GemunuLibre"])
 
-
-os.rename("build/ttf/Sinhala/GemunuLibre-ExtraBold.ttf","GemunuLibre-ExtraBold.ttf")
-
 family.masters[0]._file_name = 'GemunuLibre-Regular.ufo'
 family.masters[1]._file_name = 'GemunuLibre-Bold.ufo'
 
@@ -106,5 +103,4 @@ builder.build()
 print os.listdir("instances")
 subprocess.call(['python', 'scripts/ttfbuild.py', 's', "GemunuLibre"])
 
-os.remove("build/ttf/Sinhala/GemunuLibre-Bold1.ttf")
-os.rename("GemunuLibre-ExtraBold.ttf", "build/ttf/Sinhala/GemunuLibre-ExtraBold.ttf")
+os.remove("ttf-build/Sinhala/GemunuLibre-Bold1.ttf")
