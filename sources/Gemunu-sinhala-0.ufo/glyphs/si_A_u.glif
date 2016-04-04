@@ -3,7 +3,7 @@
   <advance width="867"/>
   <unicode hex="0D96"/>
   <outline>
-    <component base="si_MatraLs" yScale="0.997988" xOffset="521" yOffset="1"/>
     <component base="si_Os"/>
+    <component base="si_MatraLs" yScale="0.997988" xOffset="521" yOffset="1"/>
   </outline>
 </glyph>
