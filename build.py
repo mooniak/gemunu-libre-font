@@ -36,7 +36,7 @@ family.set_styles([
 
 builder = kit.Builder(family)
 
-builder.fontrevision = '0.900'
+builder.fontrevision = '1.000'
 
 builder.set_options([
 
@@ -68,9 +68,10 @@ family.set_styles([
     ('ExtraLight',     0.0, 200),
     ('Light',     20, 300),
     ('Regular',   30, 400),
-    ('SemiBold',       45, 500),
-    ('Bold',       67, 600),
-    ('Bold1', 100.0, 700),
+    ('Medium',   42, 500),
+    ('SemiBold',       55, 600),
+    ('Bold',       70, 700),
+    ('Bold1', 100.0, 800),
 ])
 
 # - - -
@@ -81,7 +82,7 @@ family.set_styles([
 
 builder = kit.Builder(family)
 
-builder.fontrevision = '0.900'
+builder.fontrevision = '1.000'
 
 builder.set_options([
 

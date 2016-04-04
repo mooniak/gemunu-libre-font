@@ -4,11 +4,17 @@ FONTLOG for Gemunu Libre
 This file provides detailed information on the Gemunu Libre font software.
 This information should be distributed along with the Gemunu Libre fonts and any derivative works.
 
-Please see https://github.com/mooniak/gemunu-libre-font for documentation,development plans, contribution guidelines and all past releases. 
+Please see https://github.com/mooniak/gemunu-libre-font for documentation,development plans, contribution guidelines and all past releases.
 
 
 ChangeLog
 ----------
+
+4 April 2016 (mooniak) Gemunu Libre v1.000
+
+- Added new medium weight
+- TTF build system, this release
+- Minor updates
 
 29 February 2016 (mooniak) Gemunu Libre Initial Release v0.900
 
