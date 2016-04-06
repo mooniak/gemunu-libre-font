@@ -9,6 +9,9 @@ Please see https://github.com/mooniak/gemunu-libre-font for documentation,develo
 
 ChangeLog
 ----------
+6 April 2016 (mooniak) Gemunu Libre v1.001
+
+- Minor feature fixes
 
 4 April 2016 (mooniak) Gemunu Libre v1.000
 
