@@ -31,7 +31,7 @@ family.set_styles([
 
 builder = kit.Builder(family)
 
-builder.fontrevision = '0.900'
+builder.fontrevision = '1.001'
 
 builder.set_options([
 
@@ -55,7 +55,7 @@ builder.generate_fmndb()
 
 builder.build()
 
-subprocess.call(['python', 'scripts/ttfbuild.py', 's', "GemunuLibre"])
+subprocess.call(['python', 'scripts/ttfbuild.py', 's', "Gemunu Libre", "GemunuLibre", "GemunuLibre"])
 
 family.masters[0]._file_name = 'GemunuLibre-Regular.ufo'
 family.masters[1]._file_name = 'GemunuLibre-Bold.ufo'
@@ -78,7 +78,7 @@ family.set_styles([
 
 builder = kit.Builder(family)
 
-builder.fontrevision = '1.000'
+builder.fontrevision = '1.001'
 
 builder.set_options([
 
@@ -102,6 +102,6 @@ builder.generate_fmndb()
 
 builder.build()
 print os.listdir("instances")
-subprocess.call(['python', 'scripts/ttfbuild.py', 's', "GemunuLibre"])
+subprocess.call(['python', 'scripts/ttfbuild.py', 's', "Gemunu Libre", "GemunuLibre", "GemunuLibre"])
 
 os.remove("ttf-build/Sinhala/GemunuLibre-Bold1.ttf")
