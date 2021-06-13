@@ -2,7 +2,7 @@
 .appVersion = "1355";
 DisplayStrings = (
 "À",
-"/sinNVa.reph"
+"x/sinNVa.reph"
 );
 customParameters = (
 {
@@ -841,8 +841,8 @@ alignmentZones = (
 "{0, -6}",
 "{-270, -16}"
 );
-ascender = 845;
-capHeight = 0;
+ascender = 819;
+capHeight = 635;
 custom = Extra;
 customParameters = (
 {
@@ -895,7 +895,7 @@ verticalStems = (
 visible = 1;
 weight = Light;
 weightValue = 0;
-xHeight = 0;
+xHeight = 490;
 },
 {
 alignmentZones = (
