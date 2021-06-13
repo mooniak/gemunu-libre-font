@@ -11,8 +11,7 @@ DisplayStrings = (
 "/sinKVa.reph/sinNVa.reph/sinNTha.reph/sinGDha.reph/sinDVa.reph",
 "/sinKa.reph/sinDDha.reph/sinTtTtha.reph",
 "/sinDDha.reph/sinTtTtha.reph",
-"/sinMatraIi",
-"/sinMatraU.sub"
+"/sinCandrabindu"
 );
 customParameters = (
 {
@@ -161,6 +160,7 @@ sinRakar,
 sinReph,
 sinYansaya,
 sinAnusvara,
+sinCandrabindu,
 sinVisarga,
 sinMatraAa,
 sinMatraAa.virama,
@@ -730,7 +730,7 @@ sinSa.reph,
 sinHa.reph,
 sinLla.reph,
 sinFa.reph,
-sinFa.reph,
+sinfPa.reph,
 sinKSsa.reph,
 sinKVa.reph,
 sinTVa.reph,
@@ -14514,6 +14514,93 @@ width = 417;
 }
 );
 unicode = 0D82;
+},
+{
+glyphname = sinCandrabindu;
+lastChange = "2021-06-13 07:30:18 +0000";
+layers = (
+{
+layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
+paths = (
+{
+closed = 1;
+nodes = (
+"-248 845 LINE",
+"-248 787 LINE",
+"-305 787 LINE",
+"-305 845 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-85 744 LINE SMOOTH",
+"-85 715 OFFCURVE",
+"-90 683 OFFCURVE",
+"-141 683 CURVE SMOOTH",
+"-424 683 LINE SMOOTH",
+"-454 683 OFFCURVE",
+"-470 695 OFFCURVE",
+"-470 731 CURVE SMOOTH",
+"-470 838 LINE",
+"-424 838 LINE",
+"-424 760 LINE",
+"-424 727 OFFCURVE",
+"-422 723 OFFCURVE",
+"-389 723 CURVE SMOOTH",
+"-156 723 LINE SMOOTH",
+"-137 723 OFFCURVE",
+"-129 725 OFFCURVE",
+"-129 754 CURVE SMOOTH",
+"-129 838 LINE",
+"-85 838 LINE"
+);
+}
+);
+width = 0;
+},
+{
+layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
+paths = (
+{
+closed = 1;
+nodes = (
+"-214 932 LINE",
+"-214 838 LINE",
+"-316 838 LINE",
+"-316 932 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-59 741 LINE SMOOTH",
+"-59 712 OFFCURVE",
+"-63 680 OFFCURVE",
+"-114 680 CURVE SMOOTH",
+"-452 680 LINE SMOOTH",
+"-482 680 OFFCURVE",
+"-498 692 OFFCURVE",
+"-498 728 CURVE SMOOTH",
+"-498 903 LINE",
+"-374 903 LINE",
+"-374 810 LINE",
+"-374 793 OFFCURVE",
+"-374 787 OFFCURVE",
+"-350 787 CURVE SMOOTH",
+"-208 787 LINE SMOOTH",
+"-185 787 OFFCURVE",
+"-183 790 OFFCURVE",
+"-183 813 CURVE SMOOTH",
+"-183 903 LINE",
+"-59 903 LINE"
+);
+}
+);
+width = 0;
+}
+);
+unicode = 0D81;
 },
 {
 glyphname = sinVisarga;
