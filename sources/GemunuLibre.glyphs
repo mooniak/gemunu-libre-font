@@ -1,62 +1,9 @@
 {
 .appVersion = "1355";
 DisplayStrings = (
-"/sinTVa.reph/sinTTha.reph",
-"/sinCa.reph/sinJha.reph/sinTta.reph/sinDda.reph/sinBa.reph/sinVa.reph/sinFa.reph",
-"/sinMa.reph",
-"/sinKha.reph",
-"/sinKa.reph/sinKha.reph",
-"/sinDha.reph/sinKVa.reph/sinNVa.reph/sinNTha.reph/sinGDha.reph/sinDVa.reph",
-"/sinKVa.reph",
-"/sinKVa.reph/sinNVa.reph/sinNTha.reph/sinGDha.reph/sinDVa.reph",
-"/sinKa.reph/sinDDha.reph/sinTtTtha.reph",
-"/sinDDha.reph/sinTtTtha.reph",
-"/sinCandrabindu"
+"À"
 );
 customParameters = (
-{
-name = fsType;
-value = (
-);
-},
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = description;
-value = "A font family for title and heading texts, supporting Sinhala, Tamil and Latin scripts.";
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-},
-{
-name = unicodeRanges;
-value = (
-0,
-1,
-2,
-73
-);
-},
-{
-name = sampleText;
-value = "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.";
-},
-{
-name = vendorID;
-value = MNIK;
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
 {
 name = glyphOrder;
 value = (
@@ -788,6 +735,49 @@ sinNDAa.virama.ss01,
 sinDRAa.ss01,
 sinNdRAa.ss01
 );
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1,
+2,
+73
+);
+},
+{
+name = sampleText;
+value = "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.";
+},
+{
+name = vendorID;
+value = MNIK;
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2015-10-01 17:09:15 +0000";
@@ -848,7 +838,7 @@ alignmentZones = (
 "{0, 15}",
 "{0, 15}",
 "{0, -6}",
-"{-205, -16}"
+"{-270, -16}"
 );
 ascender = 819;
 capHeight = 0;
@@ -860,44 +850,47 @@ value = 819;
 },
 {
 name = typoDescender;
-value = -205;
+value = -270;
 },
 {
 name = typoLineGap;
-value = 94;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 918;
+value = 819;
 },
 {
 name = hheaDescender;
-value = -205;
+value = -270;
 },
 {
 name = hheaLineGap;
-value = 94;
+value = 0;
 },
 {
 name = winAscent;
-value = 918;
+value = 819;
 },
 {
 name = winDescent;
-value = 205;
-},
-{
-name = underlineThickness;
-value = 51;
-},
-{
-name = underlinePosition;
-value = -102;
+value = -270;
 }
 );
-descender = -205;
+descender = -270;
+horizontalStems = (
+34,
+35,
+38,
+40
+);
 id = "DC4431BF-9234-4C16-9154-22D387E42D10";
 name = ExtraLight;
+verticalStems = (
+41,
+43,
+46
+);
 visible = 1;
 weight = Light;
 weightValue = 0;
@@ -905,13 +898,13 @@ xHeight = 0;
 },
 {
 alignmentZones = (
-"{675, 10}",
-"{635, 10}",
-"{490, 10}",
-"{0, -10}",
-"{-190, -10}"
+"{819, 16}",
+"{635, 11}",
+"{490, 11}",
+"{0, -11}",
+"{-270, -16}"
 );
-ascender = 675;
+ascender = 819;
 capHeight = 635;
 custom = Extra;
 customParameters = (
@@ -921,22 +914,34 @@ value = 819;
 },
 {
 name = typoDescender;
-value = -205;
+value = -270;
 },
 {
 name = typoLineGap;
-value = 94;
+value = 0;
 },
 {
-name = underlineThickness;
-value = 51;
+name = hheaAscender;
+value = 819;
 },
 {
-name = underlinePosition;
-value = -102;
+name = hheaDescender;
+value = -270;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 819;
+},
+{
+name = winDescent;
+value = -270;
 }
 );
-descender = -190;
+descender = -270;
 horizontalStems = (
 105,
 110,
@@ -955,7 +960,6 @@ verticalStems = (
 143,
 147
 );
-visible = 1;
 weight = Bold;
 xHeight = 490;
 }
@@ -72175,7 +72179,7 @@ unicode = 00C4;
 },
 {
 glyphname = Agrave;
-lastChange = "2021-06-12 12:56:09 +0000";
+lastChange = "2021-06-13 08:13:53 +0000";
 layers = (
 {
 components = (
@@ -115703,7 +115707,7 @@ s = -5;
 };
 };
 };
-unitsPerEm = 1024;
+unitsPerEm = 1000;
 userData = {
 UFO.lib = {
 GSDimensionPlugin.Dimensions = {
