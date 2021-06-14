@@ -43,24 +43,37 @@ layout: project_site
     <link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:400' rel='stylesheet' type='text/css'>
 
     <style>
+      @font-face {
+          font-family: '{{ site.family_name }}';
+          src: url('./fonts/GemunuLibre-ExtraLight.otf');
+          font-style: normal;
+          font-weight: 200;
+      }
 
         @font-face {
             font-family: '{{ site.family_name }}';
             src: url('./fonts/GemunuLibre-Light.otf');
             font-style: normal;
-            font-weight: 400;
+            font-weight: 300;
         }
 
         @font-face {
             font-family: '{{ site.family_name }}';
             src: url('./fonts/GemunuLibre-Regular.otf');
             font-style: normal;
-            font-weight: 500;
+            font-weight: 400;
         }
 
         @font-face {
             font-family: '{{ site.family_name }}';
             src: url('./fonts/GemunuLibre-Medium.otf');
+            font-style: normal;
+            font-weight: 500;
+        }
+
+        @font-face {
+            font-family: '{{ site.family_name }}';
+            src: url('./fonts/GemunuLibre-SemiBold.otf');
             font-style: normal;
             font-weight: 600;
         }
@@ -137,6 +150,14 @@ layout: project_site
 
     <div class="col-1-1 mobile-col-1-1">
         <div class="content">
+            <p style="font-weight:200;"> ARROWROOT BARLEY CHERVIL DUMPLING ENDIVE FLAXSEED GARBANZO HIJIKI ISHTU JICAMA
+            KALE LYCHEE MARJORAM NECTARINE OXTAIL PIZZA QUINOA ROQUEFORT SQUASH TOFU UPPUMA VANILLA WHEAT XERGIS
+            YOGURT ZWEIBACK 0 1 2 3 4 5 6 7 8 9 ! ?</p>
+
+            <p style="font-weight:300;"> ARROWROOT BARLEY CHERVIL DUMPLING ENDIVE FLAXSEED GARBANZO HIJIKI ISHTU JICAMA
+              KALE LYCHEE MARJORAM NECTARINE OXTAIL PIZZA QUINOA ROQUEFORT SQUASH TOFU UPPUMA VANILLA WHEAT XERGIS
+              YOGURT ZWEIBACK 0 1 2 3 4 5 6 7 8 9 ! ?</p>
+
             <p style="font-weight:400;"> ARROWROOT BARLEY CHERVIL DUMPLING ENDIVE FLAXSEED GARBANZO HIJIKI ISHTU JICAMA
                 KALE LYCHEE MARJORAM NECTARINE OXTAIL PIZZA QUINOA ROQUEFORT SQUASH TOFU UPPUMA VANILLA WHEAT XERGIS
                 YOGURT ZWEIBACK 0 1 2 3 4 5 6 7 8 9 ! ?</p>
@@ -163,7 +184,39 @@ layout: project_site
 <!-- 8/12 and 4/12 layout -->
 <div class="grid grid-pad">
     <div class="col-1-1">
-        <span class="lable">{{ site.family_name }}-Light 70px</span>
+      <span class="lable">{{ site.family_name }}-ExtraLight 70px</span>
+
+      <p class="alphabet" style="font-weight:200;">
+
+          අ ආ ඇ ඈ ඉ ඊ උ ඌ ඍ ඎ ඏ ඐ එ ඒ ඓ ඔ ඕ ඖ ක ඛ ග ඝ ඞ ඟ ච ඡ ජ ඣ ඤ ඥ ඦ ට ඨ ඩ ඪ ණ ඬ ත ථ ද ධ න ඳ ප ඵ බ භ ම ඹ ය ර ල ව ශ
+          ෂ ස හ ළ ෆ ෴
+          ෛ ෙ ා ෘ ු ූ ැ ෑ ෟ ි ී
+
+          0 1 2 3 4 5 6 7 8 9
+
+          ( { [ . , ¡ ! ¿ ? * ' ‘ ’ " “ ” ] } )
+
+          $ € £ % @ & ¶ § ¢ † ‡
+          abcdefghijklmnopqrstuvwxyz</br>ABCDEFGHIJKLMNOPQRSTUVWXYZ
+      </p>
+
+      <span class="lable">{{ site.family_name }}-Light 70px</span>
+
+      <p class="alphabet" style="font-weight:300;">
+
+          අ ආ ඇ ඈ ඉ ඊ උ ඌ ඍ ඎ ඏ ඐ එ ඒ ඓ ඔ ඕ ඖ ක ඛ ග ඝ ඞ ඟ ච ඡ ජ ඣ ඤ ඥ ඦ ට ඨ ඩ ඪ ණ ඬ ත ථ ද ධ න ඳ ප ඵ බ භ ම ඹ ය ර ල ව ශ
+          ෂ ස හ ළ ෆ ෴
+          ෛ ෙ ා ෘ ු ූ ැ ෑ ෟ ි ී
+
+          0 1 2 3 4 5 6 7 8 9
+
+          ( { [ . , ¡ ! ¿ ? * ' ‘ ’ " “ ” ] } )
+
+          $ € £ % @ & ¶ § ¢ † ‡
+          abcdefghijklmnopqrstuvwxyz</br>ABCDEFGHIJKLMNOPQRSTUVWXYZ
+      </p>
+
+        <span class="lable">{{ site.family_name }}-Regular 70px</span>
 
         <p class="alphabet" style="font-weight:400;">
 
@@ -178,7 +231,7 @@ layout: project_site
             $ € £ % @ & ¶ § ¢ † ‡
             abcdefghijklmnopqrstuvwxyz</br>ABCDEFGHIJKLMNOPQRSTUVWXYZ
         </p>
-        <span class="lable">{{ site.family_name }}-Regular 70px</span>
+        <span class="lable">{{ site.family_name }}-Medium 70px</span>
 
         <p class="alphabet" style="font-weight:500;">
 
@@ -193,7 +246,7 @@ layout: project_site
             $ € £ % @ & ¶ § ¢ † ‡
             abcdefghijklmnopqrstuvwxyz</br>ABCDEFGHIJKLMNOPQRSTUVWXYZ
         </p>
-        <span class="lable">{{ site.family_name }}-Medium 70px</span>
+        <span class="lable">{{ site.family_name }}-SemiBold 70px</span>
 
         <p class="alphabet" style="font-weight:600;">
 
@@ -245,6 +298,24 @@ layout: project_site
 
 
 <div contenteditable="true" class="grid grid-pad">
+
+      <div class="col-1-2">
+          <span class="lable">{{ site.family_name }}-{{ site.family_weight_1 }} 18x</span>
+
+          <p style="font-weight:200;font-size:18px;">
+              {{ site.string_sinhala }}
+          </p>
+          <span class="lable">{{ site.family_name }}-{{ site.family_weight_1 }} 24px</span>
+
+          <p style="font-weight:200;font-size:24px;">
+              {{ site.string_sinhala }}
+          </p>
+          <span class="lable">{{ site.family_name }}-{{ site.family_weight_1 }} 24px</span>
+
+          <p style="font-weight:200;font-size:40px;">
+              {{ site.string_latin }}
+          </p>
+      </div>
 
     <div class="col-1-2">
         <span class="lable">{{ site.family_name }}-{{ site.family_weight_1 }} 18x</span>
