@@ -10,8 +10,10 @@ DisplayStrings = (
 "/sinRa/sinOnelith/sinTwolith/sinThreelith/sinFourlith/sinFivelith/sinSixlith/sinSevenlith/sinEightlith/sinNinelith/oneArchaic-sinhala/twoArchaic-sinhala/threeArchaic-sinhala/fourArchaic-sinhala/fiveArchaic-sinhala/sixArchaic-sinhala/sevenArchaic-sinhala/eightArchaic-sinhala/nineArchaic-sinhala/tenArchaic-sinhala/twentyArchaic-sinhala/thirtyArchaic-sinhala/fortyArchaic-sinhala/fiftyArchaic-sinhala/sixtyArchaic-sinhala/seventyArchaic-sinhala/eightyArchaic-sinhala/ninetyArchaic-sinhala/onehundredArchaic-sinhala/onethousandArchaic-sinhala",
 "/sinOnelith/sinTwolith/sinThreelith/sinFourlith/sinFivelith/sinSixlith/sinSevenlith/sinEightlith/sinTwolith/sinNinelith/oneArchaic-sinhala/twoArchaic-sinhala/threeArchaic-sinhala/fourArchaic-sinhala/fiveArchaic-sinhala/sixArchaic-sinhala/sevenArchaic-sinhala/eightArchaic-sinhala/nineArchaic-sinhala/tenArchaic-sinhala/twentyArchaic-sinhala/thirtyArchaic-sinhala/fortyArchaic-sinhala/fiftyArchaic-sinhala/sixtyArchaic-sinhala/seventyArchaic-sinhala/eightyArchaic-sinhala/ninetyArchaic-sinhala/onehundredArchaic-sinhala/onethousandArchaic-sinhala",
 "/sinZerolith",
-"/sinZerolith/sinOnelith/sinTwolith/sinThreelith/sinFourlith/sinFivelith/sinSixlith/sinSevenlith/sinEightlith/sinNinelith/oneArchaic-sinhala/twoArchaic-sinhala/threeArchaic-sinhala/fourArchaic-sinhala/fiveArchaic-sinhala/sixArchaic-sinhala/sevenArchaic-sinhala/eightArchaic-sinhala/nineArchaic-sinhala/tenArchaic-sinhala/twentyArchaic-sinhala/thirtyArchaic-sinhala/fortyArchaic-sinhala/fiftyArchaic-sinhala/sixtyArchaic-sinhala/seventyArchaic-sinhala/eightyArchaic-sinhala/ninetyArchaic-sinhala/onehundredArchaic-sinhala/onethousandArchaic-sinhala"
+"/sinZerolith/sinOnelith/sinTwolith/sinThreelith/sinFourlith/sinFivelith/sinSixlith/sinSevenlith/sinEightlith/sinNinelith/oneArchaic-sinhala/twoArchaic-sinhala/threeArchaic-sinhala/fourArchaic-sinhala/fiveArchaic-sinhala/sixArchaic-sinhala/sevenArchaic-sinhala/eightArchaic-sinhala/nineArchaic-sinhala/tenArchaic-sinhala/twentyArchaic-sinhala/thirtyArchaic-sinhala/fortyArchaic-sinhala/fiftyArchaic-sinhala/sixtyArchaic-sinhala/seventyArchaic-sinhala/eightyArchaic-sinhala/ninetyArchaic-sinhala/onehundredArchaic-sinhala/onethousandArchaic-sinhala",
+"/sinMatraAu/sinMatraEe/sinMatraO/sinMatraOo"
 );
+copyright = "Copyright 2021 The Gemunu Libre Project Authors <See at https://github.com/mooniak/gemunu-libre-font/>";
 customParameters = (
 {
 name = glyphOrder;
@@ -789,7 +791,9 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2015-10-01 17:09:15 +0000";
+date = "2021-06-14 12:04:26 +0000";
+designer = "Puspanada Ekanayake, Sola Matas, Pathum Egodawatta, Kosala Senevirathne";
+designerURL = "http://www.mooniak.com/";
 disablesNiceNames = 1;
 familyName = GemunuLibre;
 featurePrefixes = (
@@ -13077,40 +13081,47 @@ unicode = 0DDB;
 },
 {
 glyphname = sinMatraAu;
-lastChange = "2021-06-12 12:56:09 +0000";
+lastChange = "2021-06-14 12:09:25 +0000";
 layers = (
 {
 components = (
 {
-alignment = -1;
-name = sinMatraLs;
-transform = "{1, 0, 0, 1, 640, 0}";
+name = sinMatraE;
 },
 {
-alignment = -1;
-name = sinMatraE;
+alignment = 1;
+name = bullet;
+transform = "{1, 0, 0, 1, 376, 0}";
+},
+{
+name = sinMatraLs;
+transform = "{1, 0, 0, 1, 668, 0}";
 }
 );
-layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
-width = 1060;
+layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
+width = 1024;
 },
 {
 components = (
 {
-alignment = -1;
-name = sinMatraLs;
-transform = "{1, 0, 0, 1, 1036, 0}";
+name = sinMatraE;
 },
 {
-alignment = -1;
-name = sinMatraE;
+alignment = 1;
+name = bullet;
+transform = "{1, 0, 0, 1, 376, 0}";
+},
+{
+name = sinMatraLs;
+transform = "{1, 0, 0, 1, 672, 0}";
 }
 );
-layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
-width = 1466;
+layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
+width = 1041;
 }
 );
 unicode = 0DDE;
+category = Mark;
 },
 {
 glyphname = sinMatraE;
@@ -13215,38 +13226,47 @@ unicode = 0DD9;
 },
 {
 glyphname = sinMatraEe;
-lastChange = "2021-06-12 12:56:09 +0000";
+lastChange = "2021-06-14 12:09:04 +0000";
 layers = (
 {
 components = (
 {
 name = sinVirama;
-transform = "{1, 0, 0, 1, 890, 0}";
+transform = "{1, 0, 0, 1, 910, 0}";
+},
+{
+alignment = 1;
+name = bullet;
+transform = "{1, 0, 0, 1, 524, 0}";
+},
+{
+name = sinMatraE;
+}
+);
+layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
+width = 950;
+},
+{
+components = (
+{
+name = sinVirama;
+transform = "{1, 0, 0, 1, 990, 0}";
+},
+{
+alignment = 1;
+name = bullet;
+transform = "{1, 0, 0, 1, 554, 0}";
 },
 {
 name = sinMatraE;
 }
 );
 layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
-width = 923;
-},
-{
-components = (
-{
-alignment = -1;
-name = sinVirama;
-transform = "{1, 0, 0, 1, 1016, 0}";
-},
-{
-alignment = -1;
-name = sinMatraE;
-}
-);
-layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
-width = 1067;
+width = 1040;
 }
 );
 unicode = 0DDA;
+category = Mark;
 },
 {
 glyphname = sinMatraI;
@@ -13600,84 +13620,91 @@ unicode = 0DDF;
 },
 {
 glyphname = sinMatraO;
-lastChange = "2021-06-12 12:56:09 +0000";
+lastChange = "2021-06-14 12:09:35 +0000";
 layers = (
 {
 components = (
 {
-alignment = -1;
-name = sinMatraAa;
-transform = "{1, 0, 0, 1, 620, 0}";
+name = sinMatraE;
 },
 {
-alignment = -1;
-name = sinMatraE;
+alignment = 1;
+name = bullet;
+transform = "{1, 0, 0, 1, 376, 0}";
+},
+{
+name = sinMatraAa;
+transform = "{1, 0, 0, 1, 668, 0}";
 }
 );
-layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
-width = 928;
+layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
+width = 900;
 },
 {
 components = (
 {
-alignment = -1;
-name = sinMatraAa;
-transform = "{1, 0, 0, 1, 802, 0}";
+name = sinMatraE;
 },
 {
-alignment = -1;
-name = sinMatraE;
+alignment = 1;
+name = bullet;
+transform = "{1, 0, 0, 1, 376, 0}";
+},
+{
+name = sinMatraAa;
+transform = "{1, 0, 0, 1, 672, 0}";
 }
 );
-layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
-width = 1103;
+layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
+width = 903;
 }
 );
 unicode = 0DDC;
+category = Mark;
 },
 {
 glyphname = sinMatraOo;
-lastChange = "2021-06-12 12:56:09 +0000";
+lastChange = "2021-06-14 12:09:45 +0000";
 layers = (
 {
 components = (
 {
-name = sinVirama;
-transform = "{1, 0, 0, 1, 980, 0}";
-},
-{
-name = sinMatraAa;
-transform = "{1, 0, 0, 1, 744, 0}";
-},
-{
 name = sinMatraE;
+},
+{
+alignment = 1;
+name = bullet;
+transform = "{1, 0, 0, 1, 376, 0}";
+},
+{
+name = sinMatraAa.virama;
+transform = "{1, 0, 0, 1, 668, 0}";
 }
 );
-layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
-width = 1013;
+layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
+width = 913;
 },
 {
 components = (
 {
-alignment = -1;
-name = sinVirama;
-transform = "{1, 0, 0, 1, 1003, 0}";
-},
-{
-alignment = -1;
-name = sinMatraAa;
-transform = "{1, 0, 0, 1, 767, 0}";
-},
-{
-alignment = -1;
 name = sinMatraE;
+},
+{
+alignment = 1;
+name = bullet;
+transform = "{1, 0, 0, 1, 376, 0}";
+},
+{
+name = sinMatraAa.virama;
+transform = "{1, 0, 0, 1, 672, 0}";
 }
 );
-layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
-width = 1071;
+layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
+width = 920;
 }
 );
 unicode = 0DDD;
+category = Mark;
 },
 {
 glyphname = sinMatraR;
@@ -121436,6 +121463,92 @@ nodes = (
 width = 2;
 }
 );
+},
+{
+glyphname = mooniak;
+lastChange = "2021-06-14 11:49:30 +0000";
+layers = (
+{
+layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
+paths = (
+{
+closed = 1;
+nodes = (
+"692.6 656 CURVE SMOOTH",
+"692.6 719.2 OFFCURVE",
+"743.8 770.4 OFFCURVE",
+"807 770.4 CURVE SMOOTH",
+"870.2 770.4 OFFCURVE",
+"921.4 719.2 OFFCURVE",
+"921.4 656 CURVE SMOOTH",
+"921.4 592.8 OFFCURVE",
+"870.2 541.6 OFFCURVE",
+"807 541.6 CURVE SMOOTH",
+"743.8 541.6 OFFCURVE",
+"692.6 592.8 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"30.4 371 CURVE SMOOTH",
+"30.4 544.8 OFFCURVE",
+"171.2 685.6 OFFCURVE",
+"345 685.6 CURVE SMOOTH",
+"518.8 685.6 OFFCURVE",
+"659.6 544.8 OFFCURVE",
+"659.6 371 CURVE SMOOTH",
+"659.6 197.2 OFFCURVE",
+"518.8 56.4 OFFCURVE",
+"345 56.4 CURVE SMOOTH",
+"171.2 56.4 OFFCURVE",
+"30.4 197.2 OFFCURVE"
+);
+}
+);
+width = 952;
+},
+{
+layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
+paths = (
+{
+closed = 1;
+nodes = (
+"693 656 CURVE SMOOTH",
+"693 719 OFFCURVE",
+"744 770 OFFCURVE",
+"807 770 CURVE SMOOTH",
+"870 770 OFFCURVE",
+"921 719 OFFCURVE",
+"921 656 CURVE SMOOTH",
+"921 593 OFFCURVE",
+"870 542 OFFCURVE",
+"807 542 CURVE SMOOTH",
+"744 542 OFFCURVE",
+"693 593 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"30 371 CURVE SMOOTH",
+"30 545 OFFCURVE",
+"171 686 OFFCURVE",
+"345 686 CURVE SMOOTH",
+"519 686 OFFCURVE",
+"660 545 OFFCURVE",
+"660 371 CURVE SMOOTH",
+"660 197 OFFCURVE",
+"519 56 OFFCURVE",
+"345 56 CURVE SMOOTH",
+"171 56 OFFCURVE",
+"30 197 OFFCURVE"
+);
+}
+);
+width = 952;
+}
+);
 }
 );
 instances = (
@@ -122967,6 +123080,8 @@ s = -5;
 };
 };
 };
+manufacturer = mooniak;
+manufacturerURL = "http://www.mooniak.com/";
 unitsPerEm = 1000;
 userData = {
 UFO.lib = {
@@ -123087,5 +123202,5 @@ zwnj = uni200C;
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 100;
 }
