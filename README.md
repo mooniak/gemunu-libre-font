@@ -8,9 +8,9 @@
 Gemunu Libre is the Unicode compliant version of the popular Sinhala typeface ‘FM Gemunu’ by Pushpananda Ekanayake. With its squarish, but smooth design, Gemunu Libre has a distinctive personality among all the other Sinhala typefaces that are currently in use.
 
 Gemunu Libre has improved in many ways than its former design (FM Gemunu) in the Unicode adaptation process; acquiring more breathing space, bigger counters and uniformity in curves. The character set was completely redrawn to suit the usage on web and screen.
-Gemunu Libre comes in 7 weights from Extra Light to Extra Bold. Each weight contains the complete Sinhala script and a matching Latin character set designed by Sol Matas. 
+Gemunu Libre comes in 7 weights from Extra Light to Extra Bold. Each weight contains the complete Sinhala script and a matching Latin character set designed by Sol Matas.
 
-The project was funded by Google Fonts project and led by Mooniak, a collaborative collective of designers based in Colombo Sri Lanka with the cooperation of Mr. Pushpananda Ekanayake, the designer  of the FM Gemunu font and Sol Matas as the Latin designer.For Mooniak, Kosala Senvirathne, Pathum Egodawatta and Ayantha Randika contributed to the project in consulting, managing and Opentype engineering. 
+The project was funded by Google Fonts project and led by Mooniak, a collaborative collective of designers based in Colombo Sri Lanka with the cooperation of Mr. Pushpananda Ekanayake, the designer  of the FM Gemunu font and Sol Matas as the Latin designer.For Mooniak, Kosala Senvirathne, Pathum Egodawatta and Ayantha Randika contributed to the project in consulting, managing and Opentype engineering.
 
 Mooniak welcomes new contributions, expansion to Tamil, suggestions and improvements. Please see the [github repository](https://github.com/mooniak/gemunu-libre-font/milestones) for  pending updates and  further development plans, pending updates. See the web specimen page here. See /documentation for notes information on the development of the project.
 
@@ -23,44 +23,17 @@ Report any issues or bugs in [issues](https://github.com/mooniak/gemunu-libre-fo
 
 This repo is the active devleopment repo of the project. So files move here and the sometimes. See [live testing page](http://mooniak.com/gemunu-libre-font/tests/) to see work in progress.
 
-- See [Releases](https://github.com/mooniak/gemunu-libre-font/releases) to Download released clean font versions, sources and specimens at the relase point.
+- See [Releases](https://github.com/mooniak/gemunu-libre-font/releases) to Download released clean font versions, sources and specimens at the release point.
 
-- `/tests/fonts` contains draft fonts which are dirty, generated for design testing.
 
 - `/sources/` contains dirty and incomplete `.ufo` files which opens in all major font editors. These files are generated in intervals in between development. See [Releases](https://github.com/mooniak/gemunu-libre-font/releases) for clean sources.
 
-- `/sources/sfd` contains source `.sfd` files which opens in [FontForge](http://fontforge.github.io/en-US/). These files are under active developemnt. There might be some FontForge revision files around too.
 
-- See `/documentation` for screenshots, corrospondance and testing documents.
-
+- See `/documentation` for screenshots, correspondence and testing documents.
 
 
-## How To Build 
-
-If you want your way around fonts and terminal, you can use our build system to fonts.To generate fonts we use a virtual enviromant created with Vagrant. See [WeliPilla](https://github.com/mooniak/WeliPilla) for more info.
-
-Once you have Welipilla set up, do the following..
-
-- Run Vagrant box, this will take a few minuits to set up the build enviroment.
-
-```shell
-$vagrant up
-```
-
-- SSH into vagrant box.(Use putty on Windows)
-```shell
-$vagrant ssh
-```
-
-- Run builder script to build OTF fonts.
-```shell
-$cd /vagrant/scripts && sh builder.sh
-```
-
-- Run gf-builder script to build Google fonts compatible TTF fonts.
-```shell
-$cd /vagrant/scripts && sh gfbuilder.sh
-```
+## How To Build
+TODO
 
 ## Credits
 
