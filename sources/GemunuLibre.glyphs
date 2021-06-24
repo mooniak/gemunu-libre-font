@@ -902,7 +902,7 @@ value = 885;
 },
 {
 name = winDescent;
-value = 301;
+value = 311;
 }
 );
 descender = -270;
@@ -966,7 +966,7 @@ value = 885;
 },
 {
 name = winDescent;
-value = 301;
+value = 311;
 }
 );
 descender = -270;
