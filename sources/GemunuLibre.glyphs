@@ -13,7 +13,7 @@ DisplayStrings = (
 "/sinZerolith/sinOnelith/sinTwolith/sinThreelith/sinFourlith/sinFivelith/sinSixlith/sinSevenlith/sinEightlith/sinNinelith/oneArchaic-sinhala/twoArchaic-sinhala/threeArchaic-sinhala/fourArchaic-sinhala/fiveArchaic-sinhala/sixArchaic-sinhala/sevenArchaic-sinhala/eightArchaic-sinhala/nineArchaic-sinhala/tenArchaic-sinhala/twentyArchaic-sinhala/thirtyArchaic-sinhala/fortyArchaic-sinhala/fiftyArchaic-sinhala/sixtyArchaic-sinhala/seventyArchaic-sinhala/eightyArchaic-sinhala/ninetyArchaic-sinhala/onehundredArchaic-sinhala/onethousandArchaic-sinhala",
 "/sinMatraAu/sinMatraEe/sinMatraO/sinMatraOo"
 );
-copyright = "Copyright 2021 The Gemunu Libre Project Authors <See at https://github.com/mooniak/gemunu-libre-font/>";
+copyright = "Copyright 2021 The Gemunu Libre Project Authors (https://github.com/mooniak/gemunu-libre-font/)";
 customParameters = (
 {
 name = glyphOrder;
