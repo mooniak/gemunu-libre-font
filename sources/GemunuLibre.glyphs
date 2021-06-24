@@ -106876,11 +106876,11 @@ unicode = 0020;
 },
 {
 glyphname = uni00A0;
-lastChange = "2021-06-12 12:56:09 +0000";
+lastChange = "2021-06-24 11:02:33 +0000";
 layers = (
 {
 layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
-width = 202;
+width = 200;
 },
 {
 layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
