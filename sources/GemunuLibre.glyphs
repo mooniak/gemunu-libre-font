@@ -798,7 +798,7 @@ disablesNiceNames = 1;
 familyName = "Gemunu Libre";
 featurePrefixes = (
 {
-code = "languagesystem DFLT dflt;\012languagesystem DFLT dflt;\012languagesystem sinh dflt;\012\012\012";
+code = "languagesystem DFLT dflt;\012languagesystem sinh dflt;\012\012\012";
 name = Languagesystems;
 },
 {
