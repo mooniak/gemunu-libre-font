@@ -121616,13 +121616,16 @@ instanceInterpolations = {
 "522BF62C-3FFD-47FE-9DEE-94F66EB24849" = 0.7;
 "DC4431BF-9234-4C16-9154-22D387E42D10" = 0.3;
 };
+isBold = 1;
 name = Bold;
+weightClass = Bold;
 },
 {
 instanceInterpolations = {
 "522BF62C-3FFD-47FE-9DEE-94F66EB24849" = 1;
 };
 name = ExtraBold;
+weightClass = ExtraBold;
 }
 );
 kerning = {
