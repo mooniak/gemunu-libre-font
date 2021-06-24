@@ -937,11 +937,11 @@ capHeight = 635;
 custom = Extra;
 customParameters = (
 {
-name = typoDescender;
-value = -200;
+name = typoAscender;
+value = 884;
 },
 {
-name = hheaDescender;
+name = typoDescender;
 value = -200;
 },
 {
@@ -949,24 +949,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winDescent;
-value = 301;
-},
-{
-name = typoAscender;
-value = 884;
-},
-{
 name = hheaAscender;
 value = 884;
 },
 {
+name = hheaDescender;
+value = -200;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = winAscent;
 value = 885;
+},
+{
+name = winDescent;
+value = 301;
 }
 );
 descender = -270;
