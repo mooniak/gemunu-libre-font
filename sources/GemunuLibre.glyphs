@@ -1,5 +1,5 @@
 {
-.appVersion = "1352";
+.appVersion = "1348";
 DisplayStrings = (
 "À",
 "/sinNVa.reph",
@@ -11,7 +11,8 @@ DisplayStrings = (
 "/sinOnelith/sinTwolith/sinThreelith/sinFourlith/sinFivelith/sinSixlith/sinSevenlith/sinEightlith/sinTwolith/sinNinelith/oneArchaic-sinhala/twoArchaic-sinhala/threeArchaic-sinhala/fourArchaic-sinhala/fiveArchaic-sinhala/sixArchaic-sinhala/sevenArchaic-sinhala/eightArchaic-sinhala/nineArchaic-sinhala/tenArchaic-sinhala/twentyArchaic-sinhala/thirtyArchaic-sinhala/fortyArchaic-sinhala/fiftyArchaic-sinhala/sixtyArchaic-sinhala/seventyArchaic-sinhala/eightyArchaic-sinhala/ninetyArchaic-sinhala/onehundredArchaic-sinhala/onethousandArchaic-sinhala",
 "/sinZerolith",
 "/sinZerolith/sinOnelith/sinTwolith/sinThreelith/sinFourlith/sinFivelith/sinSixlith/sinSevenlith/sinEightlith/sinNinelith/oneArchaic-sinhala/twoArchaic-sinhala/threeArchaic-sinhala/fourArchaic-sinhala/fiveArchaic-sinhala/sixArchaic-sinhala/sevenArchaic-sinhala/eightArchaic-sinhala/nineArchaic-sinhala/tenArchaic-sinhala/twentyArchaic-sinhala/thirtyArchaic-sinhala/fortyArchaic-sinhala/fiftyArchaic-sinhala/sixtyArchaic-sinhala/seventyArchaic-sinhala/eightyArchaic-sinhala/ninetyArchaic-sinhala/onehundredArchaic-sinhala/onethousandArchaic-sinhala",
-"/sinMatraAu/sinMatraEe/sinMatraO/sinMatraOo"
+"/sinMatraAu/sinMatraEe/sinMatraO/sinMatraOo",
+"/sinTouch"
 );
 copyright = "Copyright 2021 The Gemunu Libre Project Authors (https://github.com/mooniak/gemunu-libre-font/)";
 customParameters = (
@@ -14953,15 +14954,15 @@ width = 245;
 },
 {
 glyphname = sinTouch;
-lastChange = "2021-06-12 12:56:09 +0000";
+lastChange = "2021-06-27 10:10:33 +0000";
 layers = (
 {
 layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
-width = 600;
+width = 0;
 },
 {
 layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
-width = 60;
+width = 0;
 }
 );
 },
