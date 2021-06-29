@@ -12,6 +12,7 @@ ChangeLog
 
 29 June 2021 (mooniak) Gemunu Libre v1.100
 
+- Now released as a single variable font file
 - New build with fontmake and gfbuilder
 - Source now in .glyphs format
 - New Opentype layout
