@@ -9,6 +9,16 @@ Please see https://github.com/mooniak/gemunu-libre-font for documentation,develo
 
 ChangeLog
 ----------
+
+29 June 2021 (mooniak) Gemunu Libre v1.100
+
+- New build with fontmake and gfbuilder
+- Source now in .glyphs format
+- New Opentype layout
+- Added Sinhala numerals and Candrabindu
+- Various improvements to drawings
+
+
 6 April 2016 (mooniak) Gemunu Libre v1.001
 
 - Minor feature fixes
