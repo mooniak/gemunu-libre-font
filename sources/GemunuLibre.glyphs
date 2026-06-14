@@ -14,7 +14,9 @@ DisplayStrings = (
 "/sinMatraAu/sinMatraEe/sinMatraO/sinMatraOo",
 "/sinTouch",
 "/dcroat/dcroat/dcroat/dcroat/caron/caron",
-"/sinMatraAa.virama/sinMatraOo"
+"/sinMatraAa.virama/sinMatraOo",
+"/daggerdbl",
+"/lozenge"
 );
 copyright = "Copyright 2021 The Gemunu Libre Project Authors (https://github.com/mooniak/gemunu-libre-font/)";
 customParameters = (
@@ -114182,7 +114184,7 @@ unicode = 25CC;
 },
 {
 glyphname = lozenge;
-lastChange = "2021-06-12 12:56:09 +0000";
+lastChange = "2026-06-14 09:24:54 +0000";
 layers = (
 {
 layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
@@ -114201,14 +114203,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"238 41 LINE",
+"67 327 LINE",
 "69 317 LINE",
 "237 592 LINE",
 "233 592 LINE",
 "410 312 LINE",
 "408 319 LINE",
-"232 41 LINE",
-"238 41 LINE",
-"67 327 LINE"
+"232 41 LINE"
 );
 }
 );
@@ -114231,14 +114233,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"273 133 LINE",
 "149 327 LINE",
 "150 307 LINE",
 "272 500 LINE",
 "255 500 LINE",
 "380 307 LINE",
 "378 320 LINE",
-"255 133 LINE",
-"273 133 LINE"
+"255 133 LINE"
 );
 }
 );
@@ -118541,7 +118543,7 @@ unicode = 2020;
 },
 {
 glyphname = daggerdbl;
-lastChange = "2021-06-12 12:56:09 +0000";
+lastChange = "2026-06-14 09:24:24 +0000";
 layers = (
 {
 layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
@@ -118680,12 +118682,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"180 462 LINE",
 "180 500 LINE",
 "108 525 LINE",
 "15 525 LINE",
 "15 439 LINE",
-"107 438 LINE",
-"180 462 LINE"
+"107 438 LINE"
 );
 },
 {
