@@ -85,22 +85,25 @@
     ],
     "related_fonts": []
   },
-  "display_texts": {
-    "en_US": "A squarish sans-serif for Sinhala and Latin.",
-    "si_LK": "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.",
-    "ta_LK": ""
-  },
-  "display_images": {
-    "banner": "",
-    "thumbnail": "",
-    "small": "",
-    "medium": "",
-    "large": ""
-  },
-  "links": {
-    "font_in_use": "",
-    "googlefonts": "https://fonts.google.com/specimen/Gemunu+Libre",
-    "fontlibrary_org": "",
-    "typekit": ""
+  "directory": {
+    "listed": true,
+    "display_texts": {
+      "en_US": "A squarish sans-serif for Sinhala and Latin.",
+      "si_LK": "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.",
+      "ta_LK": ""
+    },
+    "display_images": {
+      "banner": "",
+      "thumbnail": "",
+      "small": "",
+      "medium": "",
+      "large": ""
+    },
+    "links": {
+      "font_in_use": "",
+      "googlefonts": "https://fonts.google.com/specimen/Gemunu+Libre",
+      "fontlibrary_org": "",
+      "typekit": ""
+    }
   }
 }
