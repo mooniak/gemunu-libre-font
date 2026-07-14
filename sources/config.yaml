@@ -1,8 +1,9 @@
 sources:
   - GemunuLibre.glyphs
+familyName: "Gemunu Libre"
 outputDir: "../fonts"
-buildStatic: false
 buildVariable: true
+buildStatic: false
 buildTTF: true
 buildOTF: false
-buildWebfont: false
+buildWebfont: true
