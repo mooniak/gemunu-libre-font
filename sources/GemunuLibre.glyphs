@@ -919,13 +919,11 @@ horizontalStems = (
 );
 iconName = Light;
 id = "DC4431BF-9234-4C16-9154-22D387E42D10";
-name = ExtraLight;
 verticalStems = (
 41,
 43,
 46
 );
-visible = 1;
 weight = Light;
 weightValue = 0;
 xHeight = 0;
@@ -985,7 +983,6 @@ horizontalStems = (
 );
 iconName = Bold;
 id = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
-name = ExtraBold;
 userData = {
 GSCornerRadius = 14;
 angle = 5;
@@ -12990,6 +12987,8 @@ width = 248;
 }
 );
 unicode = 0DD1;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = "aesign-sinh";
@@ -13065,6 +13064,8 @@ width = 250;
 }
 );
 unicode = 0DD0;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = "aisign-sinh";
@@ -13103,6 +13104,7 @@ width = 752;
 );
 unicode = 0DDB;
 script = sinhala;
+category = Mark;
 subCategory = Spacing;
 },
 {
@@ -13252,6 +13254,7 @@ width = 376;
 );
 unicode = 0DD9;
 script = sinhala;
+category = Mark;
 subCategory = Spacing;
 },
 {
@@ -13625,6 +13628,7 @@ width = 356;
 );
 unicode = 0DF3;
 script = sinhala;
+category = Mark;
 subCategory = Spacing;
 },
 {
@@ -13652,6 +13656,7 @@ width = 356;
 );
 unicode = 0DDF;
 script = sinhala;
+category = Mark;
 subCategory = Spacing;
 },
 {
@@ -13861,6 +13866,7 @@ width = 346;
 );
 unicode = 0DD8;
 script = sinhala;
+category = Mark;
 subCategory = Spacing;
 },
 {
@@ -13948,6 +13954,7 @@ width = 680;
 );
 unicode = 0DF2;
 script = sinhala;
+category = Mark;
 subCategory = Spacing;
 },
 {
@@ -14599,6 +14606,7 @@ width = 417;
 );
 unicode = 0D82;
 script = sinhala;
+category = Mark;
 subCategory = Spacing;
 },
 {
@@ -14875,6 +14883,7 @@ width = 217;
 );
 unicode = 0D83;
 script = sinhala;
+category = Mark;
 subCategory = Spacing;
 },
 {
@@ -14946,6 +14955,7 @@ width = 232;
 );
 unicode = 0DCF;
 script = sinhala;
+category = Mark;
 subCategory = Spacing;
 },
 {
@@ -14985,6 +14995,8 @@ layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
 width = 245;
 }
 );
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = "touch-sinh";
@@ -66623,6 +66635,8 @@ nodes = (
 width = 500;
 }
 );
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = "yasign_repha_aasign-sinh";
@@ -116694,7 +116708,7 @@ width = 505;
 unicode = 005E;
 },
 {
-glyphname = infinity;
+glyphname = "infinity";
 lastChange = "2021-06-12 12:56:09 +0000";
 layers = (
 {
@@ -117226,7 +117240,7 @@ y = 267;
 );
 lib = {
 };
-name = infinity;
+name = "infinity";
 unicodes = (
 );
 width = 798;
@@ -121605,6 +121619,48 @@ nodes = (
 width = 2;
 }
 );
+},
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
+width = 200;
+},
+{
+layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
+width = 175;
+}
+);
+unicode = 00A0;
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
+width = 0;
+},
+{
+layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
+width = 0;
+}
+);
+unicode = 000D;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = "DC4431BF-9234-4C16-9154-22D387E42D10";
+width = 0;
+},
+{
+layerId = "522BF62C-3FFD-47FE-9DEE-94F66EB24849";
+width = 0;
+}
+);
+unicode = 0000;
 }
 );
 instances = (
@@ -123170,16 +123226,18 @@ tH = 110;
 };
 GSDontShowVersionAlert = 1;
 public.postscriptNames = {
-anusvara = uni0D82;
-dottedcircle = uni25CC;
-foursuperior = uni2074;
-onesuperior = uni00B9;
 "a-sinh" = uni0D85;
 "aa-sinh" = uni0D86;
 "aae-sinh" = uni0D88;
+"aaesign-sinh" = uni0DD1;
+"aasign-sinh" = uni0DCF;
 "ae-sinh" = uni0D87;
+"aesign-sinh" = uni0DD0;
 "ai-sinh" = uni0D93;
+"aisign-sinh" = uni0DDB;
+anusvara = uni0D82;
 "au-sinh" = uni0D96;
+"ausign-sinh" = uni0DDE;
 "ba-sinh" = uni0DB6;
 "bha-sinh" = uni0DB7;
 "ca-sinh" = uni0DA0;
@@ -123188,72 +123246,70 @@ onesuperior = uni00B9;
 "dda-sinh" = uni0DA9;
 "ddha-sinh" = uni0DAA;
 "dha-sinh" = uni0DB0;
+dottedcircle = uni25CC;
 "e-sinh" = uni0D91;
 "ee-sinh" = uni0D92;
+"eesign-sinh" = uni0DDA;
+"esign-sinh" = uni0DD9;
 "fa-sinh" = uni0DC6;
+foursuperior = uni2074;
 "ga-sinh" = uni0D9C;
 "gha-sinh" = uni0D9D;
 "ha-sinh" = uni0DC4;
-sinHalant = uni0DCA;
 "i-sinh" = uni0D89;
 "ii-sinh" = uni0D8A;
+"iisign-sinh" = uni0DD3;
+"isign-sinh" = uni0DD2;
 "ja-sinh" = uni0DA2;
 "jha-sinh" = uni0DA3;
 "jnya-sinh" = uni0DA5;
 "ka-sinh" = uni0D9A;
 "kha-sinh" = uni0D9B;
+kunddaliya = uni0DF4;
 "la-sinh" = uni0DBD;
 "lla-sinh" = uni0DC5;
 "ma-sinh" = uni0DB8;
-"aasign-sinh" = uni0DCF;
-"aaesign-sinh" = uni0DD1;
-"aesign-sinh" = uni0DD0;
-"aisign-sinh" = uni0DDB;
-"ausign-sinh" = uni0DDE;
-"esign-sinh" = uni0DD9;
-"eesign-sinh" = uni0DDA;
-"isign-sinh" = uni0DD2;
-"iisign-sinh" = uni0DD3;
-"vocaliclsign-sinh" = uni0DF3;
-"vocalicllsign-sinh" = uni0DDF;
-"osign-sinh" = uni0DDC;
-"oosign-sinh" = uni0DDD;
-"vocalicrsign-sinh" = uni0DD8;
-"vocalicrrsign-sinh" = uni0DF2;
-"usign-sinh" = uni0DD4;
-"uusign-sinh" = uni0DD6;
 "mba-sinh" = uni0DB9;
 "na-sinh" = uni0DB1;
 "nda-sinh" = uni0DB3;
-sinNdja = uni0DA6;
 "nga-sinh" = uni0D9E;
 "nna-sinh" = uni0DAB;
 "nndda-sinh" = uni0DAC;
 "nnga-sinh" = uni0D9F;
 "nya-sinh" = uni0DA4;
+onesuperior = uni00B9;
 "oo-sinh" = uni0D95;
-sinOs = uni0D94;
+"oosign-sinh" = uni0DDD;
+"osign-sinh" = uni0DDC;
 "pa-sinh" = uni0DB4;
 "pha-sinh" = uni0DB5;
 "ra-sinh" = uni0DBB;
 "sa-sinh" = uni0DC3;
 "sha-sinh" = uni0DC1;
-"ssa-sinh" = uni0DC2;
-"ta-sinh" = uni0DAD;
-"tha-sinh" = uni0DAE;
-"tta-sinh" = uni0DA7;
-"ttha-sinh" = uni0DA8;
-"u-sinh" = uni0D8B;
-"uu-sinh" = uni0D8C;
-"va-sinh" = uni0DC0;
-"ya-sinh" = uni0DBA;
-kunddaliya = uni0DF4;
+sinHalant = uni0DCA;
+sinNdja = uni0DA6;
+sinOs = uni0D94;
 sinvocalicLL = uni0D90;
 sinvocalicR = uni0D8D;
 sinvocalicRr = uni0D8E;
+"ssa-sinh" = uni0DC2;
+"ta-sinh" = uni0DAD;
+"tha-sinh" = uni0DAE;
 threesuperior = uni00B3;
+"tta-sinh" = uni0DA7;
+"ttha-sinh" = uni0DA8;
 twosuperior = uni00B2;
+"u-sinh" = uni0D8B;
+"usign-sinh" = uni0DD4;
+"uu-sinh" = uni0D8C;
+"uusign-sinh" = uni0DD6;
+"va-sinh" = uni0DC0;
 visarga = uni0D83;
+"vocalicllsign-sinh" = uni0DDF;
+"vocaliclsign-sinh" = uni0DF3;
+"vocalicrrsign-sinh" = uni0DF2;
+"vocalicrsign-sinh" = uni0DD8;
+"ya-sinh" = uni0DBA;
 zerowidthjoiner = uni200D;
 zwnj = uni200C;
 };
