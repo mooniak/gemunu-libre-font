@@ -1,0 +1,43 @@
+[
+ {
+  "family": "Gemunu Libre",
+  "commit": "14e02fb7f5ffe17e552d782903edf23a1e3b5c3f",
+  "commit_short": "14e02fb",
+  "version": "1.100",
+  "generated_at": "2026-11-12T11:03:48Z",
+  "stage": {
+   "n": 9,
+   "name": "Conjunct layer",
+   "cumulative": 100,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": true,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 72,
+   "counts": {
+    "FAIL": 7,
+    "WARN": 24,
+    "SKIP": 63,
+    "INFO": 13,
+    "PASS": 113
+   },
+   "total_checks": 220
+  },
+  "run_url": "https://github.com/mooniak/gemunu-libre-font/actions/runs/43205680852",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/gemunu-libre-font"
+ }
+]

@@ -1,0 +1,99 @@
+{
+  "id": "gemunu-libre",
+  "family": "Gemunu Libre",
+  "scripts": [
+    "Sinh",
+    "Latn"
+  ],
+  "version": "1.100",
+  "channel": "canary",
+  "commit": "14e02fb7f5ffe17e552d782903edf23a1e3b5c3f",
+  "commit_short": "14e02fb",
+  "ref_name": "dev",
+  "repository": "mooniak/gemunu-libre-font",
+  "run_url": "https://github.com/mooniak/gemunu-libre-font/actions/runs/43205680852",
+  "actor": "pathumego",
+  "generated_at": "2026-11-12T11:03:48Z",
+  "qa": {
+    "profile": "googlefonts",
+    "verdict": "fail",
+    "pass_rate": 72,
+    "counts": {
+      "FAIL": 7,
+      "WARN": 24,
+      "SKIP": 63,
+      "INFO": 13,
+      "PASS": 113
+    },
+    "total_checks": 220
+  },
+  "stage": {
+    "n": 9,
+    "name": "Conjunct layer",
+    "cumulative": 100,
+    "total": 110,
+    "gate_met": true,
+    "kernel_checkable_complete": true,
+    "kernel_complete": null,
+    "unverified_kernel_entries": [
+      "classic-conjuncts",
+      "conjunct-i-forms",
+      "ksha",
+      "rakaransaya",
+      "repaya",
+      "yansaya"
+    ]
+  },
+  "files": [
+    {
+      "path": "fonts/variable/GemunuLibreCANARY[wght].ttf",
+      "format": "ttf",
+      "bytes": 253600,
+      "sha256": "4d1d07a243ca496c48bb3e161e1c37f4b72a66aa19b08558b5ef1235a5ff64b3",
+      "style": "Light Extra",
+      "kind": "variable"
+    },
+    {
+      "path": "fonts/webfonts/GemunuLibreCANARY[wght].woff2",
+      "format": "woff2",
+      "bytes": 72372,
+      "sha256": "87a124f73dd3fd17e3d3a4e79dc8c6339b0a317f6910ebaa1d9fee8283031a8d",
+      "style": "Light Extra",
+      "kind": "variable"
+    }
+  ],
+  "proof_gate": {
+    "stage": 9,
+    "gated": true,
+    "shown": [
+      "classical-texts",
+      "conjuncts",
+      "devanagari-pangram",
+      "display-strings",
+      "indo-arabic-numerals",
+      "kern-pairs",
+      "libreoffice-ui-strings",
+      "marks",
+      "mixed-script",
+      "multiscript",
+      "numerals",
+      "ot-features",
+      "pali-and-sanskrit-words",
+      "prose",
+      "punctuation",
+      "rakar",
+      "shape-groups",
+      "signs-combinations",
+      "sinhala-alphabet",
+      "sinhala-pangram",
+      "spacing_strings",
+      "structured-texts",
+      "tamil-pangram",
+      "test-texts-stages"
+    ],
+    "withheld": [],
+    "missing_for_next": [
+      "ඏ"
+    ]
+  }
+}
