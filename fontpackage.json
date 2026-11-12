@@ -11,6 +11,7 @@
   ],
   "description": "A Unicode-compliant revival of the popular FM Gemunu typeface, with a squarish, smooth design available in seven weights from Extra Light to Extra Bold.",
   "license": "OFL-1.1",
+  "tier": "free",
   "channels": [
     "canary",
     "dev",
