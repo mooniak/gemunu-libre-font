@@ -3,7 +3,11 @@
   "id": "gemunu-libre",
   "type": "family",
   "designer": [
-    "Mooniak"
+    "Pushpananda Ekanayake",
+    "Sol Matas",
+    "Kosala Senevirathne",
+    "Pathum Egodawatta",
+    "Ayantha Randika"
   ],
   "scripts": [
     "Sinh",
@@ -33,7 +37,7 @@
   },
   "designers": [
     {
-      "name": "Pushpanada Ekanayake",
+      "name": "Pushpananda Ekanayake",
       "email": "pushpanandae@gmail.com",
       "url": "https://isiwara.lk/"
     },
