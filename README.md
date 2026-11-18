@@ -1,6 +1,24 @@
-ගැමුණු ලිබ්රේ අකුරු මුහුණත / Gamunu Libre Font
+ගැමුණු ලිබ්රේ අකුරු මුහුණත / Gemunu Libre Font
 ===================
 
+[![Build][badge-build]][link-build]
+[![Fontspector QA][badge-qa]][link-qa]
+[![Release][badge-release]][link-release]
+[![License: OFL 1.1][badge-license]][link-license]
+
+[badge-build]: https://github.com/mooniak/gemunu-libre-font/actions/workflows/build.yaml/badge.svg?branch=dev
+[badge-qa]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsrc.mooniak.com%2Fgemunu-libre-font%2Fbuild.json&query=%24.qa.pass_rate&suffix=%25&label=fontspector%20QA%20(dev%20build)&color=informational
+[badge-release]: https://img.shields.io/github/v/release/mooniak/gemunu-libre-font?label=release
+[badge-license]: https://img.shields.io/badge/license-OFL--1.1-green
+[link-build]: https://github.com/mooniak/gemunu-libre-font/actions/workflows/build.yaml
+[link-qa]: https://src.mooniak.com/gemunu-libre-font/reports/fontspector/fontspector-report.html
+[link-release]: https://github.com/mooniak/gemunu-libre-font/releases
+[link-license]: OFL.txt
+
+Gemunu Libre is the Unicode-compliant revival of the Sinhala typeface FM Gemunu by Pushpananda Ekanayake, with a matching Latin by Sol Matas. It has a squarish but smooth design and comes in seven weights from Extra Light to Extra Bold, each with the complete Sinhala script and Latin. It is led by [Mooniak](https://mooniak.com/) and published as a free font under the SIL Open Font License.
+
+![Gemunu Libre specimen](documentation/image1.png)
+![Gemunu Libre character set](documentation/image2.png)
 
 සිංහල අකුරු ඉතා රවුම් හැඩ ගනී. ඒවායෙහි කෙළින් ඉරි සහිත ස්වභාවය ඉතා අඩු ය. හැම ඉරක්ම කුමන හෝ වක්‍ර ස්වභාවයක් සහිත ය. පැරණි පුස්කොළවල ලියා ඇති සිංහල අකුරු පවා මනා රවුම් ලක්ෂණ පළ කරයි.එෆ් එම් ගැමුණු’ මෝස්තරය මීට හාත්පසින්ම වෙනස් ය. එය තනිකරම හතරැස් හැඩ සහිත අකුරු මෝස්තරයකි. බිංදුව පවා හතරැස් ය. කිසිදු රවුම් අකුරක් එහි නැත. ගැමුණු ලිබ්රේ අකුරු මුහුණත එෆ් එම් ගැමුණු මුහුණතේ යුනිකේත අනුකූල නිදහස් හා නොමිලේ ලබාදෙන නිකුතුවයි. මෙය නව web font තාක්ෂණය හරහා ඕනෑම වෙබ් අඩවියක හෝ යෙදුමක භාවිතා කරන්නට හැකි ලෙස සකස් කර ඇති අතර, නව පහ අන්තර 6 කින් (ExtraLight, Light, Regular, Medium, SemiBold, Bold, ExtraBold) සමන්විතය. මෙය ගැමුණු සඳහාම නිර්මාණය වන ලතින් හෝඩියේ අක්ෂරද සමග එළිදැක්වා ඇත.
 
